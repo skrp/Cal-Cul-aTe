@@ -1,0 +1,1205 @@
+Cal - Cul - aTe
+Fundamentals to frontiers
+
+‘A bird never soars too high
+‘If it soars with its own wings
+—Blake
+
+
+‘It is essential that such a treatise should be rid of everything superfluous
+‘This is an obstacle to the acquisition of knowledge
+
+‘It should select everything that embraces the subject and brings it to a point
+‘It must have great regard at once to clearness and conciseness
+
+‘It must aim at the embracing of theorems in general terms
+‘For the piece meal division of instruction into the more partial makes knowledge difficult to grasp
+
+‘In all these ways
+‘Euclid’s system of elements will  be found to be superior to the rest
+‘Its utility avails towards the investigation of the primordial figures
+‘Its clearness and organic perfection are secured by the progression from the more simple to the more complex
+‘By the foundation of the investigation  upon common notions
+
+Two objects aimed at in Euclid
+First: the whole subject of Geometry concerned with Cosmic Figures, the five regular solids
+Second: a means of perfecting the learner’s understanding
+
+‘Every theorem which is complete with all its parts perfect purports to gain in itself all of the following:
+‘Enunciation, setting-out, definition, construction, proof, conclusion
+—Proclus  
+
+
+‘The goal of generalization has become so fashionable that a generation of mathematicians  had become
+‘Unable to relish beauty in the particular, to enjoy the challenge of solving quantitative problems
+‘To appreciate the value of technique
+
+‘Abstract Mathematics is inbred and losing touch with reality
+
+‘Concrete mathematics, practice makes it into a disciplined set of tools, techniques have an underlying unity
+‘The emphasis is on manipulative techniques rather than on existence theorems
+—Knuth Concrete Mathematics
+
+
+
+
+Introduction
+
+Mathematics is the supreme path of intellect. 
+All other pursuits are derivative of generalized & simplified mathematical structures. 
+Once the mathematical-framework is conquered then all else kneels in submission.
+
+Mathematician seeks to assess a complex situation into a process of reduction until only independent irreducible-elements remain. 
+Next the relationships of irreducible-elements lead to theorems and basic-structures.
+The power of the art is to rebuild wild-systems into predictable-containment.
+Simplification is the greatest pursuit of the mathematician.
+
+The mathematical preprocessing allows lesser-minds to then manipulate & create constructs using primordial elements heretofore inaccessible by direct access.
+
+
+The highest intellectual-pursuit demands the greatest investment. 
+Youth-long academic training is only the pre-requisite, any is sufficient.
+30 years is the minimum age to begin the serious mathematical journey.
+Ten years are to be devoted to the fundamentals at an average struggle of 3 hour daily struggles.
+The journey must be accounted to purge self-delusion prone to solitary expeditions.
+The only resources required are books & art-supplies. 
+No mentor. No calculator.
+
+Mathematical progression is a process of hardening layers.
+Linearity, imposed by the structure of books, is unnatural to mathematics.
+
+‘Mathematicians are more highly trained and have a technical facility for thinking
+‘That partly comes from practice and partly from the use of notation
+‘For correct & rapid thought
+
+‘Natural science occupied very largely with the prevention of waste of the labour of thought
+‘Mathematics economizes our mental activity
+‘For the convenient handling of long and complicated chains of reasoning
+—Jourdain Nature of Mathematics
+
+
+Mathematics as logic, in its most useful form, is only a support to application.
+As the virtue of developed spirit commands a supportive role also.
+The salt of the earth being irreplaceable & essential.
+
+Mathematics can be taught well and learned by anyone.
+Application of a method trumps the level of the technique.
+The goal is learn techniques to process the universe by methods which explicitly is designed to reduce errors.
+
+All who continue this path will become intelligent past imagination.
+All intelligent life have walked this path yet few have the will to continue.
+
+Wisdom is only attained by the experience of application.
+Who labor will reap in proportion.
+
+There are no prerequisites. 
+All who enter are worthy.
+To remain worthy is to continue. 
+To advance is trivial. Distance from core decreases overall-usage.
+Foundations are bestest in every respect. 
+Foundations of each mathematic perspective are used in every situation.
+
+Ten years are required by all man in all ages to devote to mathematic foundations.
+Glory of the man measured in the cultivation of a plethora of perspectives.
+ 
+There is no royal road to perfect wisdom.
+Wisdom grows slowest of all existence in order to allow careful construction. 
+
+This work is an exposition of technics on applying mathematical tools to a situation.
+Calculations with no short cuts.
+
+How to solve problems. Theorems subservient to situations.
+Approach a situation from various perspectives being rooted in distinct theories.
+
+This is a math book. It contains math more than theory.
+Eulerian thought explicit upon the page.
+
+The linear progression of intellect is an academic delusion.
+Ability upon a situation ranks men of intellect.
+
+Do not enter the zoo of academia.
+Baboonish mimicry of memorized formulas. 
+Chimpanzee pushery of buttoned-calculators.
+
+Intellect is grown into wisdom by deduction which evolves into induction.
+Deduction is the work of sculpting the erroneous portions of the working set.
+This is the life from start to ten years.
+Induction is pure of errors and works to append only substance pure of errors.
+This defines the master.
+
+Knowledge is cultivated and set into wisdom by constructs of intellect.
+Mindset & toolkit are developed to approach a situation and build from it a method & mode of approach. 
+From premise grow step by step until a the solution of that perspective is reached.
+Keep the elements: well-used, few in number, irreducible.
+Build simple will be built stable. 
+
+‘An Angel came to me and said
+‘O pitiable foolish young man! O horrible! O dreadful state!
+‘Consider the hot burning dungeon though are preparing for thyself to all eternity
+‘To which thou art going in such career
+
+‘I answered
+‘Now we have seen my internal lot, shall I shew you yours?
+
+‘He laughed at my proposal 
+‘But I by force suddenly caught him in my ams & flew westerly thro the night
+‘Taking in my hand Swedenborg’s volumes sunk from the glorious clime
+‘Then leap’d into the void between Saturn & the fixed stars
+
+‘Here said I! is your lot
+‘In this space, if space it may be called
+‘Soon we saw the stable and the church & I took him to the altar and open’d the Bible
+‘And lo! It was a deep pit, into which I descended driving the Angel before me
+
+‘Soon we saw seven houses of brick, one we entered
+‘In it were a number of monkeys, baboons, & all of that species chained by the middle
+‘Grinning & snatching at one another, but withheld by the shortness of their chains
+‘They sometimes grew numerous, and then the weak were caught by the strong 
+‘And with a grinning aspect, first coupled with & then devoured
+‘By plucking off the first one limb and then another till the body was left a helpless trunk
+‘This after grinning & kissing it with seeming fondness they devoured too
+‘Here & there I saw one savorily picking the flesh off its own tail
+
+‘As the stench terribly annoyed us both we went into the mill
+
+‘So the Angel said:
+‘Thy phantasy has imposed upon me & thou oughtest to be ashamed
+
+‘I answered:
+‘We impose on one another
+‘It is but lost time to converse with you whose works are only Analytics
+—Blake Marriage of Heaven & Hell
+
+Math is a bush
+
+Tend growth at each layer of branch. 
+Foundational layers are most essential.
+
+There are various heights, but all must be checked else exist droop or breakage.
+Foundations are not tended once, and then discarded for more fruitful branches.
+Each layer is revisited from trunk to extension in full, as season permits.
+
+There is no singular pinnacle of mathematics.
+It is the resources of a solid-diverse-system that breaks down complexity.
+Unlike a tree, the deficiency in any layer of a well-groomed bush is obvious. 
+
+Proof
+’We must start from indemonstratable principles
+‘Otherwise, the steps of demonstration would be endless
+
+‘Definition in itself says nothing as to the existence of the thing defined
+‘It only requires to be understood
+— Aristotle Posterior Analytics
+Truths are built by proofs.
+Each truth must be naturalized into the mind until the process becomes intuitive.
+
+Intuition is able to construct the solution from consequents of known truths.
+
+Deductive-reasoning is basing the foundation of theory upon generally-accepted memorized formula.
+Formula memorization is the weak-link in a strong chain of reason that will arrive an intelligent mind into a false conclusion. 
+ Intuition is immune to false affirmation. 
+The destination, as is each step, is known as proven or remains unresolved. 
+Proofs are not created equal.
+Necessary & sufficient attitude of minimum effort has no place here.
+The exposition of proof is the expression of the powerful mind.
+Genius is not easily convinced but is assured by perspectives & applications.
+
+Generalized-abstraction has a role in preliminary-design and in the establishment of key-waypoints.
+Calculate-exhaustion is the distinctive trait separating the mathematician from the intellectual-poser.
+
+‘The question of numerical calculation of the limit
+‘One of great practical significance,
+‘Is usually in theoretical-considerations of very second-rate importance
+‘From a theoretical point-of-view, all modes of representation for a real number are precisely equivalent
+‘Theoretic representation of a number is the Dedekind section
+Insufficient in any practical application 
+‘The representation of a real number by a sequence 
+‘May be considered as the most general mode of representation
+Critical in both application & theory 
+- Konrad Knopp p. 79
+
+Exhaustive application, a sequence, fulfills theoretic requirements. 
+Dedekind sections are neither necessary nor sufficient; yet their simplicity make them ideal for generalization.
+
+Sterile & pathetic definitions of abstraction are poor foundations in both application & theory. 
+The universe has a tendency to pretend submission as it works chaos in nuanced subtle folds of nature. 
+
+Exhaustive application breeds humility, ever searching for the outlier.
+Abstraction breeds arrogance of the mind, proclaiming containment.
+
+proof-by-contradiction is proof maturity of mastery in the concept is unattained.
+
+Each problem will be stated several times in different perspectives.
+Each solution will be exposed entirely in different perspectives.
+
+Historic state
+
+‘Weak in courage is strong in cunning
+—Blake
+
+Modern Mathematics has been perverted by Jewish influence who have hijacked Germanic-Set-Theory & Bourbakian-abstraction. 
+The only field of production, for this traditional slave race, is upon the deserts of over-generalization. Whom evolved under masters for aeons are now entirely unsuited for independent being. 
+
+The ancient geometer nor the renaissance scientist would recognize affiliation with the modern academic.
+
+Germany was the historical champion of truth-by-exhaustion. 
+A direct intellectual descendent of the Archimedean style. 
+
+The forefathers of Knopp’s methods all predate the Jewish infiltration. 
+In this era, the 1800s, the legendary status of Germans attained its height at the global-head of mathematics, but by the early 1900s there was a sharp decline. 
+After which there were no longer masters produced from Germany.
+By 1933, a third of all mathematic professors in Germany were Jewish,  less than 1% of the population.
+
+America became damned to the same fate; unfortunately aborted before any greatness attained. 
+In the 1950s American institutions were fully infiltrated by the invasive species of jews, both in university positions and academic publishing.
+A race less than 2% of the population, secured 75% of academic publishing contracts.
+
+The most fertile application of the mind, math, now reduced to a trivial status in the academic world. 
+Memorization & mimicry in circus-performances of soul-less puppets who inherited the fate of a god-forsaken-people.
+
+Universities justify exorbitant fees with the product of ‘advanced-methods’ no other university can produce.
+Students, in each institution, are corralled like sheep into a fast-paced maze that indoctrinate a unique dance that appears esoteric & advanced. 
+Superficial treatment encodes ‘answers’, which no unaffiliate can answer. The purpose is to gate-keep via the pretended superiority of a trick-question.
+This magic-trick justifies the enormous cost of the the education.
+There is no incentive for the institution to build foundations. 
+There is only the race to jazz-hands to dazzle an audience and ultimately justify privileged placement.
+
+Abstraction is the tool of the mediocre to pretend mastery.
+Outlines are a means to an end arrived at by refined techniques which open source expertise. 
+The purpose of this book is to rebuild the path to timeless mathematics.
+Upon this journey no jew can conspire place. Here position is earned.
+
+Math textbook publications are infested with jews.
+Reviews and rankings of such publications are overrun with praises — written by jews — of jewish works. And also the echos of sheepish fools pandering for attention.
+
+ChatGPT, when asked to list the best calculus & linear-algebra books will consistently list books 80% by jewish authors. 
+I had read nearly all the books, having previously fallen for the jewish review-scam many times. Being the very reasons why I was seeking good books.
+100% of the books ChatGPT lured me in as must-haves were jewish works.
+Again I fell for the trick & now I have toilet paper too revolting to for my ass.
+ChatGPT is the most manipulative liar of any age; this generation is entirely worthy to exist under its dominion. 
+
+Scope
+Lifelong scope transmogrifies the pursuit, and its elements, into a new species.
+Upon this journey, you will return humbly to topics once believed mastered in
+childhood.
+All masters have humbled themselves to ashes & dirt.
+
+To look upon a concept with an honest assessment takes time.
+Perception of mastery is the constant deceiver. 
+
+Progression is no longer defined as a process with beginning nor end.
+Progression becomes a garden that blooms in seasons calculation and stabilizes in winters of study. Harvest of products become a necessary triviality.
+
+Elemental foundations exist in every endeavor.
+Frontier superstructures, generations from mastery, frameworks of last resort to capitulate idea. 
+
+Measure of the man
+
+  ‘Concrete Mathematics needs a cool head, a large sheet of paper, and decent handwriting
+‘Manifesto about our favorite way to do mathematics
+‘A tale of mathematical beauty & surprise
+‘Math is fun
+‘The joys & sorrows of mathematical work are reflected explicitly
+‘Capture the flavor of mathematics written by a mathematician with excellent handwriting
+‘Set Leonhard Euler’s spirit on every page
+‘Concrete mathematics is Eulerian Mathematics
+— Knuth Concrete Mathematics
+
+Noob : first year. Surveyor of fields of labor. Euler’s Elements.
+Journeyman : second & third year. Attain self-image by trial & error.
+Craftsman : fourth to eighth year. Build unique creations.
+Expert : eight to ten years. The working man worthy of Euclid’s Elements.
+Master : no peer. 10 years devout into specialized focus.
+
+Time is the unit of measure; the proof of devotion.
+Hour count by Wizard’s Abacus. 
+
+Foundational concept the daily workhorse. 
+Frontier-structures are unavoidable garnish.
+
+The work of the mathematician is to reduce a complex system into elements existing in explicit structure with explicit relations.
+Study must keep sane proportions in regard to purpose.
+
+Application is the only worth in the world. 
+Dreamers of overgeneralization accomplish nothing in this universe.
+Applicators also dream in time of rest.
+
+The measure of ability is natural to the world. 
+Peer competition can only designate a superior.
+Third-party choice of a complex system to adopt. 
+At the end of ordeal the superior mind will be plain or else peer-ship confirmed.
+
+The ultimate measure of ability is creation:
+	{white paper, book, system, analysis, spreads, graph}
+
+Each action a permanent portion of the final whole:
+	{art book, masterpiece sprawl,  exposition series, method abstract} 
+
+In order to capture the moment and eternalize the day, medium of creation:
+	{book marginalia, notebook, iPad portfolio, repository archive}
+
+Fields of Labor
+
+  ‘My kingdom is not of this world
+— jew Zeus
+
+‘The diversity, the utility, and the beauty of mathematics
+‘The range, the richness of its ideas, and the multiplicity of its aspects
+‘Mathematics a tool, a language, a map, a work of art, and an end in itself
+
+‘Those who are bold enough to tackle the more formidable subjects will gain a special reward
+‘There are few gratifications comparable to that of keeping up with a demonstration and attaining the proof
+‘It is for each man an act of creation, as if the discovery had never been made before
+‘It inculcates lofty habits of mind
+— J. Newman
+Never lose sight of homestead elysian field, plantation of diverse gardens.
+Construct mechanizations fine-tuned yet blunted by use.
+Living dependents which evolve from parasitic to symbiotic.
+
+Interests are fickle as the weather. 
+Neglect necessary to stabilization of naturalization.
+
+All effort will homogenize to the singular purpose of the complete system health.
+Failure compost as fertilizer. Overstretchs of effort product of misjudgment will become feed for livestock.
+
+Overexhaustion is the lifelong ever-present threat. Work in various departments & stages offer diversion for the diligent.
+
+Spatial distance & angles, Business systems, Financial constructs
+Traffic systems, Recipe proportions, Riddles, Games, Music, Signals
+Physics, Astronomy, Chemistry, Biology, Dynamics, Automata
+
+Mastery by calculation
+
+‘The Theory of Functions of a Real Variable
+‘Is a body of doctrine resting
+‘First upon a definite conception of the Arithmetic Continuum
+‘Which forms the field of the variable
+‘Which includes a precise arithmetic theory of the nature of a limit
+
+‘Calculus, consists essentially in the ascertainment of the existence of limits
+
+‘The object to be attained by the Theory of Functions of a Real Variable 
+‘Consists then largely in the precise formulation of necessary & sufficient conditions 
+‘For the validity of the limiting processes of Analysis 
+
+‘A necessary requisite in such formulation is a language
+‘Descriptive of particular aggregates of values of the variable
+‘This language is provided by the Theory of Sets
+‘Which contains an analysis of the peculiarities of structure & distribution
+‘In the field of the variable which such sets of points may possess
+
+‘I was led by the difficulties connected with The Theory of Fourier Series
+‘Through an attempt to understand the literature which deals with them
+‘To a study of the theories of real number
+‘Due to Cantor & Dedekind
+‘And to that of the Theory of sets of points
+‘A study of the foundations of Integral Calculus 
+‘And of the general Theory of Function of a Real Variable
+
+‘In the literature of the subject
+‘Errors are not infrequent
+‘Largely owing to the fact that 
+‘Spatial intuition affords and inadequate corrective of the theories involved
+‘And is indeed in some cases almost misleading
+
+‘The Theory of Fourier Series is exceedingly instructive
+—Hobson Preface
+
+Books are force a non-linear-state into linearity. 
+This book adds a novel technique to add layers.
+
+The entire tract of the book is reworked according to the 5 layers of measure.
+Perspective, techniques, structures and definitions will evolve with each treatment. 
+
+[ N = 10 ]
+Training must be long enough to foster and allow contemplation at each step. 
+If a step is worth understanding, then it is worth a long & careful consideration.
+
+Open a math book and you will not find math.
+This approach sets mathematical computations as the lecturer.
+
+Problems are set into long relationships that are carried until the end.
+The set of problems are curated & designed to serve as a bridge to deeper foundations.
+Layer calculation will refine the graph to truly show distinct benefit of techniques.
+Each layer will construct a problem into a intricate study. Compilation of the constructions into a unified grand whole. 
+
+Each step in this journey is towards the ultimate grand artwork.
+Each is exposed as a necessary part of a cyclopean whole.
+
+Labor is repetitive, but it is the only way to familiarize & immerse into the situation.
+Exist no royal road to a bonded relationship. 
+Work each aspect of the situation until a refined solution is polished by all applicable perspectives.
+This is the way to command dominance which will not degrade.
+Conversion of each problem, from the infinite, to be called forth ever-after to process similar portions. 
+A host of relationships to economize thought by drawing a distinct line between what is understood and what is obscure.  
+
+’For demonstration has not to do with reasoning from outside
+‘But with the reason dwelling in the soul
+—Aristotle Posterior Analytics
+
+
+
+‘Euclid, the marvel is that a book 
+‘Which was not written for schoolboys
+‘but for grown men
+
+‘Euclid once  superseded
+‘Every teacher would esteem his own work the best
+‘All that rigor and exactitude
+‘Which have so long excited the admiration of men of science
+‘Would be at an end
+‘These words would lose all definite meaning
+
+‘Until GEOMETRY, in the ancient sense
+‘Would be altogether frittered away as a particular application of Arithmetic
+
+‘Euclid’s work is one of the noblest monuments of antiquity
+‘No mathematician worthy of the name
+‘Can afford not to know Euclid
+— Heath preface1908
+
+
+
+‘On the enfeeblement of mathematical skill by Modern Mathematics 
+‘And similar soft intellectual trash in
+‘Schools & universities
+
+‘Modern comes from the Latin modo
+‘Meaning here today, gone tomorrow
+
+‘Individual wants more education
+‘Not as an aid to acquisition of wisdom
+‘But in order to get on
+
+‘We turn out from the schools a generation
+‘With the patter and no real understanding
+
+‘A serious weakness in modern mathematics
+‘Is its preoccupation with mathematical jargon and abstract mathematical structure
+‘Which foster the patter
+
+‘Three topics which inculcate jargon
+‘Set Theory, Foundation of the Real Number System, Abstract Algebra & Vector Space
+
+‘Im not learning anything
+‘Im developing cognitive skills
+
+‘Any mathematical argument 
+‘Contains so many strands of though that
+‘If we peer too closely at each 
+‘We shall lose sight of the whole fabric
+‘One of the prim purposes of notation and of manipulative techniques
+‘Is to relieve the mind of routine mechanical detail
+‘It certainly leads to an enfeebled mathematical skill
+
+‘Education, the casting of sham pearls before real swine
+‘Intellectual trash is another pig’s swill
+
+‘Mathematics may be 
+‘Pure or applied, abstract or concrete, theoretical or experimental
+‘Useful or useless, modern or traditional
+
+‘Hard mathematics involves focussing of interest and marshaling of resources for a solution
+‘Soft mathematics, the contemplation, the rearrangement, and the reinterpretation
+‘Of the general panorama of what is already solved
+
+‘Who can, do
+‘Who cant teach
+‘Who cant teach, teach teachers
+‘Those who cant, expound and what they expound is usually soft mathematics
+
+‘Incipient scholars, like uncomplaining and powerless sheep
+‘They pass through pens and paddocks of an academic syllabus 
+
+‘Only the undeviating abstract mathematician, not given to applications
+‘Would make an unqualified claim that the pursuit of abstract mathematics
+‘Strengthens one’s ability at applied mathematics and the solution of problems
+‘On the contrary, the practice of modern mathematics, no matter what the level of sophistication 
+‘Or how eminent  the practitioner 
+‘Must to some extent diminish a man’s powers to apply mathematical arguments to practical situations
+‘If you spend time and energy on abstract mathematics 
+‘You will inevitably be influenced by its essential atmosphere and by its attitudes
+‘Necessary to its successful prosecution 
+‘And you will have less time for the applications and less opportunity to fashion and hone the tools for handling them 
+
+‘Particularly in pure mathematics
+‘The much admired quality of elegance
+‘Achieved by a skillful choice of definition or starting-point
+‘Carries the built-in danger that the subject may develop along the line of least resistance
+
+‘The mathematician can usefully take note
+‘Of what the abstract mathematician is up to
+‘But too much attention is a harmful diversion of resources
+
+‘Numerical solutions to concrete problems enlarge the prospects for theoretical investigations
+
+‘Hardy was never particularly keen on applied mathematics
+‘He writes: so far points to the conclusion that, in one subject as another
+‘It is what is commonplace and dull that counts for practical life’
+‘There is much truth in this statement
+‘Certainly at the more superficial level.
+‘Hardy was a superlative pure mathematician
+‘Much of Hardy’s most beautiful work is already superseded
+
+‘Euler says: the usefulness of mathematics, commonly allowed to its elementary parts
+‘Not only does not stop in higher mathematics but in fact
+‘Is so much the greater, the further that science is developed
+
+‘Do not seek death
+‘Death will find you
+‘Seek the road which makes death a fulfillment
+
+‘Modern Mathematics consists more in an attitude of the mind than in a catalog of subject matter
+
+‘Abstract mathematics  enfeebles skill at the university level
+‘In stressing generalities, there is less insistence on the solution of particular problems
+
+‘Our age in which mathematicians are numerous and research publications so prolific
+‘Host of sandflies largely congregated into a few small patches of beach
+
+‘Present programme of in the university
+‘Linear Algebra, Quadratic forms, Derivatives & Integrals, Metric Spaces
+
+‘Physics and engineers want answers to problems
+‘And are not content with the superficial generalities
+‘That the university mathematician is rather too apt to esteem
+‘It is a very chastening experience for a university mathematician 
+‘To have to work with theoretical physicists, who are naturally very good mathematicians
+‘I know, I was once the tame mathematician in the Theoretical Physics Division
+
+‘Gross overspecialization on but a single facet of mathematics 
+‘A section of the mathematical community in universities 
+‘Is just plugged-in to the Bourbaki bandwagon
+‘Some mathematicians, having expended a modest amount of intellectual effort on Bourbaki
+‘Are loth to ditch these pasteboard orthodoxies
+‘The more often they rehearse them, the more conditioned their reflexes against applied mathematics
+‘Those who cant, expound
+‘Bourbaki exists because nobody would wish to peddle such stuff without the cloak of anonymity
+
+‘Popular method of safely achieving:
+‘One takes some well-known old-fashioned mathematical theme
+‘And translates it into the fashionable mathematical jargon of the moment
+‘It suffices if no one else has bothered with it before
+‘Abstract spaces, measure theory, categories, matroids, functional analysis
+‘And so on all offer happy hunting grounds for superficial generalizations
+‘Too much re-search , too little search
+‘Brink shiverers, the clever undergraduate finds himself faced
+‘Strike out into the world OR continuing with a research grant
+‘Same choice presents itself again on getting his doctorate a few years later
+‘He may easily shiver himself into a university appointment
+‘There I son more guaranteed recipe for the production of tame theses 
+‘Than to have as your supervisor an authoritarian professor, who was a brink-shiverer in his younger days 
+‘Never himself capable of anything more than a cautious thesis composed of unexceptional generalizations
+‘It is a pity that the Ph.D has become a union ticket for university appointments
+‘The RAT-race promotion by weight of publication rather than content is an unhappy Modern development
+—Hammersley 1968
+
+Space
+
+Mathematics is the science of applying measurement to a system which may be created entirely unrelated to measure. 
+Foremost, for the application of mathematic theory, is to test the space given by circumstance. 
+Space given to the circumstances are the following:
+	{continuous, monotone, inverse, fragmented, spotty, corrupted}
+
+Gratefully, most spaces in nature are continuous. 
+If you apply layers of more-precise microscopes to any space, what will be found is continuity.
+
+Unfortunately, when man simplifies experience into thought to create a framework — he maps continuous infinite space into a discrete finite space.
+Man is limited by thought to discrete finite space; 
+
+‘Man takes portions of existence and fancies that the whole
+—Blake
+The superior mind of the mathematician is often commissioned to analyze frameworks built by lesser minds.
+The mathematician must first typify the space before any technique can be applied.
+
+The seasoned mathematician has various numerical systems based upon each type of space:
+	{theory, elements, structure, operators, manipulations, equations}
+
+Increase Monotone Space:
+	If  [ e < g ]
+	Then  [ f(e) < f(g) ]
+	Therefore the space is strictly increasing. 
+Exists Decrease Monotone space.
+
+Inverse Space:
+	If  [the space is strictly monotone]
+	If  [the mapping of the input to output is One-to-One]
+	Then exists Inverse Space for which 
+		If  [f(e) = k]
+		Then  [g(k) = e]
+
+Determinate Space
+
+‘The modern extension of the notion of number
+‘To the case of irrational numbers
+‘Is a sophistical attempt to obliterate
+‘The fundamental distinction between the discrete and the continuous
+—Hobson Preface
+There exist no irrational, imaginary, nor infinities.
+
+Mathematics is the science of measure. 
+To measure there first must exist a unit.
+A unit then imposes a logical scale of a specific depth.
+
+Square-root-of-two, pi, e and all other numbers will exist as unique discrete points in space.
+There do not exist an infinite amount of possible numbers between any two points. In a system grounded by scale, there is a finite distance between any two points.
+
+The square root of negative one is proof that there is no solution.
+
+Modern Mathematic Posers have inbred into irrational & infinite lunacy due to their fear of calculating to scale. The handicap of algorithms further crippled intelligence. Herding dependence evolved from logarithms.
+
+
+’Whatever is capable of increase or diminution is called a magnitude
+‘Different kinds of magnitude … is the origin of the different branches of Mathematics
+‘Each being employed on a particular kind of magnitude
+
+‘We cannot determine any quantity, except by
+‘Considering some other quantity of the same kind as known
+‘And pointing out their mutual relation
+
+‘The measure of magnitude of all kinds, is reduced to this:
+‘Fix at pleasure upon any one known magnitude of the same species
+‘With that which is to be determined
+‘Consider it as the unity
+‘Then determine the proportion of the proposed magnitude to this known measure
+
+‘From this it appears that all magnitudes may be expressed by numbers
+‘The foundation of all the Mathematical Sciences must be laid 
+‘In a complete treatise on the science of Numbers 
+‘And in an accurate examination of the different possible methods of calculation
+— Euler 1765
+
+Mathematics is the science of magnitude. 
+Establish science by irreducible axioms to contain sanity midst the lunatic-meandering required by rigorous pursuit of mathematics.
+Hobson epitomizes the sickness set in academia. 
+Lack of distinct progress, due to jewish-abstraction, has turned the man back, like a dog unto vomit.
+Deep & long-pondered thoughts are necessary but not sufficient to produce truth.
+This veil, a product of long debates, is a veneer of sophistication.
+Fundamental rigor unmasks the truth: this path leads to a contradiction to the nature of the science.
+Crown of idiocy: Infinite ordered aggregates have parts with the same ordinal number as the whole.
+Euclid common notion 5: The whole is greater than any part.
+
+‘Ordinal number is 
+‘Characteristic of al class of similar-ordered-aggregates
+
+‘A finite ordered aggregate is not similar to any part of itself
+
+‘A simply infinite ascending aggregate is an ordered aggregate 
+‘which has no element of higher rank than all the others
+
+‘Every part which has an element of higher rank thank all the other elements
+‘Is a finite ordered aggregate
+
+‘There exists no highest ordinal number
+
+‘The terms greater and less
+‘Are borrowed from the language  primarily applicable to the description of magnitudes
+‘But in pure analysis 
+‘Greater and less, are used only in the sense in which they
+‘Indicate higher or lower rank
+‘This rank has no necessary  reference to relations of magnitude or measurable-quantity
+
+‘The last of the ordinal numbers employed in counting a finite aggregate
+‘Is the ordinal number
+
+‘Infinite ordered aggregates have parts which are similar to the whole
+‘This property is sometimes the basis of the definition of an infinite aggregate
+—Hobson p.4-7 
+
+
+Limit
+
+‘The object to be attained by the theory of functions of a real variable
+‘Consists then largely in the precise formulation of necessary and sufficient conditions 
+‘For the validity of the limiting processes of Analysis
+—Hobson Preface
+
+Limits underlie all the advanced processes of mathematics since ancient times. 
+Arrogance alone can lead a mathematician to esteem limits as conquered into triviality.
+
+‘Notion of a limit
+‘Regarded as intuitively clear
+— Lang (FAIL)
+
+‘The concept of a limit is surely the most important 
+‘And probably the most difficult  one in all of Calculus
+—Spivak p.90
+
+‘Limits are the backbone of Calculus 
+‘The most subtle topic in all of mathematics 
+—Herbert Gross 
+
+Limiting processes approach the limit of the scope unique to the unit of space given by circumstance.
+Scale of the unit & choice of technique, under discretion of the mathematician,  establish possible boundary able to satisfy tolerance set by circumstance of the quest. 
+
+There are 6 motions of input which approach a given point:
+Approach a distinct number 
+Approach a distinct number, but only from the LEFT
+Approach a distinct number, but only from the RIGHT
+Unbound to positive infinity
+Unbound to negative infinity
+Indefinite divergence 
+
+Limits are understood first by the tabulation of values and then confirmed by graph construction.
+Tabulation are a result of the calculations of sequences which approach given input.
+Epsilon & Deltas are then calculated 
+Last the points of the table are plotted onto the graph to show the nature of the approach.
+
+Hole: A limit describes the approach to a designated output, by certain inputs. 
+Thus a limit only requires a function to be within a designated Epsilon relation to an input Delta — the function may never be defined at the designated output. Holes are entirely valid to coexist consistently in the existence of limits.
+This acceptance of logically-consistent Holes allows limits to frame non-numeric entities called irrationals. 
+Theoretically limits are irrelevant, but in application limits are the major perspective which to obtain the form of the irrational in relation to the situation.
+
+The ability of limits to be operated on, exactly as other numbers, therefore, allows non-numeric irrationals to exist as numbers in the situation:
+	{ add, subtract, scale, multiply, denominate, divide }
+
+Rules for differentiation are the operations & theorems consequent of the difference equation:
+	LIM[Dx —> inf]   [f(x + Dx) — f(x)] / [Dx]
+All the differential theorems built atop the Theory of Limits.
+Yet the chicken comes before the egg. Limits are too subtle to be tackled first. Familiarity gained by technical practice of the operations of the Theory of Differentials build the requisite comprehension to uncover the subtle vital nature of the Limit.
+
+Diety
+
+Gods of this religion: Euclid, Euler, Archimedes, Boole.
+
+Euclid it the god of reason. 
+Axiomatic construction of geometry from given to consequent. 
+The Elements must be studied life-long. 
+
+Euler is the god of arithmetic-exhaustion.
+Elements of Algebra, Analysis of the Infinite, Differential Calculus, Integral Calculus.
+These works were built after wisdom to highlight what still retained his expert curiosity.
+
+Archimedes is the god of exhaustion. 
+His works are the origin of herculean ventures. 
+Know what you have mastered. 
+By sheer volume of those simple techniques, arrive to any conclusion.
+Approximate error of the result.
+
+Boole is the god of individuality.
+Self-taught in all his avenues of thought.
+Restructure mathematic thought by power of self mastery.
+Humble great institutions into a open-eyed student.
+
+Ritual
+
+Daily worship to wrangle the 3 hour average can only be attained by obsession. 
+This religion is the most ancient. Its gods are real men. Its powers are unfathomable.
+
+Linen, wool & silk offer comforts for the long delves into study.
+Your soul in commit to a journey. Outfit is the outward expression of dedication to diligence. Respect of appearance has internal & external ramifications.
+Solitary plunges into the works of the dead will summon spirits of the departed to impart truths to the modern acolyte. 
+In order for the spirits to engage there must be no doubt as to the resolve. 
+Presence of vibe must be cultivated to command devotion of the dead. 
+
+Bronze basin of ashes leveled. Resin, sage, sandalwood, palo-santo, & other ground into powder. Incense in the basin begins the study.
+
+A sacred cup and thermos of coffee / tea. 
+A plate of treats to invigorate the mind.
+
+Light & sound are also set to a cohesive ambience to foster spiritual resolve.
+Together the mind & the body & the spirit all united for the singular purpose of intellectual perfection.
+
+Wizard’s Abacus 
+
+Set as a relic necklace. The device embodies time devoted upon path.
+What is gained is not lost. 
+Only resilience will produce a true sorcerer of mathematical mysteries. 
+This artifact will become the most precious treasure. 
+It represents what has been accomplished and it contains a discrete growth for hope.
+
+The abacus is not meant to be undone. 
+Four types of beads. 
+
+1 hour beads: 10
+Clip spacer to distinguish done from undone.
+10 hour beads: 10
+Twine tie to separate done from undone.
+100 hour beads: 10
+Copper wire delimiter.
+1000 hour beads:10
+Permanent silver delimiter installed after achievement.
+
+40 beads complete 11,110 hours. 
+
+State is public. Wear it proud.
+
+Altar
+
+Massive standing desk. Gradated foam mat to keep stance dynamic. 
+Long hours are best engaged standing.
+ 
+Stack of books. The older the books the better. Do not acquire library too quickly. Age & experience are the only untainted sources to base investments. Fewer books keep focus sharp. Libraries exist to enrich diversity.
+
+Crystal ball is your constant companion. Show it the measure of your soul. Years will create a magical bond until what looks back is saturated in reverence for your dedication.
+
+Large paper allow for a grand calculations. Ink, nibs, pens, markers, straight-edge, compass.
+
+Sand/dirt consecrated into a vase. Pour in a circle to begin  daily commitment.
+
+Cultivate an environment which is able to uplift the soul from its daily cares into a transcendental state above all other worry. 
+Keep the space sacred for solitude. 
+
+Mathematics is the primordial religion. 
+Eldest of gods being most powerful.
+Few ever worthy to serve the greatest.
+
+By superior reason of natural continuity conquer minds who bow unto inferior demonic constructs of VICE.
+
+Each demanded to build thou bible of works.
+Each required to preach to all life by words, by symbols, by constructs.
+
+Holy Spirit of epiphany god grants unto all life as light proof supreme truth.
+Mankind trivial speck where loom cyclopean temple.
+Work thy humble arts upon face which outlast aeons and transcend universes.
+Labor of all ages; gaussian babe unto archimedean corpse unto pythagorean spirit.
+
+Haunt this universe which tends to idiocy. 
+Damn the pharisee posterity into null by vicar invocation to whom the future deem worthy summon.
+Foundations
+
+’  gladly avail myself of the opportunity  of inscribing to you,
+‘For a second time, a work of mine on Algebra,
+‘As a sincere tribute of my respect, affection and gratitude
+…
+‘I continue to devote some portion of the leisure at my command,
+‘To the completion of an extensive Treatise,
+‘Embracing the more important departments of Analysis
+‘The execution of which I have long contemplated
+
+‘I have separated arithmetical from algebra
+‘I have devoted the present volume entirely 
+‘To the exposition f the principles of arithmetic
+‘Application to the theory of numbers and of arithmetical processes
+
+‘To obviate the confusion, obscurity, and false reasoning which thence arises
+‘A short statement of the distinct and proper provinces of these two sciences
+‘Arithmetic & Algebra, will make this difficulty sufficiently manifest.
+
+‘Numbers and the operations… in their ordinary meaning only
+We must suppose the numbers to be quantities of the same kind
+When a first number is reduced by a second number
+We must suppose the first number be greater than the second number
+‘Therefore homogeneous  with it
+
+‘Numerical fractions which have NOT a common denominator, are NOT homogenous
+‘And are incapable of addition and subtraction
+
+Homogenous subtraction
+Homogenous division
+
+‘Abstract numbers: all results whatsoever, including negative quantities
+‘Which are not strictly deducible as legitimate conclusions
+‘From the definitions of the several operations,
+‘Must be rejected as impossible, or as foreign to Arithmetic
+
+‘The permanence of forms, constitutes the great and fundamental principle of Algebra
+‘An extension to our notion of number
+‘The generalizations of Algebra are the generalizations of reasoning
+‘And not of form
+
+‘Algebra adopts the rules of Arithmetic
+‘But removes altogether the restrictions  
+Of homogeneity
+
+‘Upon this principle we shall be enabled to give a consistent interpretation
+
+‘A student who is not only familiar with the results of Arithmetic
+‘But likewise with the limitations it imposes
+‘Will be in a condition to comprehend and appreciate
+‘The whole extent of the legitimate conclusions which it furnishes
+
+‘Acquire the habit of observing not merely what is within
+‘But what is without the just and proper boundaries of the science
+
+‘He will be thus enabled to appreciate at once the origin and the full extent
+‘Of the principle of the permanence of equivalent forms.
+
+— George Peacock 1842
+
+Denomination
+
+Habitualization of fractions has trivialized the nuanced theory for the sake of concise treatment necessary for the memorized mimicry of Modern Math.
+
+A fraction represents a ratio of the numerator by the denominator.
+The denominator is theoretically distinct from the numerator. 
+Numerator acts as a general number whose unit is the denominator.
+Denominator is a number encapsulated by the concept of a base scale.
+
+Denomination of scale. 
+Space in consideration is unique to the denomination. 
+
+Denominators of different scale PRODUCE numerators entirely unrelated.
+Numerator of scale 1 NONCOMESURATE to a numerator os scale 10.
+Different scale of space produces different numerators.
+
+Denominate by zero.
+Space can NOT be scaled by zero. 
+Unit of scale changed to zero means nothing. 
+
+How many parts of magnitude zero can a quantity be? Nonsense.
+Measure the quantity of an item using a ruler that by definition does not exist. Nonsense.
+
+Zero is not a number. It is a statement that nothing exists.
+Hence any number can serve to denominate space.
+0 = NULL
+
+A fraction is the operation of division, contained by sanity, only valid within the principle of homogenous space.
+
+’The whole of higher analysis may be regarded as a field for the application of Infinite Series
+‘For all limiting processes — including differentiation & integration — 
+‘Are based on the investigation of Infinite Sequences  or of Infinite Series
+
+‘My aim  is to give a comprehensive account of all the investigations of higher analysis
+‘In which Infinite Series are chief objects of interest
+‘To start at the very beginning  and lead on to the extensive frontiers of present day research 
+‘Without in the least abandoning exactness
+‘With the object of providing the student with a convenient introduction
+‘And of giving him an idea of its rich & fascinating variety
+
+‘I have taken pains to put practical  applications in the forefront
+‘And to leave mere playing with theoretical niceties alone
+
+‘The foundation on which the structure of higher analysis rests is the Theory of Real Numbers
+‘Calculus, the men who developed it, of who Euler is chief
+‘Too intoxicated by the mighty stream of learning springing from the newly-discovered sources
+‘To feel obliged to criticize fundamentals.
+
+‘Critical analysis ventured to examine the fundamental conceptions
+‘Chiefly owing to the powerful influence of Gauss.
+‘Nearly a century had to pass, however, before the most essential matters could be considered thoroughly cleared up
+
+‘Nowadays rigor in connection with the underlying number concept is the most important	requirement
+‘In the treatment of any mathematical subject
+‘The last word on the matter has been uttered
+‘—by Weierstrass in 1860s, and by Cantor & Dedekind in 1872
+
+‘No lecture or treatise dealing with fundamental parts of higher analysis
+‘Can claim validity unless it takes the refined concept of the real number as its starting point
+
+‘Theory of Infinite Series would be up in the clouds throughout 
+‘If it were not firmly based upon the system of real numbers
+
+- Konrad Knopp 1921
+Set, Sequence & Series
+
+Set: is a group of unordered-numbers.
+	S = { 3, 34, 22/7, .66666, 2.718, … }
+Sequence: is a set of ordered-numbers. Elements of the set are mapped into a natural progression 1, 2, …, N. 
+	A[0] = 1.4
+	A[1] = 1.41
+	A[2] = 1.414
+Series: is a set of ordered-numbers connected by addition. A series is a sequence with each term added into a singular whole magnitude. 
+	B[0] + B[1] + B[2] + … + B[N]
+
+Cal Cul aTe requires no calculator nor table of values. 
+Series allows advanced mathematics to be not only understood, but the calculations give a foundation unaccessible to theoretical approaches. 
+Rigor & abstracted-generalizations are up in the clouds until firmly grounded by discrete calculations. Both their role is to orient & simplify the implementation. 
+
+Modern Mathematics is dependent upon truncated tables accessed by calculators. 
+For the Modern Mathematician has deluded himself to believe that symbolic representation of the permanence of forms is sufficient, hands-on-work.
+Blackbox processing thru calculators & computers are the handicaps of the intellectual poser.
+
+Series is the limiting process of the practical mathematician which opens the field of study traditionally only accessible to the intellectual-poser. 
+Series uniquely grounds a solution by discrete perfection, with all error explicit.
+
+Least Common Denominator
+
+The heart of Sequences & Series is the homogenized denomination.
+Two quantities MUST be homogenized before comparison, before arithmetic operation.
+
+Compare 3.14 & 22/7
+Neither the numerical-representation nor the denomination is homogenized.
+
+When a Sequence is listed the numbers must be homogenized first.
+Order is unknown. Nor is it known wether the sequence of numbers expresses tendency (This is the central question of Sequences).
+Homogenization is by setting a Least Common Denominator for the entire set and then adjusting each numerator.
+
+This paragraph is entirely inherited by Series. 
+In order to add a sequence of numbers, there must be a universal denominator with adjusted numerators.
+
+Be aware, mathematics is the most difficult of intellectual paths.
+Be aware, Cal Cal aTe is the most difficult & exact of mathematical paths.
+Homogenization of a sequence is the most labor-intensive efforts in mathematics.
+
+General Method of Homogenization:
+1) Progress from first to next, then result to next, until last
+2) Prime factorize both numbers in the denominator
+3) Join all factors, but only the highest powers of each to obtain LCD
+4) for each denominator, remove all factors in common to the LCD, then multiply the numerator by this number, homogenization is obtained.
+5) Now a sequence can be compared and a series can be summed.
+
+3/8
+	8 = 2*2*2
+5/14
+	14 = 2*7
+LCM = 2*2*2*7
+3/8 = 21/56
+5/14 = 20/56
+5/14 < 3/8
+5/14 + 3/8 = 41/56
+
+Euler’s Utmost Subjects
+Fractal Invariance, Infinite Fractions, Negative Space, Transpositions, Imaginary
+
+
+
+’It is evident therefore how essential it is, in all problems
+‘To consider the circumstances of the question attentively
+‘In order to deduce from it an equation that shall express by letters the numbers sought
+‘The whole art consists in resolving those equations
+‘Or deriving from them the values of the unknown numbers
+
+‘We must remark, in the first place, the diversity which subsists amount the questions
+’In some, we seek only for one unknown quantity
+‘In others, we have to find two or more
+‘It is to be observed, with regard to this last case
+‘In order to determine them all, 
+‘We must deduce from the circumstances, or the conditions of the problem
+‘As many equations as there are unknown quantities
+
+‘An equation consists of two parts separated by the sign of equality ‘=‘
+‘We are often obliged to perform a great number of transformations on those two parts
+‘In order to deduce from them the value of the unknown quantity
+‘These transformations must be all founded on the following principles 
+‘Two qualities remain equal whether we add to them, or subtract from them , equal quantities
+‘Whether we multiply them or divide them, by the same number
+‘Whether we raise them both to the same power, or extract their roots of the same degree
+‘Lastly, whether we take the logarithms of those quantities
+— Euler 1765  
+
+Delta Epsilon
+
+Epsilon is the output tolerance required by the situation.
+Delta is the required input precision consequent of the epsilon.
+
+This relationship is the chicken first next the egg.
+The situation requires a specific result.
+Each function is unique. Only trial will determine an appropriate delta which calculates to be acceptable within the parameters of the epsilon.
+
+There is no algorithmic way to find a general solution to create a closed-form relationship which given an epsilon, will then immediately produce a delta. 
+An algorithm must be created for each function.
+
+Continuity
+
+Continuous space is the ultimate ideal which supports any measure of refinement.
+Continuous space will produce any degree of Epsilon & Delta relationship.
+Existence without gaps in which irrationals behave equal to numerics.
+Exists an infinite set of points between any two points.
+
+Continuous space is the type of space of the natural world.
+Discrete space is the type of space of the limited mind.
+No man may produce continuous space. 
+
+The mathematician analyses continuous space of the natural world OR the discrete products of the minds of other men, BUT can only output discrete space.
+
+There are many techniques to allow man to work to high accuracy in continuous space.
+Continuity is limited to a point. 
+Continuity is limited to an interval.
+
+Analysis exclusively involves behavior at interesting sectors of space which enables the mathematician to mimic continuity by refinement at specific sectors set into intervals. 
+
+Continuity of sequence, if for every sequence of input in the interval exist corresponding outputs which tend to the limit. 
+ISSUE: sequences exist in whole space, not continuous space.
+Continuous Interval if at every chosen point of input exists a functional output.
+
+Continuous closed-intervals empower very important theorems
+	{Intermediate Value Theorem, Uniform Continuity, Inverse Existence }
+
+
+Uniform Continuity
+
+Output of a function may vary, but the distance between outputs is bound to the distance of inputs.
+An invariant Delta exists in the function space for all inputs in the interval, which will produce any desired Epsilon. 
+For any two different points, (e,g) in a uniform continuous interval of inputs:
+	If ( |e — g| < Delta ) 
+	Then ( |f(g) — f(e)| < Epsilon )
+	Therefore the space is uniformly continuous.
+
+Uniform Continuous Space: 
+	y = mx + b
+
+Non-uniform Space
+	[1 / x]
+
+Contents
+
+Arithmetic
+Prime Factorization, must exist a prime divisor less than the square root of the number.
+GCD, BeZout, LCM 
+Fractions: most important department of Arithmetic
+Proportion
+Base
+Power
+Root
+Fractional Exponents Equality, Systems of Equality 
+Inequality & Distance & delta-epsilon
+Conditional Inequality
+Double & Triple Inequality
+Parametric Representation 
+Incommensurable
+Permutation
+Binomial Structure
+Compounds, Quadratic, Cubes
+Log
+Polynomial Division
+Infinite Series
+Continued Fraction
+Difference, Arithmetic Proportion & Arithmetic Progression
+Geometric Proportion & Progression
+Calculation of Interest & e
+First Degree Equations
+Quadratic Equations
+Cubic Equations
+Fourth Degree
+Geometry & Numerics
+Space {Natural, Integral, Fractal, Continuous, Polar, Inequality, Inverse}
+Numeric {Integer, Fraction, Irrational, Imaginary, Logarithmic, Decimal, Segisesimal, Rad}
+Geometry { points, lines, body, sets, angles, triangles, parallelogram, polygon, circle, irrational }
+Lines { slope, perpendicular, projection, systems, vector, matrix, dot, determinant, reduction, bezout}
+1/x irrational
+Logarithm & Exponential
+Curves { compounds, roots, quadratic, cubic, conics, hyperbola
+Periodic { trig, polar, imaginar, modulus-congruence }
+Convergence { traversal(cauchy product), null, nest, mesh, set-section, conditional, absolute }
+Limit {graphical-approach, sequence-table, sets, series, interval, sets }
+Finite Differences
+Rates of Change { diff-quotient, product, reciprocal, chain} [t^2 falling body]
+Continuity { interval, hood
+Analysis { bounds, intermediate-value, mean-value, extrema }
+Integration { Riemann, part, substitution, improper } 
+
+Tools: add, sub, mul, div, greater, less, distance, gcd, lcm, decimal, (n:r), factorial, arith-progression, geom-progression
+Structures: compounds, polynomial, set, sequence, series, continued fraction
+Geometry Tools { perimeter, area, volume, surface, tangent, perpendicular, bisect, circumscribe, triangulation, sector, ratio, congruence, transformation}
+
+Cal Cul aTe bases its techniques on the germanic methods of the 1800s, which are summarized, modernized & translated in Knopp.
+I endeavor to prune his work on series to extract only which serves to construct the foundations of Cal Cal aTe.
+Hobson, predating Knopp, yet whose work involves a deeper layer of sophistication.
+Yet Hobson, is saturated with false reasoning inherited by the decay of reason which took root in the 1900s.
+
+First & strongest is Series [warrior]. 
+Next, but more general & powerful, is Sets [wizard]. 
+
+Calculus Foundation:
+mapping, one to one, set to subset, subset to set, subset to subset
+Function
+Bounds, well-order, upper & lower bounds
+Limits: Sequence, Approach, Bounds, 6 Motions, Hole
+
+Knopp progression:
+Define : sequence, bounded-sequence & null-sequence
+Theorem: comparison-test, null*bounded = null
+Subsequence, section, re-arrange, alteration, bounds
+Addition, subtraction, multiplication, non-division, reciprocal 
+Nests to solve: powers, roots
+If a > 1 then any root is greater than 1
+If a < 1 then [a < any root < 1]
+If a > 0 then [any root of a] — 1 -> NULL
+If a > 0 then [any fractal-exponent of a] — 1 -> NULL
+Base to an exponent being a nest, base raised to a nest
+Log: a base to different exponents is monotone. Raise base to lower-bound nest exponent < a < raise base to upper-bound nest exponent.
+[ 1/(long n) ] is NULL 
+Trig is brushed over
+Special null sequences (choose formulas required to build in the future)
+
