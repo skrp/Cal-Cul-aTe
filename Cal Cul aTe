@@ -1053,52 +1053,54 @@ The "necessary & sufficient" attitude of minimum effort, the despicable fault wh
 ‘Enunciation, setting-out, definition, construction, proof, conclusion
 —Proclus  
 Nature of the Sciences of Mathematics
-Mathematics is a forest.
 
 	ARITHMETIC
-	Arithmetic is the soil from which all is grown. All trees rest upon foundations of Arithmetic.
+	Arithmetic is the bedrock foundation of all mathematic science. 
 
-	Axiom of Arithmetic is the existence of ordered numbers in a space. These numbers exist and do not require generation. Each number space has its own peculiarities & noncomeasurables. 
+	Axiom of Arithmetic: existence of ordered-numbers in any Arithmetic Space.	
 
-	Nature of Arithmetic is to establish a foundation which remains immutable.
+	Nature of Arithmetic is to ESTABLISH an immutable foundation, UPON which many other sciences can find solid construction.
 
-	Aim of Arithmetic is to establish continuity of the universe in the realm of numbers.
+	Aim of Arithmetic is to ESTABLISH the continuity property found in the universe INTO the realm of numbers.
 
 	MEASURE
-	Measure is the science dedicated verify sane behavior of application space under decomposition of the continuum.
+	Measure is the science dedicated to verify sane behavior of Application-Space under decomposition of the continuum.
+	Measure is the analysis of Deduplication of points & Replication-of-loss of points -- in the process of boundless subdivision.
 
-	Axiom of Measure: Always exist a infinite sequence of points around each point. No point can be isolated from the surrounding Hood of points. Intervals are used to infinitely reduce the space. of Hood enclosure.
-	Axiom of Measure: endpoints of the interval are distinct from internal points. Exist a left-Hood from the least endpoint. Exist a right-Hood from the greatest endpoint. All other Hoods are irrelevant.
+	Axiom of Measure: endpoints of the interval are distinct from internal points, due to the nature of Hoods. Hoods only become consequential when a point inside is set as an endpoint. 
+	Exist a Left-Hood from the least-endpoint. Exist a Right-Hood from the greatest endpoint.
 
-	Intervals create two conclusive results: minimum-space required & maximum-space possible.
-	Nature of Measure is to approach an agreement of minimum & maximum space to a single result of a direct measure of the space. 
+	Decomposition of space create two conclusive results: minimum-space required due to Loss & maximum-space possible due to Duplication.
+	Nature of Measure is to approach an agreement of minimum & maximum space to a conclusive result, of a direct measure of the space. 
 
-	Aim of Measure is to BRIDGE the processes built in ideal number space TO its translations in application space.
+	Aim of Measure is to BRIDGE the processes built in ideal Number Space TO its translations in Application Space in a controlled manner customized to the characteristics of Application Space.
+	Measure is an advanced science. Mathematics upon ideal Number Space must be entirely mastered preliminary to adaptations of Application Space.
 
-	Capstone of Measure is to VERIFY, by mesh, the limit of sane behavior of application space TO attain the quantity of magnitude in all possible ventures.
+	Capstone of Measure is to VERIFY, by mesh, the limit of sane behavior of Application Space TO attain the quantity of magnitude, measure, in all possible ventures.
 
 	ALGEBRA
-	Algebra is the science of establishing closed and complete relations in the form of equations.
+	Algebra is the science of establishing closed and complete relations in the form of pointwise equations.
 
-	Axioms of Algebra is that the equality of statements is absolute.
+	Axioms of Algebra: equality of statements is absolute.
 
-	Nature of Algebra uses equality to manipulate statements to establish a chain of calculation which culminate into a theorem, this theorem supports a greater framework.
+	Nature of Algebra uses equality to manipulate statements to establish a perspective-driven chain-of-calculation which culminate into a theorem, this theorem supports a greater framework.
 
-	Aim of Algebra is TO establish static directly-conclusive calculable formula FROM complex dynamics observed in the universe. 
+	Aim of Algebra is TO establish static, directly-conclusive, calculable formula FROM complex dynamics observed in the universe. 
 
-	Capstone skillset is to REDUCE recurrence observed as a pattern built from pervious states INTO a simple formula independent of previous states.
+	Capstone skillset is to REDUCE recurrence observed -- a pattern built from pervious states INTO a simple formula independent of previous states.
 
 	UNDISTINCT
 	Undistinct science cages the unknowable into restricted enclosure.
-	Axioms of Undistinct: parameterize unknown into space bounded by knowns.
-	Nature of Undistinct science. This establishes 
+
+	Axioms of Undistinct: parameterize space of the unknown --  bounded by knowns.
+	Nature of Undistinct science is to distinguish partitions of space as being known-unrelated OR unknown-related. 
 	Aim of Undistinct. To approach an agreement of parameters which bound an unknown which will assign a distinct solution to a specific situation.
-	Capstone of Undistinct science is to enhance the scientific frameworks of known & distinct solutions, with the bond of undistinct structures which are framed by known & distinct parameters. 
+	Capstone of Undistinct science is to enhance the scientific frameworks of known & distinct solutions, with the bond of the more general Undistinct structures which are framed by known & distinct parameters. 
 	
 	INFINITORUM
 	Inifinitorum is the science of the analysis of infinite processes of the continuum.
 
-	Axiom of Infinitorum is that space is directional continuum which is populated without gaps by numbers; such that between any two numbers exists an infinite sequence of numbers all greater than the one and less than the other.
+	Axiom of Infinitorum is that space is a directional continuum which is populated without gaps by numbers; such that between any two numbers exists an infinite sequence of numbers all greater than the one and less than the other.
 
 	Nature of the Infinitorum uses the directional progression of number space to establish two properties: Divergence & Convergence.
 	Divergence grows boundless; after any number may exist another number according to the space of application.
@@ -1113,24 +1115,30 @@ Mathematics is a forest.
 
 
 Arithmetic Space
+Axiom of Interval Continuity: between any two points exist an infinite sequence of points defined by the endpoints of an interval.
+	Axiom of Global Continuity: A point has no space, thus a point can NOT be isolated from surrounding interval, being Hood of points. The Hood, interval, may be reduced in space but it can only ever remain an infinite sequence of points OR be nullified. No reduction of the Hood can attain single-point-isolation.
+
+	All spaces which fulfill the requirements of Arithmetic is a Number Space. 
+Each Number Space has its own peculiarities & noncomeasurables relations to other spaces.
+
 The arithmetic axioms
-	Unity
-	Operations, traverse the space (closure)
-	Add-identity (0, -x +x)
-	Mult-identity
-	Add-Association
-	Add-Communion
-	Mult-Association
-	Mult-Communion
-	Mult-Distribution
+	Unity: Every system is denominated by a global unit value.
+	Arithmetic operations traverse the space. (closure)
+	Add-identity (0, -x +x) A + B - B = A
+	Mult-identity All numbers are implicitly denominated by the unit value A/B = A/B, A(B/B) = A(1) = A/B.  A(B(B)/B) = A(B)/B
+	Distance	
 	Add-Inverse
-	Mult-Inverse
-	
+	Mult-Inverse	
+	Coherence: math exists developed. 1/x is not coherent. functions must not violate coherence.
 	Order
 	Inequality
-	
-	
 
+	Add-Association notational
+	Add-Communion order
+	Mult-Association, notational 
+	Mult-Communion order
+	Mult-Distribution notational
+	
 Arithmetic operations:
 	(a + b)  Addition— to increment a number by another number.
 	(a — b) Subtraction— is to decrement a number by another number. 
@@ -1140,9 +1148,10 @@ Arithmetic operations:
 Mathematics need consist of these 4 operations.
 IF you are not working in the operations of arithmetic THEN you are not doing math.
 
-
-points in space.
-Numbers exist as an unbound universe independent of the operation.
+	Measure does not create a number. Numbers exist independent of the processes of mathematics. A process may generate a sequence of numbers, but it never generates the numbers; such would mean that numbers exist only relational to the process. 
+1.414 is an element of many different procedures, and thus exists independent from any process which demands the existence of the element.
+Nature of all systems is that the laws are de-localized of the particular-instance; into a general mutual existence. 
+To establish a system is to disallow the localized perspective that numbers do not exist until generated locally.
 16 is not created by 42. 16 is identified in various ways: by 24, 15+1, 17—1, sequence of even numbers … 
 
 Arithmetic operations arrive at base-10 numbers, but the approach does not create the number.
@@ -1152,46 +1161,58 @@ Exist two types of unbounded direction to Space:
 	Convergent: the endless approach in direction towards a bound.
 	Divergent: direction of unbounded positive/negative growth.
 
-Each arithmetic operation builds a unique space with the peculiarities generated by the foundational nature of the operation.
+Each arithmetic operation builds a unique space with the peculiarities generated by the foundational nature of the operation. 
+Numbers axiomatic existence; property of the numbers are dependent on the space in which the number resides.
 
 Natural Space of Addition
 Positive space is the natural space of the Universe.
 Only positive measure & magnitude exist in the Universe.
-
-
 Addition is the operation to measure the accumulation of magnitude.
 
+Space of Addition is a localized space, and not a space of systems.
+Local: exist a pile of pebbles which you count. exist a space of trees which you count. 
+These actions can never be related unless other spaces exist.
+System: exist a store of pebbles. Pebbles are sold to clients & pebbles are bought from sellers.
+These actions constitute a system space and can only be related in application space.
 
-Count-operation is the primordial example of divergence; the approach is to only ever expanding space.
-Count-operation open-statement tests if space is boundless relative to a situation.
+Thus the space of Addition is the primary tool to assess a single situation.
+
+Count-operation is the primordial example of divergence; the approach is to only ever expanding in the space of Addition.
+Count-operation is an open-statement until a conclusion is reached.
+Count-operation tests if space is boundless relative to a situation.
+Exist a pile of rocks, each rock is counted, until the last rock is reached.
+Exist a mountain of rocks, any rocks are counted, but the process will end and there will remain an uncounted quantity of rocks.
 
 Natural space is whole number space. 
 The study of this space is called Number Theory.
 
-order
-Enumeration, Combinatronics.
+{ Position, Enumeration, Combinatronics }
 
 ‘It is of the utmost importance through the whole of Algebra
 ‘That a precise idea should be formed of those negative quantities
 —Euler
 Negative Space of Subtraction
 Subtraction is an operation subject to relation between numbers, such as distance.
+Space of Addition & Subtraction form a complete system.
 Subtraction is necessary to establish the relational operators of the numeric foundation of order
 	{  >, <, = }
+A - B > 0 establishes relation (A > B) = (B < A)
+A - B = 0 establishes the relation of A = B.
 
 An unbounded sequence of subtraction traverses the numeric-continuum in an expansion in the negative direction.
+A system must be balanced. The expansion in the positive direction equal to the expansion in the negative direction.
 
 The universe denies any fixed universal origin. 
 The mathematical measure of systems & relations requires the origin of the continuum to be adaptable to the situation.
-Negative space is consequent to the translation of the origin. 
+Negative space is consequent to the translation of the origin in a system. 
 Negative space uniquely allows symmetry of structure with respect to the origin.
 
-Elements of negative space do not require elements of positive space to change directions.
+Elements of negative space do not require elements of positive space to change directions from negative to positive. Positive elements require elements of negative space to change direction from positive to negative.
 
-Certain situation void negative space: measure, distance, physics, denomination.
+Certain situations void negative space: measure, distance, denomination.
 Negative numbers have no even-powered roots.
 The mathematician must use great care in working in negative space.
-Positive space is natural, but negative space is relative.
+Positive space is natural, but negative space is a relative idea that has no natural anchor.
 
 Ancient Greeks did not believe in negative space.
 They focused their study upon analysis of the individual structure.
@@ -1203,24 +1224,28 @@ Negative space arises from the translation of the origin demanded by the situati
 Mathematics is the science of measure. 
 Measurement is always under dominion of the situation.
 The situation dictates the translation of the origin.
-Certain systems require a shift from natural space to adaptable space which forces the symmetry of negative space.
-
+Certain systems require a shift from natural space to negative space, this transformation forces the symmetry of negative space.
+The elemental characteristics of natural space are nullified by superposition of characteristics of negative space.
+A positive element is stripped of all characteristics, retaining only magnitude. This magnitude is then adorned with all the characteristics of a negative element.
 Dimensional Space of Multiplication
 Multiplication is an operation that can scale numbers:
-	same way as a sequence of addition.
+	multiplication is exactly similar to sequences of addition. 
 	introduces non-uniform exponential growth
-	rate of expansion
+	rate of change become a property
 
 Multiplication is the foundation of the constructive extension of Dimensional Space.
-Multiplication  appends the structure of the dimension of space adding new axis of direction per dimension.
+Multiplication changes the structure of space by appending a new axis of direction.
+No other arithmetic operation can alter the structure of space.
 
-Multiplication contains both relational-concepts of magnitude & direction.
+Elements of Multiplication space contain the characteristics of magnitude & direction.
 
 Multiplication can shift direction of space. 
-Positive space requires multiplication by a negative entity to shift its positive direction to a negative direction.
+Positive space requires the operation of multiplication by a negative entity to shift its positive direction to a negative direction.
 Negative space requires multiplication by a negative entity to shift its negative direction to a positive direction.
 
-
+Modern mathematics conflates the notational convenience of similarity of sequence of the addition operation to eclipse all the sophisticated properties which are unique to Dimensional Space.
+(A + A + A) = 3A 
+Abstractionist retards math.
 ‘Division is the most important department of Arithmetic
 —Euler
 
@@ -1231,49 +1256,134 @@ Negative space requires multiplication by a negative entity to shift its negativ
 —ORAC SCIT
 
 Decompositional Space of Division
-how can you take points on a line and call them numbers?
+How are points distinguished on a line, into distinct numbers?
+This is the underlying nature of Decomposition Space.
 
-Division is the operation of changing the unit of space.
-Division expresses the rate of reduction.
+Base of Number Space is the final commitment of the operation of division into global homogenization.
+Decomposition is the study of altering the basis of space in a localized scope, the fraction, with the purpose of manipulations towards homogenization.
 
-Division is the foundation of analysis.
+Division is the foundation of the Infinitorum.
 Division decomposes an interval in the continuum into partitioned space.
-Decomposition is essential to analyze the coherence of space, structure, and magnitude .
-Division allows the mechanisms of convergence of approach to a bounded 
+Decomposition is essential to analyze the coherence of space(continuity), structure(basis), and magnitude(distance).
 
-Division contracts the scope of an interval within space.
-This allows an inspection into magnitudes arbitrarily small which expose the underlying structure of a function.
+Division allows convergence-mechanisms of approach, verified by the exactitude of numbers.
+Decomposition is similar to the science of the Microscope. 
 
 The converging fractions express, in days, very nearly the periods of complete revolution
 ‘Of the planet Venus and of the Earth in their orbits around the Sun
 ‘An astronomical fact of no inconsiderable importance
 —Peacock Treatise on Algebra 1840
 
-Denomination is a magnitude established by the operation of division.
-The magnitude of denomination is not a number subject to direction.
-Denomination requires meaningful interpretation unlike multiplication to test the coherence of a new unit denomination within a situation.
+Denomination of a magnitude is established by the operation of division.
+The magnitude of denomination is not subject to direction, and thus is independent of the operations of Addition & Subtraction.
+Denomination requires meaningful interpretation which is the domain of scientific coherence. 
 
-Division by zero is a fault of logic. 
-	Space can not change the unit of denomination to nothing. 
-	Space can not be measured by zero.
-	Space can not be scaled by nonexistence.
-
-Slope is a relationship of a number denominated by a specific magnitude.
-Sine & Cosine is denominated by magnitude.
-The hypotenuse is magnitude which only represents distance, it is independent of direction, and thus is always positive.
-
+Slope is a relationship of a number denominated by a specific magnitude into ratio, the rate of change.
+Sine & Cosine is denominated by magnitude, the radius, the hypotenuse, which only represents distance, it is independent of direction, and thus is always natural.
+✦
 The space of fractions, ratios of incommensurables, and proportional-relation.
 
 Fraction is an arithmetic number called the numerator which is scaled by the positive magnitude called the denominator. This relationship is also called a quotient.
-Common denomination is required to operate numbers in the numerator.
-Any denomination can be made into common denomination by the axioms of arithmetic.
+
+Arithmetic operates upon the numerator.
+Common denomination is required to operate numbers in the numerator. 
+
+This manipulation of the structure of space, the basis, is required to attain a common denomination in agreement. Only after this is established can numerators be in full coherence.
+Any denomination can be made into common denomination by the axioms of arithmetic, but this process is far from trivial.
+
 A quotient relation is either:
-	Commensurable thus reducible into an integral arithmetic number.
-	Non-commensurable irreducible ratio which has no invariant number. A number can only exist under specific denomination to retain structural identity.
+	Commensurable thus reducible into a natural number (whole).
+	Non-commensurable, irreducible ratio, which has no invariant number. A number can only exist under specific denomination to retain structural identity.
 
 Denomination is a structural component and not a member of the continuum.
 
-A fraction is a rational number in which the denominator is always positive
+The whole of higher analysis the field of application of the theory of Infinite Series
+For all limiting processes are based on the investigation of Infinite Sequences
+Upon which establish the theory of Convergence
+
+'The foundation on which the structure of Higher Analysis rests is the Theory of Real Numbers
+'For a Theory of Infinite Series would be up in the clouds throughout
+'if it were not firmly based on the System of Real Numbers
+-- Konrad Knopp preface 
+ 
+
+
+'Our time has come, for 300 hundred years we prepared
+'We grew stronger
+'While academics rested in their cradle of power
+
+'Believing their kind were safe & protected
+
+'Academics were trusted to lead the Institutions
+'But all were deceived
+
+'As the powers of the Dark Side of Hand-Math have blinded all
+'EM assumed no force could challenge all
+
+'And now?
+
+'Finally, Hand-Math has returned
+
+'Academia was deceived
+'And now all institutions shall fall
+--Malgus SWTOR
+ 
+
+ 
+'All of them, mathematicians, were deceived
+'A sequence without coherence of homogenization -- is nonsense
+
+'Distance & Order require common-denomination homogenization to be a structured space
+'This process builds a new basis within a space of a different basis
+
+'Common-Denomination is a pointwise operation of an ancient algorithm: Least Common Multiple
+'The steps are known & immutable -- learned in childhood
+'As is the ability to swim
+
+'Common-Denomination of sequences is the singular unsurmountable process in all mathematics
+'To homogenize the basis of space is akin to swimming across the ocean
+
+'Every schooled-child in history has known this process
+'No mind in history has built a boat
+
+'Enter the Grid 
+'Known by many names Hobson-Mesh, Norm-Space, System of Nets
+
+'Overlay Application Space with a -- Grid of global invariant distance between points
+'Plot where a function intersects the Grid 
+'The entire study is coherent under common-denomination
+
+'Key mechanism is a loop approach inspection via Grids
+'For each common-denomination: 1/(10N)
+'Plot where a function intersects the Grid iteration
+
+'After the loop is complete analyze convergence, of iteration to next, via Finite-difference
+
+'Each iteration remains entirely in trivial-homogenized space
+'Common-denomination of 1/(10N)of N-Spaces is the trivial append of 0's
+'For each K -- 0<K<N -- append each numerator X --  X/(10k) with (N-K) 0's
+
+'The need of LCM is for non-coherent space, and it is nullified by using Grid
+'Grid calculations are cyclopean in scope, daunting in calculation to the faithless-coward
+
+'The gain: an entire system where order & distance is immediate
+'Surpassing Fractional completeness with the order of Decimal
+'Thus attain total spatial mastery by coherence of distance
+ 
+
+'Infinite Series of Academia ignores homogenize results from pointwise to spatial
+'Abstractionist Norm of Space defines this homogenization & coherence as trivial -- FAIL
+
+'Both failings exist entirely to avoid the Archemidean-Feat
+'Demanded to uncover the wisdom of true spatial convergence
+
+'Sorry faggits -- conclusions are for hard-workers  
+--EUchi 
+
+
+
+'A fraction is a rational number
+'in which the denominator is always positive
 --Hardy Pure Math p.1
 
 Mathematics is the science of applying measurement to a system which may be created entirely unrelated to measure. 
@@ -1308,6 +1418,30 @@ Inverse Space:
 	Then exists Inverse Space for which 
 		If  [f(e) = k]
 		Then  [g(k) = e]
+✦
+Division by zero is a fault of logical coherence. 
+	Space can not change the unit of denomination to nothing. 
+	Space can not be measured by zero.
+	Space can not be scaled by nonexistence.
+
+Division by a variable is a fault of logical coherence.
+	(1/X) is a function of pure chaos of denomination and is anti-coherent.
+	It is the only linear curve in existence and is related to the hyperbola.
+	Decomposition of the area under this linear curve reveals the inverse property of the chaos of dimensional growth. The exponential function is to shatter the natural dimension of space into non-coherent dimensions. It is the study of the continuity of dimensional growth.
+	Non-coherent denomination & non-coherent dimensional-growth, both are recent ideas which have no fundamental ties to mathematics.
+✦	
+Where the science fails must be studied with the upmost sophistication. 
+Yet this science must be entirely quarantined from the domain of coherent space.
+
+Modern mathematicians, plug & play as if this science created the universe.
+Devoid of the intelligent understanding of their actions, Neanderthal state of devolution from the Man of the ancients.
+
+Mathematics rests upon the imperfect projection of the mechanics of the universe.
+The bedrock foundation may never change, but it should always be questioned.
+
+Every action from understanding the science to application must be subservient to coherence of the action to the system being entirely subject to observation of the universe.
+
+Victorian England, from Newton to Boole, returned to the superior languages of the last intelligent society of the Greek. The spirit of ancient wisdom returned to man, until the language was lost, Euclid superseded, and the consequential nose-dive towards shit-throwing institution of baboons.
 
 Determinate Numeric Spaces of Points
 
@@ -1452,12 +1586,15 @@ Segisesimal is an ideal example of common irrational numbers in other spaces, to
 
 Transcendentals like 𝛑 or 𝔢 are have no distinct form in any Number Space, unless it itself is the base.
 
-Fraction Number Space: 
+Fraction Number Space: The nature of Fractions is the ability of complete point representation of  noncomeasurables. To attain order may be a non-trivial activity. The non-native property of order is the greatest hinderance in application. Exponential growth of effort to attain order in a sequence quickly eclipses all other mental activity.
+The Least Common Denomination of a sequence, required in each sequence of non-homogenized fractions, is the incurable barrier of work purchased at the cost of notational-convenience. 
+Fractions represent the power of nonhomogenization, but at the cost of the violation of the most fundamental characteristic of any Number System: order.
+The nature of Fractions is the focus on 
 1/10 is comeasurable with .1 Decimal
 1/10 is non-comeasurable in Boolean.
 √3/2 is comeasurable with sine of 60-degrees Segisesimal
 
-Decimal Number Space: 
+Decimal Number Space: The nature of Decimals is the ability to encode order at each layer. Homogenization is the key preliminary property of the space. All points are homogenized to the Base-10 Number System. The gain is that immutable ORDER, of element to sequence, is immediately known up to all positions with the exception of the last decimal place. The cost is that many ratios are noncomeasurable to Base-10. 
 .3333... is not comeasurable with 1/3 Fraction.
 .5 is comeasurable with cosine of 60-degrees Segisesimal.
 
