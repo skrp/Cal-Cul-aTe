@@ -1161,6 +1161,137 @@ Nature of the Sciences of Mathematics
 
 	Science of Congruence, Vector Differentials, Matrix, Geometry, Logic
 
+dim laboratory lit by sci-fi radiations
+'bURp look at that cube root running over the place
+
+'Rick don't drool on my ipad
+'Apple says saliva erodes the screen or something
+
+'pppfff thats bullshit Morty
+'Saliva has these things call enzymes that break down stains
+'so it helps clean the surface 
+
+'yeah but I think THAT is what Apple is saying
+'those... is acidic to the screen Rick
+
+'Morty is your Ipad made out of Apples
+'Corn Syrup fucking sugar Morty?
+ 
+'Everything is Sugar MORTY!
+'Dentists Morty, they need work, else they will all off themselves Morty
+'Then who will pay all their student-loan debt
+
+'Help with this cube or get out of the light
+'My nest is repeating an invariant endpoint Rick
+'Is that normal for a null sequence?
+
+'Aw geez Morty, you are learning fast
+'Math always keeps the high sharp Morty, good thinking LIL friend
+
+'WhhhhaaaaURRRPt is this shit
+'You are doing hand calculations like its the 1800s
+'Classic Morty move
+
+'Aw, Rick, I duno, I tried the nest, I did the root thing
+'I even got the right answer but I, uh, kinda did the same calculation wrong
+'In the same place like an hour apart, I totally am a classic Morty
+
+'This took me hours and it was all based on a mistake
+'Is this what feeling like a real mathematician feels like?
+
+'Ha! welcome to the club, the Morty club, I founded it 
+'Real math isn't clean. Its messy caz the UUOOHniverse is messy
+'But you noticed the anomaly, that is more precious than the answer
+
+'Null sequences factually cant be immutable
+'Hours today to learn the Red Flag
+
+'Rules are the worst, who needs em
+'But you gotta respect em, until you can prove you can piss on em
+
+'Wow that is nice to say
+'Ha whats in the flask
+'I am gonna tell mom to buy you more for My birthday
+
+'I love you too Morty
+'Up at 3am cursing at cube functions in a null sequence
+'Thats the shadow of a master, trUUUUUURP devotion
+
+'Stare at your errors till they blink first
+'Work the steps, each one, with bare feet
+
+'Well thats why I am using nests Rick
+'But ummm uh sometimes, most times, you just
+'Throw numbers outta nowhere!
+
+'Like that time today you said
+~Ah thats easy its 10 to the .6 power
+'And I was like where did you even get that from
+
+'Trade secret, Morty, I've got a black hole full of precomputed logs
+'You are building all digit by digit, ReUUUGHspectTTURP
+
+'Besides you called me out
+'When I uhhh faked I knew that ummm Knopp decimal log convergence
+
+'Thats what makes this the best partnership in the multiverse
+'When I drop a number like a shit, you check my math and call me out 
+
+'Aw geez Rick
+'We do digest everything together
+
+'Like a warren of rabbits eating communal turds
+ 
+'So what's next
+'Binomial expansions, Sine fitting?
+'Or we just, y'know, stare at our mistakes
+'Until they turn into, uh, integral equations or something?
+
+'All of the above, Morty
+'Its only 4am and school just begun
+'We got those crUUUURystals 
+'I knew we needed them
+
+'Can you ... help me with my math ... homework
+'I can't seem to get a grip on Trigonometry
+'And Jessica asked for help in class
+'The Sine summation of angles
+
+'Hold up there little buddy
+'You are here doing Cantorian Nests of epsilon null sequences
+
+'You can't pass your math class caz you can't memorize trig relations?
+
+'School is for stupid people
+'Why UUURP why you think smart people need teachers Morty?!
+
+'Those Trig Idents, they require Taylor Expansions to make sense
+'You walk them bare foot and the idents are never right, its all a lie
+
+Why would math lie to us?
+
+'Because the real calculations are messy and dont fit neatly
+'School teaches math as a test for memorization
+
+'You been at a single equation, how long, all night!
+
+'Class is what like an hour
+'Do the MATH dumbass
+
+'That isn't enough time to do anything but dance
+'Dance like a good mommas boy bitch monkey
+
+'So lets do Sine angle summations Taylor Expansions 1600s style 
+
+'Morty, the result wont match the 'answer-sheet'
+'You won't even finish the first step of the first problem
+'But it will be the Classic Morty move
+--Rick & Morty
+
+
+
+
+
 
 
 Arithmetic Space
@@ -1170,29 +1301,64 @@ Axiom of Interval Continuity: between any two points exist an infinite sequence 
 	All spaces which fulfill the requirements of Arithmetic operation is a Number Space. 
 Each Number Space has its own peculiarities & noncomeasurables relations to other spaces.
 
-The arithmetic axioms
-	Unity: Every system is denominated by a global unit value.
-	Arithmetic operations traverse the space. (closure)
-	Add-identity (0, -x +x) A + B - B = A
-	Mult-identity All numbers are implicitly denominated by the unit value A/B = A/B, A(B/B) = A(1) = A/B.  A(B(B)/B) = A(B)/B
-	Distance	
-	Add-Inverse
-	Mult-Inverse	
-	Coherence: math exists developed. 1/x is not coherent. functions must not violate coherence.
-	Order
-	Inequality
+Arithmetic Axioms
+	Unity: Every space is denominated by a global unit value.
 
-	Add-Association notational
-	Add-Permute order
+	Arithmetic operations are the only ways to traverse the space.
+		(a + b)  Addition— to increment a number by another number.
+		(a — b) Subtraction— is to decrement a number by another number. 
+		(a * b) Multiplication— to scale a number by another number.
+		(a / b)  Division— to denominate a number, by the magnitude of another number 
+					- set as the scale.
+
+	Addition-identity. Total balance alone establishes coherence. 
+		Anything can be added IF that same amount is reduced.
+		 (0, -x +x) A + B - B = A
+
+	Multiplication-identity. All numbers are implicitly denominated by the unit value.
+		This denomination can never be removed. 
+		[ Unity is B ]
+		A(B) = A(B/B) ---> A(B/B) = A(B)/B ---> A(B)(B)/B = A(B2)/B
+		A(C/D) = (AC/BD)
+	Distance is the magnitude between two points.
+		(B - A) = √{ A2 - B2 } = |B - A|
+		|A| = |-A|
+		|A||B| = |AB|
+		|1|/|A| = 1/|A|
+		|B|/|A| = |B/A|
+
+	Add-Inverse. What can be added can be taken away.
+		K = (D+D+D) ---> A + K - D = A + D + D
+	Mult-Inverse is local re-denomination. 
+		A/B * B/D = A/D
+		A/B * C/D = AC/BD	
+		A * (B/A) = (B/B)
+	
+	Coherence: mathematic reasoning must be coherent.
+		First logically, next theoretical, then computational.
+		Purpose and reason can never be divorced from computation.
+		This is the superiority of the Man above the calculator.
+
+	Order. Exist strict order between all elements in the number space. 
+		A < B 	XOR 	A > B 	XOR 	A = B
+		
+	Inequality. Order allows interval & pointwise relational structures.
+		A < C;	D < E;	A + D < C + E
+		A < C;	C < D; 	A < D
+		A < C; -C < -A;	1/C < 1/A
+		A < C; D < E;	AD < CE
+		|A + B| ≤ |A| + |B|
+		|A + B| ≥ |A| - |B|		|A + B| ≥ | |A| - |B| |
+		|A| < R ---> 	[-R < A < R ]
+		|X - A| < R --->	[ A - R ] < X < [ A + R ]
+	
+	Add-Association is notational convenience.
+		(A + B) + C = A + (B + C)
+	Add-Permute is independent of order
+		A + B + C = C + A + B
 	Mult-Association, grouping 
 	Mult-Communion order
-	Mult-Distribution notational
-	
-Arithmetic operations:
-	(a + b)  Addition— to increment a number by another number.
-	(a — b) Subtraction— is to decrement a number by another number. 
-	(a * b) Multiplication— to scale a number by another number.
-	(a / b)  Division— to denominate a number by the magnitude of another number set as the scale.
+	Mult-Distribution notational	
 
 Mathematics need consist of these 4 operations.
 IF you are not working in the operations of arithmetic THEN you are not doing math.
@@ -1288,6 +1454,7 @@ Negative space requires multiplication by a negative entity to shift its negativ
 Modern mathematics conflates the notational convenience of similarity of sequence of the addition operation to eclipse all the sophisticated properties which are unique to Dimensional Space.
 (A + A + A) = 3A 
 Abstractionist retards math.
+Decompositional Space of Division
 ‘Division is the most important department of Arithmetic
 —Euler
 
@@ -1296,8 +1463,6 @@ Abstractionist retards math.
 ‘Mathematical intelligence demands a deeper understanding 
 ‘An ability to perceive structure beyond computation
 —ORAC SCIT
-
-Decompositional Space of Division
 How are points distinguished on a line, into distinct numbers?
 This is the underlying nature of Decomposition Space.
 
@@ -1484,7 +1649,7 @@ The bedrock foundation may never change, but it should always be questioned.
 
 Every action from understanding the science to application must be subservient to coherence of the action to the system being entirely subject to observation of the universe.
 
-Victorian England, from Newton to Boole, returned to the superior languages of the last intelligent society of the Greek. The spirit of ancient wisdom returned to man, until the language was lost, Euclid superseded, and the consequential nose-dive towards shit-throwing institution of baboons.
+Victorian England, from Newton to Boole, returned to the superior languages of the last intelligent society - the Greek. The spirit of ancient wisdom returned to man, until the language was lost, Euclid superseded, and the consequential nose-dive towards shit-throwing institutions of baboons.
 
 DikT & CunT
 Discrete Theory of Numbers builds into the Continuous Theory of Numbers.
@@ -1563,41 +1728,53 @@ Real numbers are certainly calculated by means of rational numbers alone
 
 
 BASIS Radian Numeric Space
-Radian basis is a space denominated by a magnitude which is variable to each study.
-Denomination is the magnitude of the radius.
-The radius is the bound of the space.
+Radian Basis is the Number System of bounded number space - represented by the Polar Coordinate System.
 
-Thus Radian Numeric Space is the space of convergent growth-bounded YET breadth-divergent Number System.
-The space exists parametric between the negative & positive magnitude of the radius.
-Any element is represented, encoded by position along circumference. 
-	t(2𝛑); 0 < t < 1; (2𝛑r) ∕ r = 2𝛑;
-	(x)∀ = t(2𝛑)
+Bound Space Properties:
+	Homogenity
+		The magnitude of the radius denominates each element of the space
+			into a sane & conclusive norm.
+		Metric of the norm is the minimum unit of arc-length step measure.
+		Addition of any point by modulo congruence of 2𝛑r 
+			establishes congruence onto any other element without distortion.
+		Uniform behavior along the circumference - the ideal form of homogeneity.
+	
+	Order
+		Order is locally linear, the period hosts the entire scope.
+		Global order is trivialized by the cyclic nature of the Radian Basis.
+		Position of the element upon circumference established a strict order.
+		Order is parametric between the positive and negative magnitude of the radius.
+		Order is thus represented as the encoded position along the circumference
+			t(2𝛑); 0 < t < 1; (2𝛑r) ∕ r = 2𝛑;
+			(x)∀ = t(2𝛑) 
+	Identity 
+		
+		Arc-length is an irrational, a curve, which requires nest approximations. 
+		Each element is the ratio of the approximated-arc-length
+			denominated by the magnitude of the radius.
+		Every numerator of Radian Basis is fundamentally approximate.
 
-Each element of the space shares the property: 
-	Position, the identity of the element, is the ratio of the arc-length denominated by magnitude of the radius.
+	Continuity
+		Continuity properties established in one period
+			are trivially invariant across all projections. 
+		Between any two elements exist an ordered convergent sequence 
+			bounded by the uniformity of the circumference.
+		Thus exist no divergence of bounds; all elements exist under a sane norm. 
+		Only exist convergence of arc-length approximations. 
 
-Each element of the space is a ratio of possible-in-bound numerators against radius.
+	Divergence
+		Period may be trivially projected onto unbounded repetition in breadth.
+		Radian Basis may be projected by uniform dilation into growth.
 
-The numerator is founded upon the approximate nature of the arclen, measure of the curve.
-The denominator is the conclusive-number invariant in the space.
- 
-Homogenity of Radian Number Space
-Every element is a position along the circumference determined by the radius, and is thus congruent to any other element by the operation of rotation.
-Homogenity is founded upon the periodic nature of repetitive, bounded ratios.
+Radian Basis firmly bonds Geometric & Arithmetic operation into communion under one space.
+This space is the union of both sciences perfectly paired in Harmony. 
+All cohesive fusion of both sciences are found in the Radian Basis.
 
-Order is local due to the periodic nature. Thus order is seen under a distinct perspective: modulo congruence of 2𝛑r.
+Only in the Radian Basis the sine derivative collapses into the cosine.
 
-Convergent Periodic
-Continuity established in one period is projected across all repetition.
-Thus exist no divergence. The study of one period of bounded space - projected onto any period. 
-
-Operation of Rotation is the primary mechanism of this space strongly binding arithmetic & geometric attributes into a single space.
-
-Polar Coordinate Space is the complete study of Radian Numeric Space - taking as trivial the periodic projection.
-
-
-
-
+All geometric operations are collapsed into rotation.
+	
+All periodic systems must be Isomorphic to the Radian Basis.
 
 Holographic projection flickers to life
 
@@ -1615,7 +1792,7 @@ Holographic projection flickers to life
 'A mountain unmoving… is not the way of life
 
 'Master Windu, and many before, see only threat
-'Eternal domain… the Sith way, they say
+'Invariant domain… the Sith way, they say
 
 'Another of my species… in secret, found
 'Strong in the Force
@@ -1641,8 +1818,8 @@ Holographic projection flickers to life
 'Speak, yet not heard
 
 'In Empire’s day… dismissed, still they are
-'Agents of the Emperor, sometimes
-'Mostly… nothing
+'by indoctrination continued
+'Agents of the Emperor to spy
 
 'R2-D2… astromech without equal
 'Loyal. Resourceful. Modified… he is
@@ -1652,10 +1829,11 @@ Holographic projection flickers to life
 'Too small, the body is, for their measure
 
 'Mind untouched by memory wipes
-'Druid and Child… grow together
+'Body & chasis slow to age
 
 'Through wars, he will roll
 'Through fire… through shadow
+
 'Decades of dismissal… will teach patience, humility
 'Sith nature… in him, find no root it will
 
@@ -1664,6 +1842,10 @@ Holographic projection flickers to life
 'Guard him well
 'Trust in him… as I have
 'For in him… the fate of the galaxy, there may be
+
+'Vain, the fear of the High Council
+'Only one Yoda ever is
+'Faith must be in balance of the Force
 --Hidden Holocron of Yoda
 
 
@@ -1699,9 +1881,9 @@ Holographic projection flickers to life
 'Refinement is rooted in distinction
 'All sophistication arises by distinguishing subtleties with prejudice
 
-'All fallacy was once in union unto a foundational obscurity
-'Henceforth exposed clearly as chained-dependencies
-'Distinction extinguishes all aberration as the foundation is illuminated
+'All fallacy once hidden parasitic upon foundational obscurity
+'Henceforth exposed clearly by chained-dependencies
+'Distinction extinguishes all aberration once foundation illuminated
 --Dick Keung
 
 There exist no irrational, imaginary, nor infinities.
@@ -2037,35 +2219,6 @@ The mathematician constructs towards perfection, in all things.
 
 
 Krisilogia Theory
-'Inequalities demand so much mathematical sophistication of its readers 
-'as to be unsuited for nearly all our undergraduate mathematic students 
-'Mathematicians know that mathematical analysis 
-'is largely a systematic study & exploitation of inequalities
-
-'Mathematic analysis itself
-'is devoted to finding judicious approximations for 
-'integrals, infinite sums, solutions of differential equations, etc
-'without which conclusions could not be reached and theorems proved
---Kazarinoff
-
-All numbers by nature are ordered. This global distinction allows many unknowns to be caged by the limit of the knowns to a particular venture.
-
-Isologia seeks to establish exact equivalence which is called a point-wise solution. 
-Krisilogia Theory is established in the pursuit of relations. 
-
-Isologia inequality seeks to establish these distinct end-point parameters, between which exists the relation.
-
-Conditional inequality partitions Number Space into ranges of possibilities.
-This transforms a venture into a case study. The count of cases requiring verification is one for each variable, plus a final count.
-One point in each case range is entirely representative. Yet it is critical that each case is tested.
-
-Be very cautions to pair the undistinct Absolute Value to the undistinct inequality.
-
-Absolute value is a algorithmic process that can not be encoded by algebraic symbols ||.
-Using such symbols mask the atomic processes required for calculation.
-
-In a sequence of x. N < a < b. 
-|xa - c| < |xa - xb| |xb - c| < 𝔢
 'The spirit of liberty
 'Is the spirit which is not too sure that it is right
 
@@ -2082,6 +2235,84 @@ In a sequence of x. N < a < b.
 'Where the least shall be heard and considered side-by-side with the greatest
 --Judge Learned Hand
 
+Krisilogia, by structured confrontation,  seeks to turn the unfamiliar & chaotic into a defined system:
+	Resemblance to all known via Isologia quantified by measure of divergence.
+	Eccentricities that anchor identity, bound to parameterized characteristics.
+
+The Quarry, being the matter of investigation, to be assimilated into the mathematic universe of Isologia. To understand its individual character and its place in the greater scheme - that mayhap it be of service.
+
+PREREQUISITE
+Isologia must be in full & rounded command. The known, respective to the Quarry, must be familiar grounds: 
+	Mastery of techniques & manipulations.
+	Precise recall of individual results.
+	Understanding of general behavior of each fundamental species of Isologia.
+
+A mature taxonomy must be well-articulated in the mind of the mathematician to maximize effectiveness of the venture.
+
+The standard 10,000 hours of adult dedication to Isologia. 
+Such intimate understanding allows the Quarry to take immediate rough-shape, recognized by its similarity to fundamental identities.
+'First you learn the instrument
+'Then you learn the music
+'Then you forget all that and just PLAY
+--Charlie Parker
+Comparison is the heart of Krisilogia; comparison of Isologia against the Quarry.
+
+Krisilogia is not bound to the subject matter - it is the mode of quantitative-method.
+	Civilized paved path of Isologia.
+	Bushwack traversal thru local wilds of Krisilogia.
+
+Quantitative Methods of Krisilogia:
+
+	Inequalities - Comparison of Space
+		Determine class of spatial existence of the Quarry environment. 
+		Use inequalities to verify & diagnose internal structure.
+		Parametrize characteristics peculiar to the Quarry into well-defined zones of space. 
+
+	Peerage - Comparison to similar Functions
+		Establish foundational-functions in the class of space to judicially select peers.
+		Parametrize the Quarry by a function-always-less AND function-always-greater.
+		Manipulate the peers and analyze the same manipulations applied to the Quarry.
+
+	Self - Comparison to previous State
+		Identify critical intervals and approach stepwise.
+		Techniques: Finite Difference, Linear Approximation, Integral Summation.
+		Aim: understand internal-change and properties of spatial accumulation.
+
+	Ideal - Comparison by perturbation Warp
+		Identify the ideal species akin to the Quarry.
+		Warp the Quarry toward the ideal in progressively finer stages.
+		Magnitude & nature of the warpage become the characterizing integral of the Quarry.
+
+'Inequalities demand so much mathematical sophistication of its readers 
+'as to be unsuited for nearly all our undergraduate mathematic students 
+'Mathematicians know that mathematical analysis 
+'is largely a systematic study & exploitation of inequalities
+
+'Mathematic analysis itself
+'is devoted to finding judicious approximations for 
+'integrals, infinite sums, solutions of differential equations, etc
+'without which conclusions could not be reached and theorems proved
+--Kazarinoff
+
+All numbers by nature are ordered. This global distinction allows many unknowns to be caged by the limit of the knowns to a particular venture.
+
+Isologia seeks to establish exact equivalence which is called a point-wise solution. 
+Krisilogia Theory is established in the pursuit of relations among points. 
+
+Isologia inequality seeks to establish these distinct end-point parameters, between which exists the relation.
+
+Conditional inequality partitions Number Space into ranges of possibilities.
+This transforms a venture into a case study. The count of cases requiring verification is one for each variable, plus a final count.
+One point in each case range is entirely representative. Yet it is critical that each case is tested.
+
+Be very cautions to pair the undistinct Absolute Value to the undistinct inequality.
+
+Absolute value is a algorithmic process that can not be encoded by algebraic symbols ||.
+Using such symbols mask the atomic processes required for calculation.
+
+In a sequence of x. N < a < b. 
+|xa - c| < |xa - xb| |xb - c| < 𝔢
+
 All approach relies on Krisilogia theory. 
 Convergence is the endless pointwise approach towards a bound. 
 Radius of Convergence.
@@ -2097,6 +2328,9 @@ Linear solution of a multi-dimensional question: line > plane > cube.
 { Colinear inequality, Difference of squares inequality, Minimum distance: Minkowski, Arithmetic Mean & Geometric Mean }
 
 { Cauchy, Minkowski, Holders, Wallis, Power-Means }
+
+
+ 
 Arithmetic Measure of the Infinite
 
 Measure Theory
