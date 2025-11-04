@@ -1136,6 +1136,7 @@ Inequality { theory, operations, implication, zones }
 'The study of which would shew many of its opponents that the light-esteem
 'In which they hold it arises from those habits of inference
 'Which thrive best in its absence
+
 'Logic is the examination of that part of Reasoning
 'Which depends upon the manner in which inferences are formed
 'And the investigation of general maxims and rules for constructing arguments
@@ -1152,6 +1153,7 @@ Inequality { theory, operations, implication, zones }
 'Every act of reasoning must mainly consist in comparing together different things
 'Finding out the points in which they resemble or differ
 'This is called Inference
+
 'The comparison of several and different things with one and the same thing
 'There must be some propositions already obtained before any inference can be drawn
 
@@ -1159,66 +1161,73 @@ Inequality { theory, operations, implication, zones }
 'In all logical reasoning, the negation is simple negation
 'never implying affirmation of the contrary
 --DeMorgan First Notions of Logic
+
+The irreducible set of elements in a science form the Axioms of the Science. 
+
+This set of axioms form the bedrock of the system and can NOT be further proven. 
+The entire framework of the science is built from the relationships of the Axioms.
+
+Axioms are given by faith. 
+All else, technique & theory, must be directly consequential from these axioms.
+
+The set of axioms are very influential. 
+Most mathematical sciences, are merely the appendage of a single axiom atop the Arithmetic Axioms.
+Thus the set of axioms must be minimal, and entirely formed at the start.
+
+New-Truths appended to the ancient axioms are swept away in time.
+All structures built atop, are likewise flushed as tragedy of the imbecile.
+
+Man created in the image of God; destined to devolve into frog-throat-fucking-primates.
+
+’We must start from indemonstratable principles
+‘Otherwise, the steps of demonstration would be endless
+— Aristotle Posterior Analytics
+✦
 Proofs are not created equal: 
 	{ truth, closed-statement, open-statement, conjecture }
 ✦
-Truths are invariant fundamental relationships.
-Truths form the primordial structures of a science.
+Truths are invariant fundamental relationships, two elements joined under an operation.
+Mathematical truths are formed by:
+	Axioms of Elemental Existence, combined with, Axiom of Operational Effect.
 
-Closed statements are complete groups of relations established into a conclusive formula.
+Truths form the primordial structures of a science and are the foundation of the nature of the science.
+
+Closed-statements are complete groups of truths established into a conclusive formula.
 Formulas are directly computational, and are stepwise-reproducible in computation.
-Formulas may morph over time, closed-form to closed-form, due to emphasis -- in application of theory or practice.
+Formulas may morph over time, closed-form to closed-form, due to emphasis of perspective -- in application of theory or practice.
+
+Closed-statements are results of techniques which provide the framework to compose a theory.
 
 Open-statements can not be proved conclusive, only assumed by unending non-contradiction.
-Open-statement can be stepwise-reproducible, yet non conclusive.
+Open-statement can be stepwise-reproducible, yet are non-conclusive.
 Due the nature of certain open-statements, many can never attain closure.
-Development of open-statements into conclusive-closure fully assimilates the statement into mathematics.
+Development of open-statements into conclusive-closure fully assimilates the open-statement into mathematics.
+
+Open-statements are necessary due to the incompleteness of the science.
 
 Conjecture is a chain of reason; it is a process of the science of Logic.
-Conjectures uses explicit-logical-statements combined with logical-operators to attain coherence.
+Conjectures uses explicit-logical-statements combined with logical-operators to attain a system of coherence.
 Conjectured coherence - without explicit, stepwise, numeric construction - can never enter the science of mathematics.
+
+Conjectures are the drafts of wishful thinking, from which mathematics seeks adventure.
 ✦
 Formula for the square of a number is a closed-statement.
 22 = (2)(2) = 4 
 Shift the perspective transforms the closed-statement to another closed-statement.
-Log2(4)=2
+Log2(4)=2 
 The results are entirely conclusive.
 
 The count-operation is an example of an open-statement: 
 	If iteration can equal N, then the iteration may equal (N+1).
 Count operation never-fails in Logic, but fails in application space.
 
-When the count-operation is explicit then it is in closed-form.
+When the count-operation is explicit -- then it is in closed-form and mathematic.
 N = 10; N + 1 = 11  
-’We must start from indemonstratable principles
-‘Otherwise, the steps of demonstration would be endless
-— Aristotle Posterior Analytics
-
-Truths are only reducible into Axioms.
-The set of elements - which compose truths of the science - is the irreducible set of Axioms.
-
-The set of Axioms form the bedrock of the system and can not be further proven. 
-The entire framework of the science is built from the relationships of the Axioms.
-
-Axioms are the foundational elements. 
-Truths compose these axioms towards foundational reasoning.
-Closed-statements construct theorems to provide a framework intended towards capstone-implementation.
-Open-statements are necessary due to the incompleteness of the science. 
-
-Science requires conclusive closed-statements & non-determinant open-statements.
-Yet these two parties must remain entirely distinct.
-
-Each scientist must build a personal set of axioms from ancient truths.
-Each Axiom is taken as given by the faith of the scientist.
-
-Sanity forces minimization of the set of Axioms. 
-History confirms any new truths appended to the ancient Axioms will be swept away in time.
-All built atop these new-age Axioms are likewise flushed; tragic proof of the de-evolution of human intelligence. Man crated in the image of God; destined to evolve into frog-throat-fucking primates.
 ✦
 Induction is the science of foundation construction. 
 Induction appends-only proven truths to a system.
 There never exists inconsistency in an inductive system.
-Foundation is not to experiment or style; but to stabilize.
+Foundation is not to experiment or style; but be exclude all impure.
 ✦
 Deduction is the science of analyzing the universe.
 Deductive reasoning begins with an imperfect working set of elements & relations:
@@ -1226,7 +1235,7 @@ Deductive reasoning begins with an imperfect working set of elements & relations
 	Trial & error removes inconsistent elements & propositions.
 	Over time, inconsistency converges to zero, and a result is established.
 
-The process & results are analyzed into a coherent theory;  all must be direct consequences of the foundation built by Induction. Otherwise, the foundation is incomplete or the process was inconsistent.
+The process & results are analyzed into a coherent theory;  all must be direct consequences of the foundation built by Induction. Otherwise, the foundation is incomplete OR the process was inconsistent.
 
 The product of each investigation is carefully classed as { Truth, Closed, Open, Conjecture }.
 
@@ -1241,10 +1250,11 @@ Distinguish very carefully between the proof of Generalization and the proof of 
 
 Generalization is a natural evolution, grown from Deductive trial & error in the study of the universe. Generalization distills invariant relations into a closed-statement proof.
 Generalized proofs of deduction never assert more than can be constructed.
+For a generalized-proof to exist there must exist no contradictory case.
 
 Abstraction is a term which evolved from the philosophic ideal of universal-containment.
-Abstractionism philosophizes a system of thought built in order to attain completion & conformity.
-This system is conjectured pure & isolated from the universe; a fantastic fiction which at every turn has to contort all layers beneath in warped esoterism favored by priestcraft. 
+Abstractionism philosophizes a system of thought built - in order to attain completion & conformity.
+This system is conjectured pure & isolated from the universe.
 Afterwhich, the philosopher forces all analysis of the universe to fit within the ideal system.
 The proof is sterile, stripped of all semblance of the universe; as a drawing from imagination differs from the great painters of life.
 
@@ -1258,8 +1268,9 @@ Works define the man, and abstractionists avoid calculation at all costs.
 
 Proof in mathematics must be constructive by numbers to result in a conclusive number; the process must be stepwise reproducible.
 
-Logical-existence-proofs & Logical-contradiction-proofs -- are set at as placeholders for the boundary of mathematic ability.
-These logic-proofs assist in affirmation of closed-statement conclusive results.
+Logical-existence-proofs & Logical-contradiction-proofs -- are set at as placeholders for the boundary of mathematic ability - binding glue preliminary to the weld.
+
+These logic-proofs assist in affirmation results in a very light manner which invites the critical points which ponderance can affirm.
 Any theory resting only on logic-proof is immature and underdeveloped, requiring technique to attain the structure of closure.
 
 Mathematics is a forest of trees. Each tree has growth at every level.
@@ -1268,10 +1279,13 @@ Logic-proofs are the buds which may one day grow into mathematic structure.
 ‘The question of numerical calculation of the limit
 ‘One of great practical significance,
 ‘Is usually in theoretical-considerations of very second-rate importance
+
 ‘From a theoretical point-of-view
 ‘All modes of representation for a real number are precisely equivalent
+
 ‘Theoretic representation of a number is the Dedekind section
-Insufficient in any practical application 
+Insufficient in any practical application
+  
 ‘The representation of a real number by a sequence 
 ‘May be considered as the most general mode of representation
 Critical in both application & theory 
@@ -1294,21 +1308,23 @@ Nature of the Sciences of Mathematics
 	ARITHMETIC
 	Arithmetic is the bedrock foundation of all mathematic science. 
 
-	Axiom of Arithmetic: existence of ordered-numbers in any Arithmetic Space.	
+	Axiom of Arithmetic: existence of ordered-numbers.
+		All numbers exist axiomatically and are not generated by processes.	
 
 	Nature of Arithmetic is to ESTABLISH an immutable foundation, UPON which many other sciences can find eternal construction.
 
-	Aim of Arithmetic is to ESTABLISH the continuity property found in the universe INTO the realm of numbers.
+	Aim of Arithmetic is to ESTABLISH the continuity property found in the universe INTO the realm of numbers which is naturally discrete.
 
 	MEASURE
-	Measure is the science dedicated to verify sane behavior of Application-Space under decomposition of the continuum.
-	Measure is the analysis of Deduplication of doubled-points & Replication of lost-points -- in the process of boundless subdivision.
+	Measure is the science dedicated to verify sane behavior of Application-Space under decomposition of the continuum, and the valid propagation of dimension within the given species. 
+	Measure is the analysis of Deduplication of doubled-points & Replication of lost-points -- resulting from the process of boundless subdivision.
 
 	Axiom of Measure: endpoints of the interval are distinct from internal points, due to the nature of Hoods. Hoods only become consequential when a point is set as an endpoint. 
-	Exist a Left-Hood from the least-endpoint. Exist a Right-Hood from the greatest endpoint.
+	Exist a Greatest-Lower-Bound-Hood from the least-endpoint. Exist a Least-Upper-Bound-Hood from the greatest endpoint.
+	To each axis of dimension exist this unique pair.
 
-	Decomposition of space create two conclusive results: minimum-space required due to Loss & maximum-space possible due to Duplication.
-	Nature of Measure is to approach an agreement of minimum & maximum space to a conclusive result, of a direct measure of the space. 
+	Decomposition of space create two conclusive results: minimum-space required due to Loss & maximum-space possible due to Duplication. 
+	Nature of Measure is to approach an agreement of minimum & maximum space - to a conclusive result, of a direct measure of the space which is independent of the process.
 
 	Aim of Measure is to BRIDGE the processes built in Arithmetic Number Space TO its translations in Application Space in a controlled manner customized to the characteristics of Application Space.
 	Measure is an advanced science. Arithmetic Number Space must be entirely mastered preliminary to adaptations of Application Space.
@@ -1318,37 +1334,37 @@ Nature of the Sciences of Mathematics
 	ISOLOGIA
 	Isologia is the science of establishing closed and complete relations in the form of pointwise equations. Academia uses the name Algebra.
 
-	Axioms of Isologia: equality of statements is absolute.
+	Axioms of Isologia: equality of statements is absolute being independent from homogenization of the number space.
 
-	Nature of Isologia uses equality to manipulate statements to establish a perspective-driven chain-of-calculation which culminate into a theorem, this theorem supports a greater framework. Isologia seeks to establish identities. To collapse different forms to their identities, or expand forms via manipulation of identities.
-	Nature of Isologia is existence in a realm of absolute truth where there is no need for interpretation. Elements in a small sterile space based on the nature of Induction; exclusion of uncertainty.
+	Nature of Isologia, uses equality - to manipulate statements - to establish a perspective-driven chain-of-calculation which culminate into a theorem, this theorem supports a greater framework. Isologia seeks to establish identities. To collapse different forms into an umbrella of identities, or expand forms via manipulation of identities.
+	Nature of Isologia is manipulations within a realm of absolute truth where there is no need for interpretation - shall always retain system balance. Elements in a small sterile space based on the nature of Induction; exclusion of uncertainty.
 
-	Aim of Isologia is TO establish static, directly-conclusive, calculable formulas FROM complex dynamics observed in the universe. 
+	Aim of Isologia is TO establish static identity, directly-conclusive, calculable formulas FROM complex dynamics observed in the universe. 
 
 	Capstone skillset is to REDUCE recurrence observed - a pattern built by layers of pervious states - INTO a simple formula independent of previous states.
 
 	KRISILOGIA
-	Krisilogia science cages the unknowable into restricted enclosure. The conclusive nature of Isologia excludes other techniques that may not be perfect, but are of critical usage. Here exists all which is in the process of becoming Mathematics. Rich, diverse, queer - a battleground - a mad science laboratory - where wild things are.
+	Krisilogia science cages the unknown into restricted enclosure. The conclusive nature of Isologia excludes other techniques that may not be perfect, but are of structural usage. Here exists all which is in the process of becoming Mathematics. Rich, diverse, queer - a battleground - a mad science laboratory - where wild things are.
 
 	Axioms of Krisilogia: known elements may parameterize enclosures of non-conclusive space.
 
-	Nature of Krisilogia science is to distinguish partitions of space as being known-unrelated OR unknown-related. 
-	Nature of Krisilogia is the boundless universe of Deduction. Nothing is excluded, and all requires the wisdom of judicial distinguish upon relative scales of certainty. 
+	Nature of Krisilogia: distinguish partitions of space as being known-unrelated OR unknown-related. 
+	Nature of Krisilogia is the boundless universe of Deduction. Nothing is excluded, and all requires the wisdom of judicial prudence upon relative scales of certainty. 
  
-	Aim of Krisilogia converges parameter endpoints of Krisilogia space, to meet in agreement which results in a distinct solution in a specific circumstance. 
-	Labels of bounds, asymmetry, and distinction.
+	Aim of Krisilogia converges - upon a zone of uncertainty - via definite endpoints of inequalities.	Establish bounds, asymmetry, and distinction - which can be refined if the space is continuous.
 
-	Capstone of Krisilogia science is to enhance the scientific frameworks of known & distinct solutions, with the bond of the more general Krisilogia structures which are framed by known & distinct parameters. 
-	Explicit logical judgement after all is laid bare and established with clear weights.
+	Capstone of Krisilogia, enhance the scientific frameworks of known & distinct solutions, with the bond of the more general inequality structures.
+	Explicit logical judgement based upon the known enclosures to establish clear weights of what is known.
 	
 	⌬ SYSTAPEIRON
 	Systapeiron - contraction of the infinite, a boundless inward draw.
 
-⌬ Boundless yields not to resolution, but to reason. An endless inward spiral of paired extremities, least & greatest, collapsing by iterative-refinement.
+⌬ Boundless inward spiral of paired extremities, least & greatest, collapsing by iterative-refinement. Which only yields to reason, but never to conclusion.
 
 	Convergence, the endless approach to a strict-bound, is the fundamental process of the analysis of functions. 
-	Divergence is the absence of convergence, being binary: directional or oscillating. 
-
+	Convergent-Bound: is the strict approach which never exceeds a refining interval.
+	Convergent-Oscillation: the indeterminate approach which tends towards a refining interval.
+	Divergence is the absence of convergence, being directionally endless in progression.
 	Condensation of rates of change of an interval to inspect local behavior.
 	Condensation of least & greatest areas into a measure of area.
 
@@ -1359,12 +1375,24 @@ Nature of the Sciences of Mathematics
 	Convergent-approach is an endless progression towards a Bound. Always exists another number in an approach which is always greater than the previous number but less than the Bound.
 	Bound is not a number but an interval of space which is always approachable from both growth & reduction, left-to-right, greater-than OR less-than. 
 
-	Aim of the Infinitorum is to use the power of Convergent-approach to Bound results which escape Isologia.
+	Aim of the Systapeiron is to use convergent-approach to bound inconclusive results into a tolerance of unlimited refinement.
 	
-	Capstone 
-	Capstone skillset is to enumerate rates of change by the Bound of the Infinitorum, and to capture the area of space under a function by Decomposition of the Infinitorum.
+	Capstone of Systapeiron is to implement Transcendental Ideas into Arithmetic Space, using only numbers.
+	Capstone skillset is to enumerate rates of change and capture measure of space under decomposition.
 
-	Science of Congruence, Vector Differentials, Matrix, Geometry, Logic
+	KanoKata
+	KanoKata - creation of personal mathematical system by interpreting the technique & theory of mathematics into a unique synthesis of application. (academic Analysis)
+
+	Axiom of KanoKata - each individual master obtains a unique character of understanding.
+
+	Nature of KanoKata - from axiom to endgame, the reasoning & judgements of the implementations must be explicit for another to follow gapless.
+
+	Aim of KanoKata - interpretation of science & situation entirely using arithmetic. A stepwise guide to how this mind has formed its sophisticate resolution.
+
+	Capstone of KanoKata -Each institutional disagreement, here has a definite choice. such that another may thereby rank the results in total coherence within the mind of the creator.
+
+
+Congruence, Differentials, Determinants, Matrix, Geometry, Logic, Sinusoidal
 
 dim laboratory lit by sci-fi radiations
 'bURp look at that cube root running over the place
@@ -1395,11 +1423,12 @@ dim laboratory lit by sci-fi radiations
 
 'WhhhhaaaaURRRPt is this shit
 'You are doing hand calculations like its the 1800s
-'Classic Morty move
+'classic morty move
 
 'Aw, Rick, I duno, I tried the nest, I did the root thing
-'I even got the right answer but I, uh, kinda did the same calculation wrong
-'In the same place like an hour apart, I totally am a classic Morty
+'I, uh, kinda did the same calculation wrong
+'In the same place like an hour apart
+'I totally am a classic morty
 
 'This took me hours and it was all based on a mistake
 'Is this what feeling like a real mathematician feels like?
@@ -1423,7 +1452,7 @@ dim laboratory lit by sci-fi radiations
 'Thats the shadow of a master, trUUUUUURP devotion
 
 'Stare at your errors till they blink first
-'Work the steps, each one, with bare feet
+'Walk the steps, each one, with bare feet
 
 'Well thats why I am using nests Rick
 'But ummm uh sometimes, most times, you just
@@ -1465,7 +1494,8 @@ dim laboratory lit by sci-fi radiations
 'Hold up there little buddy
 'You are here doing Cantorian Nests of epsilon null sequences
 
-'You can't pass your math class caz you can't memorize trig relations?
+'You can't pass your math class
+'Caz you can't memorize trig relations?
 
 'School is for stupid people
 'Why UUURP why you think smart people need teachers Morty?!
@@ -1490,7 +1520,7 @@ Why would math lie to us?
 
 'Morty, the result wont match the 'answer-sheet'
 'You won't even finish the first step of the first problem
-'But it will be the Classic Morty move
+'But it will be the classic morty move
 --Rick & Morty
 
 
