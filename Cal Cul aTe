@@ -1578,19 +1578,34 @@ Arithmetic Space
 Euclid's Axiom of a Point: a point has no space.
 ✦
 Postulate of Continuity: between any two points exist an infinite sequence of points.
+✦
+Postulate of Eudoxus: 	for each numeric relation	 		[ A < B ]
+				always exists a scale 'N' to produce 		[ B < (A)(N) ]
 
-Hood is the open interval surrounding the point ⩙:
+In Arithmetic exist no infinitesimal-based idealism. 
+
+All approach exists only as the concept of unlimited-refinement
+being at each stage a number under domain of Eudoxus.
+
+Thus every refinement is relative to the denomination of the space.
+Refined in one denomination maybe too-crude in another denomination.
+
+Arithmetic REJECTS infinitesimals 
+which claim the property of invariant-refinement in all denominations.
+✦	
+Hood is the open epsilon interval, '𝔢' unlimited refining numeric variable, surrounding the point ⩙:
 	(⩙−𝔢 , ⩙+𝔢)
 
 A point can NOT be isolated from its Hood.
 Hood consists of  the unlimited points surrounding any point - in Systapeiron nearness. 
 This property distinguishes continuous space from discrete space. 
-	{⩙ − 𝔢} ...∞... {⩙ − (1 ∕ 2)𝔢} ...∞...  {⩙} ...∞... {⩙ + (1 ∕ 2)𝔢} ...∞... {⩙ + 𝔢}
 
-Arithmetic-number is the IDEAL center of the Hood.
+	{⩙ − 2𝔢} ...∞... {⩙ − 𝔢} ...∞...  {⩙} ...∞... {⩙ + 𝔢} ...∞... {⩙ + 2𝔢}
+
+Arithmetic-number is the non-spatial IDEAL center of the Hood.
 Hood is an interval with space, and thus can be isolated from the space.
 
-Hoods of points are the elements of continuous space.
+Hoods, being an interval, are the elements of continuous space.
 Points are the elements of discrete space.
 ✦
 Stereoscope will reveal a fine dot is truly a space of many points. 
@@ -1601,12 +1616,11 @@ Order is the foremost property of a number system.
 Each number exists in a global position, which is relative to all other numbers:
 	{ <, =, > }
 ✦
-Arithmetic operations are the only ways to traverse this space:
+Arithmetic operations are the only ways to traverse space:
 		(a + b)  Addition— to increment a number by another number.
 		(a — b) Subtraction— is to decrement a number by another number. 
 		(a * b) Multiplication— to scale a number by another number.
-		(a / b)  Division— to denominate a number, by the magnitude of another number 
-					- set as the scale.
+		(a / b)  Division— to denominate a number, by the magnitude of another number being set as the scale.
 
 If you are not using these 4 operations, then you are not doing mathematics.
 ✦
@@ -1616,8 +1630,7 @@ Homogenity is prerequisite to obtain:
 	the property of ORDER.
 	the ability to OPERATE.
 
-Homogenity establishes coherence of elements into a system.
-First logically, next theoretical, then computational.
+Homogenity establishes coherence twix elements in a system.
 Purpose and reason can never be divorced from computation.
 This is the superiority of the Man above the calculator.
 ✦
@@ -1650,7 +1663,7 @@ Addition property of Permutation is independent of order.
 Addition property of Association is notational convenience.
 		(A + B) + C = A + (B + C)
 ✦
-Multiplication property of Permutation in independent of order.
+Multiplication property of Permutation is independent of order.
 		ABC = ACB = BAC = BCA = CAB = CBA
 ✦
 Multiplication property of Association is notational convenience.
@@ -1661,27 +1674,29 @@ This the first structure of Arithmetic.
 		A(B + C) = AB + AC
 		(A + B + C)(D + E + F) = AD + AE + AF + BD + BE + BF + CD + CE + CF 
 ✦
-Multiplication-identity. All numbers are implicitly denominated by the unit value. This denomination can never be removed by cancellation.
-		Unit denomination is B explicity or implicitly.
-		A(B) = A(B/B)	A(B)(B) = A(B2)/B
-		Implicit		A(C/D) = (AC/BD)
+Multiplication-identity. All numbers are implicitly denominated by the unit value.
+Denomination can never be removed by cancellation in the Global Space.
 
-B in the numerator is a number being subject to direction, negative or positive.
-B in the denominator is a magnitude which is never negative.
+Number is subject to polarity (positive/negative).
+Denomination is a magnitude, and thus of entirely different species than a number.
+
+		Unit denomination is B, explicitly or implicitly.
+		A(B) = A(B/B)	
+		A(B)(B) = A(B2)/B
 ✦
-Multiplication-inverse is local re-denomination. 
-This calculation is sandboxed and can only enter the Arithmetic System after the final result is denominated by the global unit.
-		A/B * B/D = AB(1/D) ∕ B		
-		A/B * C/D = AC(1 ∕ D) / BD	
-		A * (B/A) = (B/B)
+Multiplication-inverse may impose local-only re-denomination. 
+This calculation is sandboxed from Global Space of the situation.
+
+Only the numerator, being a number,  is subject to approximation consequent of incomeasurables.
+
+		A / B * B / D = AB(1 / D) / B		
+		A / B * C / D = AC(1 / D) / B	
 ✦
 Distance is the magnitude between two points.
-		(B - A) = √{ B - A }2 = |B - A|
+		Distance(A, B) = √{ B - A }2 = |B - A|
 
 		|A| = |-A|
 		|A||B| = |AB|
-
-		|1| / B = 1 / B
 		|A| / B = |A / B|
 
 	
@@ -1690,102 +1705,107 @@ Distance is the magnitude between two points.
 Natural Space of Addition
 Positive space is the natural space of the Universe.
 Only positive measure & magnitude exist in the Universe.
+
 Addition is the operation to measure the accumulation of magnitude.
 
 Space of Addition is a localized space, and not a space of systems.
+
 Local: exist a pile of pebbles which you count. exist a space of trees which you count. 
 These actions can never be related unless other spaces exist.
+
 System: exist a store of pebbles. Pebbles are sold to clients & pebbles are bought from sellers.
-These actions constitute a system space and can only be related in a neo addition arithmetic space.
+These actions constitute a system space and can only be related in a neo addition space.
 
 Thus the space of Addition is the primary tool to assess a single situation.
 
-Count-operation is the primordial example of divergence; the approach is to only ever expanding in the space of Addition.
+Count-operation is the primordial example of divergence.
+Counting is an ever-expansion of the space of Addition.
 Count-operation is an open-statement until a conclusion is reached.
-
 Count-operation tests if an application space is boundless relative to a situation.
+
 Exist a pile of rocks, each rock is counted, until the last rock is reached.
-Exist a mountain of rocks, any rocks are counted, but the process will end and there will remain an uncounted quantity of rocks. Thus the whole never constitutes as a mathematical closed-process. Only the rocks counted into conculsion may enter the realm of mathematics. 
 
-Archemides proved that there exists no infinity in the universe via the only true trans-finite-process. It is a logical conjecture of an entirely finite closure of the universe.
-Sand Reckoner Technique:
-	Choose sand: Finest possible to minimize all perversion of nested error.
-	Choose measure: According to the comfort of the calculator - assign a unit volume
-	Fill this volume 10 times; each time count the grains of sand.
-	Assign epsilon the divergence between the least and greatest count of grains.
-	Repeat this loop; first maximum box which contains unit-volume of sand - last maximum space which contains the nested unit-volume of sand. Till all known universe is accounted.
-	This logical conjecture is explicit, stepwise repeatable up to the trans-finite-steps.
-	The logical conjecture of infinity is in no way stepwise repeatable; and thus is the inferior conjecture. 
+Exist a mountain of rocks, any rocks are counted.
+The counting process will end unfinished and there will remain an uncounted quantity of rocks. 
+The mountain is not a mathematical closed-process. 
+Only the counted rocks may enter the realm of mathematics. 
 
-Natural space is whole number space. 
+Order the Natural Number Space is inherent as a progressive sequence. 
+Yet order is not expanded to its full nature in this space. 
+
+Numbers require interpretation and understanding of the context.
+Certain numbers are strictly positive due to the concept the quantity represents: 
+	{ measure, distance, denomination }
+
+Addition rests upon the permutation principle. 
+Numbers & the operation of addition have no order of progression.
+
 The study of this space is called Number Theory.
 
-Order the Natural Number Space is inherent as given. Yet order is not expanded to its full nature in this space. Addition rests upon the permutation principle. Numbers & the operation of addition have no order of progression.
-
-{ Permutation, Enumeration, Combinatronics }
 
 ‘It is of the utmost importance through the whole of Algebra
 ‘That a precise idea should be formed of those negative quantities
 —Euler
 Negative Space of Subtraction
-Subtraction is an operation subject to relation between numbers, such as distance.
-Space of Addition & Subtraction form a complete system.
+Subtraction is an operation of relation between numbers in a system.
+
+Space of Addition & Subtraction form a complete system, being a cartesian plane.
+Order & inequality is established in totality. 
+The number & operation are bound into a distinct relationship.
+
 Subtraction is necessary to establish the relational operators of the numeric foundation of order
 	{  >, <, = }
 A - B > 0 establishes relation (A > B) = (B < A)
 A - B = 0 establishes the relation of A = B.
 
-Order is established in totality. The number & operation are bound into a distinct relationship.
-
 An unbounded sequence of subtraction traverses the numeric-continuum in an expansion in the negative direction.
-A system must be balanced. The expansion in the positive direction equal to the expansion in the negative direction.
 
 The universe denies any fixed universal origin. 
 The mathematical measure of systems & relations requires the origin of the continuum to be adaptable to the situation.
 Negative space is consequent to the translation of the origin in a system. 
 Negative space uniquely allows symmetry of structure with respect to the origin.
 
-Elements of negative space do not require elements of positive space to change directions from negative to positive. Positive elements require elements of negative space to change direction from positive to negative.
-
-Certain situations void negative space: measure, distance, denomination.
-Negative numbers have no even-powered roots.
-The mathematician must use great care in working in negative space.
-Positive space is natural, but negative space is a relative idea that has no natural anchor.
-
-Ancient Greeks did not believe in negative space.
-They focused their study upon analysis of the individual structure.
+Ancient Greeks did not study negative space, but only upon individual structure.
+There exists no negative space. All space is natural, being positive. 
 
 Modern mathematics expanded to measure systems. 
 Systems require adaptable origin to maintain structural-based relationships.
 Negative space arises from the translation of the origin demanded by the situation.
 
-Mathematics is the science of measure. 
 Measurement is always under dominion of the situation.
-The situation dictates the translation of the origin.
-Certain systems require a shift from natural space to negative space, this transformation forces the symmetry of negative space.
-The elemental characteristics of natural space are nullified by superposition of characteristics of negative space.
-A positive element is stripped of all characteristics, retaining only magnitude. This magnitude is then adorned with all the characteristics of a negative element.
-Dimensional Space of Multiplication
-Multiplication is an operation that can scale numbers:
-	multiplication of a whole-number is exactly similar to sequences of addition. 
-	introduces non-uniform exponential growth
+Situations often dictate the translation of the origin to fit the nature of the system.
+
+A positive element is stripped of all characteristics, retaining only magnitude.
+This magnitude is adorned with a negative sign and progresses in the opposite direction from the origin.
+Negative space creates the property attached to all numbers: polarity of signs.
+
+Elements of negative space do not require elements of positive space to change directions from negative to positive. 
+Positive elements require elements of negative space to change direction from positive to negative.
+
+Negative numbers have no even-powered roots.
+
+The mathematician must use great care in working in negative space.
+Positive space is natural, but negative space is a relative idea.
+Unlike positive space, negative space requires a system to have meaning.Dimensional Space of Multiplication
+Multiplication is an operation that can scale numbers & space:
+
+Alternative perspectives of Arith Operations:
+	multiplication of a whole-number is exactly similar to sequences invariant add|sub.
+	multiplication by a fraction-number is exactly similar to division.
+
+Fundamentally unique properties of the operation of mul:
+	introduces non-uniform exponential growth.
 	rate of change becomes a property.
+	appendage of dimensions upon a space.
 
 Multiplication is the foundation of the constructive extension of Dimensional Space.
 Multiplication changes the structure of space by appending a new axis of direction.
-No other arithmetic operation can alter the structure of space.
 
-Elements of Multiplication space contain the characteristics of magnitude & direction.
-
-Multiplication can shift direction of space. 
+Multiplication can shift direction of quantity in space. 
 Positive space requires the operation of multiplication by a negative entity to shift its positive direction to a negative direction.
 Negative space requires multiplication by a negative entity to shift its negative direction to a positive direction.
 
-Modern mathematics conflates the notational convenience of similarity of sequence of the addition operation to eclipse all the sophisticated properties which are unique to Dimensional Space.
-(A + A + A) = 3A
-This is only a small part of the domain of multiplication.
-
-Multiplication builds the perception of intelligence established upon perpendicularity of truly independent traversal.
+Multiplication is the foundation of perpendicularity; the property of independent traversal.
 
 Decompositional Space of Division
 ‘Division is the most important department of Arithmetic
@@ -1797,7 +1817,7 @@ Decompositional Space of Division
 ‘An ability to perceive structure beyond computation
 —ORAC SCIT
 How are points distinguished on a line, into distinct numbers?
-This is the underlying nature of Decomposition Space.
+This is the underlying nature of Decomposition Space; subtracting dimensions of space.
 
 Base of Number Space is the final commitment of the operation of division into global homogenization.
 	{ base-60, base-10, base-3, base-2, base-radian }
