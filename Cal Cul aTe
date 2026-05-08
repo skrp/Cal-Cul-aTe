@@ -2511,7 +2511,6 @@ Abstraction begats something primordially inhuman
 
 — Lovecraft Dagon
 
-
 ⌬
 Arithmetic is not the free manipulation of symbols.
 Arithmetic is the traversal of denominated space 
@@ -2917,6 +2916,25 @@ Greater — Less = Distance.
 
 This is the definition of Arithmetic Subtraction.
 Distance is a linear attribute based upon difference.
+⌬
+Arithmetic Distance in Grid-Space
+Distance first belongs to subtraction.
+In one homogeneous arithmetic axis, distance is the ordered surplus of the greater over the lesser:
+Distance = Greater — Lesser
+This is arithmetic distance in its primitive form.
+It is not the diagonal of  geometry. It is the linear gap disclosed by subtraction inside an Arithmetic Space.
+When a grid establishes more than one independent axis, subtraction does not vanish into a universal distance. Each axis preserves its own arithmetic act:
+d_x = Greater_x_2 — x_1
+d_y = Greater_y_2 — y_1
+Each axis yields its own homogenous difference. The grid-distance is then the addition of these independent axis-distances:
+Distance = d_x + d_y
+Thus grid-distance is subtraction on each admitted axis, gathered by addition, into total traversal.
+This is the native distance of arithmetic grid-space.
+The diagonal does not arise from subtraction alone. It requires the independent axis-differences to be squared, summed, and submitted to a root. This is a geometric procedure. 
+In the grid, the diagonal is generally non-comeasurable with the native traversal. Only in special cases does it return cleanly to the grid.
+Addition composes the grid-traversal by axis-gap, the homogenous distance between two points. Only Geometry constructs the diagonal, the nearest distance between two points.
+Arithmetic distance, is the ordered difference of each axis, accumulated as traversal.
+The grid does not ask for the shortest imagined line through space.
 ✦
 Origin is the singular point shared by axes established by a system.
 Exist a normal magnitude
