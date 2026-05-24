@@ -1148,6 +1148,60 @@ KanoKata
 
 
 
+Book I — Arithmetic Space
+Mathematical Proof
+Magnitude, Unit, and Species
+Denomination and Exact Finiteness
+Arithmetic Operations and Chain Coherence
+Non-Finite Fracture
+Number Species: Binary, Decimal, Fractional, Radian
+Homogenization and Composite Space
+
+Book II — Decomposition Space
+Division as Denominational Decomposition
+Fractions and Quotients
+Common Denomination
+Series and Homogenized Chains
+Denominational Failure and Systapeiron
+
+Book III — Tool-Founded Spaces
+Straightedge and Rectilinear Grid
+Compass and Radian Basis
+Square Cell vs Sector Cell
+Linear Perimeter and Quadratic Area
+Polar Space under Arithmetic Rigor
+
+Book IV — Systapeiron Krisilogia and Bounds
+Inequality
+Exclusion
+GLB/LUB - Bounded Approach
+Oscillatory Approach
+Divergence
+Hoods
+Semi-Closed Intervals
+
+Book V - Grid
+Arithmetic Coordinate Grid
+Dimensional Hoods 2^N
+Semi-Closed Intervals under Refinement
+
+Book V — Measure
+Semi-Closed Intervals
+Deduplication and Loss
+Grid Refinement
+Measure as Method-Independent Stabilization
+Integral as Arithmetic Measure
+
+Book VI — Functions and Calculus
+Syntactic Mapping vs Coherent Function
+Species-Preserving Functions
+Reciprocal Mappings and Denominational Chaos
+Finite Differences
+Differential Ratio
+Integral Reconstruction
+
+
+
 
 Continuum 
 	{ nature, peacock homogenization, base, operations, closure, independence from geometry }
@@ -3121,7 +3175,7 @@ Traversal midst an Arithmetic Space is by subtraction.
 Obtain two of three homogenous parts.
 9 - 3 - 3 = 3
 ✦
-Ratios being a relation, not a magnitude are unable to form fractions within Arithmetic Space.
+Ratios being a relation of magnitudes, not a magnitude are - unable to form fractions within Arithmetic Space.
 
 ‘You da best Dicki
 — God
@@ -3282,20 +3336,33 @@ Approach of a Systapeiron begat magnitude must be refined to the next iteration 
 NOTES
 
 
+Converging Continued-Fractions are able to express
+'In days, very nearly the periods of complete revolution
+‘Of the planet Venus and of the Earth in their orbits around the Sun
+‘An astronomical fact of no inconsiderable importance
+—Peacock Treatise on Algebra 1840
+
 How are points distinguished on a line, into distinct numbers?
 This is the underlying nature of Decomposition Space.
 
-The known unit is scaled to approximate ideal.
+The known unit is scaled to create a discrete space
+	These constructions are only ever approximate ideal.
 
-To scale the approx, layers the error with each progression.
-To operate on an approx, nests the error into the structure.
+Mathematician will judge if the error is indistinguishably NULL for the application.
+Thus expertise with the instrument used to denominate the space is foremost.
 
-The measure of the unit scaled into application space, measures magnitude.
-	PER intuition of mathematician 
-	IF the error after scaling, is indistinguishable NULL.
-	Against instrumental comparison, built for such purpose
-	THEN exist the ideal without layered error.
+Test of application magnitudes: fine, unit, large.
+	If there exist no measurable scaling of error
+		Then the tool has been used appropriately.
+	If exist the magnitude with error in the denominated space: { unit_ideal + N } 
+		Then the error will scale by X{ unit_ideal + N }
+		This will be noticed by fine & large magnitudes.
 
+IF approximation is scaled
+	Then error layers with each progression.
+IF approximation is operated upon
+	Then error becomes nested into structure.
+✦
 The most critical instrument of measure is the forged precision ruler as a straight & string.
 
 To measure & establish the magnitude in application space
@@ -3303,79 +3370,54 @@ To measure & establish the magnitude in application space
 	is the highest skill of the intelligent craftsman.
 
 To decompose without forms of third-party verification
-	- acts by pride which leads to failure of the man.
-
-
-Linear Arithmetic is the traversal UPON perimeter of rectilinear figures:
+	- acts by pride which lead to failure of the man.
+✦
+Arithmetic Traversal is UPON perimeter of rectilinear figures:
 	{ squares, rectangles, lines }
 
-Quadratic Algebra is the traversal THRU area of tuple figures:
+Quadratic Traversal is THRU area of tuple figures:
 	{ triangles, arclen-integrals, radian-sweep }
-
-Decomposition of Arithmetic is proven by exact decomposition & composition.
+✦
+Decomposition in Arithmetic is proven by invariable decomposition & composition.
 Arithmetic Measure returns the EXACT magnitude across ALL methods.
 If a refinement approaches null variation ALL further refinements by ALL methods
-	- produce a Bounded Approach such that each is never less refined than the previous.
+	Produce a Bounded Approach
+	Such that each subsequent is never less refined than the previous.
 
-Decomposition of Quadratic is the Oscillation Tolerant magnitude across all methods.
+Decomposition of Quadratic is Oscillation Tolerance across all methods.
 This is the weakest of approaches, being uncertain across methods
-	- a null variation in one method may be MORE refined
-	- than a further refinement in another method.
+	A null variation in one method may be MORE refined
+	Than a further refinement in another method.
 
-Linear Decomposition is based upon Greatest Lower BOUND & Least Upper BOUND.
-Quadratic Decomposition does not have the bounds to build Measure
-	-as its methods are uncertain oscillatory.
+Arithmetic Composition & Decomposition is based upon Lower Bound & Upper Bound.
 
-Base of Number Space is the final commitment of the operation of division into global homogenization.
+Quadratic Composition & Decomposition can only measure by uncertain oscillatory methods.
+✦
+Base of Number Space is the final commitment of the operation of division to build a global homogenized system:
 	{ base-60, base-10, base-3, base-2, base-radian }
+✦
+Decomposition is the study of altering the basis of a magnitude in a localized scope
+	Fractioned with the purpose of manipulation towards homogenization INTO the space.
+✦
+Division is the foundation of the Continuum.
+Continuum supports unbounded decomposition.
 
-Decomposition is the study of altering the basis of space in a localized scope, the fraction, with the purpose of manipulations towards homogenization.
+Denomination is not a property of the Continuum.
+Denomination is build by a tool to construct a projection of the Continuum.
 
-Division is the foundation of the Infinitorum.
 Division decomposes an interval in the continuum into partitioned space.
+Each decomposition is proof that the space does not contradict the Continuum.
+
 Decomposition is essential to analyze the coherence of space(continuity), structure(basis), and magnitude(distance).
 
-Division allows convergence-mechanisms of approach
-	- verified by the exactitude of positional numbers.
+Grids nest to approach convergence crudely but Arithmetic.
+Division allows convergence-mechanisms of approach of refinement
+	Grid appended by an external layer of refined magnitudes
+	Which required approximation to become homogenized.
 
 Decomposition is similar to the science of the Microscope. 
 Each lens is a fixed norm one uses to analyze the whole. 
 Refinement is the super-process of analyzing a sequence of lens to resolve an observed tendency..
-
-Converging Continued-Fractions are able to express
-'In days, very nearly the periods of complete revolution
-‘Of the planet Venus and of the Earth in their orbits around the Sun
-‘An astronomical fact of no inconsiderable importance
-—Peacock Treatise on Algebra 1840
-
-Denomination of a magnitude is established by the operation of division.
-Denomination is then built by the operation of addition.
- 
-The magnitude of denomination is not subject to direction
-	- and thus is independent of the operations of Addition & Subtraction.
-
-Denomination requires meaningful interpretation of scientific coherence
-	- which is the domain of the mathematician not the algorithm.
-
-Slope is a relationship of a number denominated by a specific magnitude into ratio, the rate of change.
-
-Relation Sine & Cosine is denominated by magnitude, the radius, the hypotenuse, which only represents distance, it is independent of direction, and thus is always natural.
-✦
-The space of fractions, ratios of incommensurables, and proportional-relation.
-
-Fraction is an arithmetic number called the numerator which is scaled by the positive magnitude called the denominator. This relationship is also called a quotient.
-
-Arithmetic operates upon the numerator.
-Common denomination is required to operate numbers in the numerator. 
-
-This manipulation of the structure of space, the basis, is required to attain a common denomination in agreement. Only after this is established can numerators be in full coherence.
-Any denomination can be made into common denomination by the axioms of arithmetic, but this process is far from trivial.
-
-A quotient relation is either:
-	Commensurable thus reducible into a natural number (whole).
-	Non-commensurable, irreducible ratio, which has no invariant number. A number can only exist under specific denomination to retain structural identity.
-
-Denomination is a structural component and not a member of the continuum.
 
 The whole of higher analysis the field of application of the theory of Infinite Series
 For all limiting processes are based on the investigation of Infinite Sequences
@@ -3466,56 +3508,45 @@ Upon which establish the theory of Convergence
 'in which the denominator is always positive
 --Hardy Pure Math p.1
 
-Mathematics is the science of applying measurement to a system which may be created entirely unrelated to measure. 
-Foremost, for the application of mathematic theory, is to test the space given by circumstance. 
-Space given to the circumstances are the following:
-	{continuous, monotone, inverse, fragmented, spotty, corrupted}
-
-Gratefully, most spaces in nature are continuous. 
-If you apply layers of more-precise microscopes to any space, what will be found is continuity.
-
-Unfortunately, when man simplifies experience into thought to create a framework — he maps continuous infinite space into a discrete finite space.
-Man is limited by thought to discrete finite space; 
-
 ‘Man takes portions of existence
 ‘And fancies that the whole
 —Blake
 
-The superior mind of the mathematician is often commissioned to analyze frameworks built by lesser minds.
 The mathematician must first typify the space before any technique can be applied.
 
-The seasoned mathematician has various numerical systems based upon each type of space:
-	{theory, elements, structure, operators, manipulations, equations}
+Space given to the circumstances are the following:
+	{ continuous, monotone, inverse, fragmented, spotty, corrupted }
 
-Increase Monotone Space:
+The seasoned mathematician has various numerical systems based upon each type of space:
+	{ theory, elements, structure, operators, manipulations, equations }
+✦
+Increase/Decrease Monotone Space:
 	If  [ e < g ]
 	Then  [ f(e) < f(g) ]
-	Therefore the space is strictly increasing. 
-Exists Decrease Monotone space.
 
 Inverse Space:
-	If  [the space is strictly monotone]
-	If  [the mapping of the input to output is One-to-One]
-	Then exists Inverse Space for which 
-		If  [f(e) = k]
+	If  the space is strictly monotone
+		If  the mapping of the input to output is One-to-One
+			Then exists Inverse Space
+
+	If  [f(e) = k]
 		Then  [g(k) = e]
 ✦
 Division by zero is a fault of logical coherence. 
 	Space can not change the unit of denomination to nothing. 
-	Space can not be measured by zero.
+	Space can not be calibrated by zero.
 	Space can not be scaled by nonexistence.
 
 Division by a variable is a fault of logical coherence.
 	(1/X) is a function of pure chaos of denomination and is anti-coherent.
 	It is the only linear curve in existence and is related to the hyperbola.
-	Decomposition of the area under this linear curve reveals the inverse property of the chaos of dimensional growth. The exponential function is to shatter the natural dimension of space into non-coherent dimensions. It is the study of the continuity of dimensional growth.
-	Non-coherent denomination & non-coherent dimensional-growth, both are recent ideas which have no fundamental ties to mathematics.
 ✦	
-Where the science fails must be studied with the upmost sophistication. 
-Yet this science must be entirely quarantined from the domain of coherent space.
+Where science fails - must be studied with the upmost sophistication. 
+Yet this circumstance must be entirely quarantined from the domain of coherent space.
 
 Modern mathematicians, plug & play as if this science created the universe.
-Devoid of the intelligent understanding of their actions, Neanderthal state of devolution from the Man of the ancients.
+Devoid of the intelligent understanding of their actions.
+Neanderthal state of devolution from the Man of the ancients.
 
 Mathematics rests upon the imperfect projection of the mechanics of the universe.
 The bedrock foundation may never change, but it should always be questioned.
@@ -3561,12 +3592,18 @@ Victorian England, from Newton to Boole, returned to the superior languages of t
 'Then all chained-dependencies & parasites are exposed
 --Dick Keung
 
-There exist no irrational, imaginary, nor infinities.
-The obliteration of common sense distinctions in the system of mathematics was the destruction of all real objects into a fantasy system.
+There exist no irrational numbers, imaginary numbers, nor infinitely large numbers.
+
+The obliteration of common sense distinctions in the system of mathematics
+	Was the destruction of all real objects into a contrived fantasy system.
 
 Natural numbers are so called due to their state tied to the natural universe.
-Imaginary numbers are useful for theoretical short-cuts, but that is a birth & life existing only within the realm of thought. 
-Imaginary numbers are born from convenience in the system, and are used within that system, but are always translated back to non-imaginary entities in application.
+Imaginary numbers are useful for theoretical short-cuts & notational collapsing
+	But imaginary numbers are born in thought and die in thought
+	Exist no imaginary numbers in the universe.
+
+Imaginary numbers are born from convenience of the system
+	But are always translated back to non-imaginary entities in application.
 
 Every science has portions:
 	1) tied directly to the natural universe
@@ -3574,7 +3611,9 @@ Every science has portions:
 	3) which exist only to aide the system.
 
 Humility is the saving grace to keep the scholar sane.
-Each man who has walked faithful the path of mathematics can stand on their ground firm against any other soul of past, present & future.
+Each man who has walked faithful the path of mathematics
+	Can stand on their ground firm against any other soul of past, present & future.
+
 Well-developed perspective is historically proven to be timeless & priceless.
 
 'An Imaginary number is no more imaginary than a 'Real' number
@@ -3589,25 +3628,37 @@ Well-developed perspective is historically proven to be timeless & priceless.
 Contortion of common sense is proof of corruption.
 A number forms the basic element.
 Identity, nature, properties all must be invariant & explicit.
-If advancement changes the fundamental nature of the science; what is established is a divergent science.
 
-Modern Logical Chain of Reason. Each new layer has to warp the definition of number.
+If advancement changes the fundamental nature of the science
+	What is established is a divergent science.
+
+Modern Logical Chain of Reason
+Each new layer has to warp the definition of number.
 	Numbers exist as distinct finite entities.
-	Rationals are composed of numbers set in non-resolved operation.
-	Functions are defined numbers.
+	Rationals are numbers connected by non-resolved operation.
+	Functions are numbers.
 	Reals are non-finite structures of functions defined as numbers.
-	Imaginary numbers exist only in Polar Coordinate Space as rotation.
+	Imaginary numbers are numbers which exist only in Polar Coordinate Space as rotation.
 
 Mathematics is the science of measure. 
 To measure there first must exist a unit.
 A unit then imposes a logical scale of a specific depth.
 
-In a system grounded by committed scale - there exist no infinite amount of possible numbers between any two points. At some decomposition, all further decomposition maps become invariant - distinctions produced by decomposition are all mapped back to the same point in Application Space.
+In a system grounded by committed scale
+	There exist no infinite amount of possible numbers between any two points. 
+
+At some decomposition, all further decomposition maps become invariant 
+	distinctions produced by decomposition are all mapped back to the same point in Application Space.
+
 Square-root-of-two, pi, e and all other numbers will exist as unique discrete points in space.
 
 The square root of negative one is proof that there is no solution.
 
-Modern Mathematic Posers have inbred into irrational & infinite lunacy due to their fear of calculating to scale. The handicap of algorithms further crippled intelligence. Herding dependence evolved from logarithms.
+Modern Mathematic Posers have inbred into irrational & infinite lunacy
+	Due to their fear of calculating to scale. 
+
+The handicap of algorithms further crippled intelligence. 
+Herding dependence evolved logarithms.
 
 
 ’Whatever is capable of increase or diminution is called a magnitude
@@ -4260,43 +4311,113 @@ Holographic projection flickers to life
 'Where the least shall be heard and considered side-by-side with the greatest
 --Judge Learned Hand
 
-Krisilogia, by structured confrontation,  seeks to turn the unfamiliar & chaotic into a defined system:
-	Resemblance to all known via Isologia quantified by measure of divergence.
-	Eccentricities that anchor identity, bound to parameterized characteristics.
+Krisilogia, by structured confrontation,  seeks to understand the unfamiliar & chaotic:
+	Resemblance of what is secure via Isologia, is quantified by measure of divergence.
+	Characteristic eccentricities, which anchor identity, bound by familiar parameters.
 
-The Quarry, being the matter of investigation, to be assimilated into the mathematic universe of Isologia. To understand its individual character and its place in the greater scheme - that mayhap it be of service.
+The matter of the investigation is to seek what can be known
+	From what only sophisticate Arithmetic may reveal.
+
+Faith that the glory of the deeper mechanisms is cast only in minute details.
+What learned in this case shall be encountered again in a lifetime's devotion.
+Hope to uncover a familiar thread connecting disassociate concepts which gives root to theory.
+
+'World of Warcraft server 99% Horde
+'Seent disrespect AFK raid entrance
+'Disillusioned none able to contest
+
+'Gnomly - Only gnomes gang
+'Only in the Eastern Plaguealnds
+'Infesting those northern woods
+
+'Dungeon strong Five Man
+'Able to raid & decimate
+_
+
+'Formed by HATRED of 
+'UrWifeMyKid Gnomelock
+
+'Raid leader healer AFK outside 
+'Surrounded by none-able-help
+
+'Buffed up as only a coward can
+'Log in the off casual filth
+
+'Fight futile already dead
+ 
+'Raid Tank came for vengeance
+'Buffed up as only a coward can
+
+'Raid told him not to fight
+'To ask for help not go solo
+'Sure in gear as in skill
+'Took no heed 
+
+'I jumped my lil booty into a small forest bush
+'Elite homie warrior gnome warrior jumped out
+'Arrival perfect timing to bait easy execution
+
+'No raid this week fithly whores
+_
+
+'Next week solo hunt 
+'Finding no quarry
+
+'Horde only travelled in groups of 10
+'From the chapel to entrance 
+
+'In a respect I aint never seen
+'Aun on a 99% Alliance Server 
+
+
+
+
+Boldest of hearts, steel in resolve, humble of heart.
+Failures, crusades, lost meander ALL blaze path IF record accessible
+	By a clearly framed journey respected into gallery.
+
+Saint savior of a lost soul, prayhap on brink of utter hopelessness
+	Whose last attempt brings salvation to cultivated civilization
+	Pain the frame of the journey to build one-way passage into road
+Minecraft
 
 PREREQUISITE
-Isologia must be in full & rounded command. The known, respective to the Quarry, must be familiar grounds: 
-	Mastery of techniques & manipulations.
-	Precise recall of individual results.
+Isologia must be in full & rounded command. 
+The known, respective to the Quarry, must be familiar grounds: 
+	Mastery of techniques & manipulations
+	Precise recall of individual results
 	Understanding of general behavior of each fundamental species of Isologia.
+	
+Desperation will gnaw into any fracture of will
+	When one is truly alone where none been before.
 
-A mature taxonomy must be well-articulated in the mind of the mathematician to maximize effectiveness of the venture.
+No heart able remain stalwart once a great struggle only reveals a well-known theorem
+	Whose new found command becomes only trivial assistance
+	Proof pride of a noob not ready who only reaps harm
+	Danger that drifts mathematician close to edge destruction.
 
-The standard 10,000 hours of adult dedication to Isologia. 
-Such intimate understanding allows the Quarry to take immediate rough-shape, recognized by its similarity to fundamental identities.
+A mature taxonomy must be well-articulated to maximize effective FOCUS of the venture.
+
+The standard 10,000 hours of adult dedication to the fundamental science of Isologia. 
+Intimate familiarity casts quarry to immediate rough-shape hewn from fundamental identities.
+
 'First you learn the instrument
 'Then you learn the music
 'Then you forget all that and just PLAY
 --Charlie Parker
-Comparison is the heart of Krisilogia; comparison of Isologia against the Quarry.
-
-Krisilogia is not bound to the subject matter - it is the mode of quantitative-method.
-	Civilized paved path of Isologia.
-	Bushwack traversal thru local wilds of Krisilogia.
-
 Quantitative Methods of Krisilogia:
 
 	Inequalities - Comparison of Space
 		Determine class of spatial existence of the Quarry environment. 
-		Use inequalities to verify & diagnose internal structure.
-		Parametrize characteristics peculiar to the Quarry into well-defined zones of space. 
+		Broad inequalities verify & diagnose internal structure.
+		Parametrize well-defined zones of space where Quarry exhibits peculiarities.
 
 	Peerage - Comparison to similar Functions
 		Establish foundational-functions in the class of space to judicially select peers.
-		Parametrize the Quarry by a function-always-less AND function-always-greater.
-		Manipulate the peers and analyze the same manipulations applied to the Quarry.
+		Peers will exhibit similar peculiarities in the space.
+		Parametrize the Quarry by a functions
+			More stable function  <  Quarry  <  more UNstable function
+		Assess effects of the algebraic principle of distributive manipulation.
 
 	Self - Comparison to previous State
 		Identify critical intervals and approach stepwise.
@@ -4304,68 +4425,86 @@ Quantitative Methods of Krisilogia:
 		Aim: understand internal-change and properties of spatial accumulation.
 
 	Ideal - Comparison by perturbation Warp
-		Identify the ideal species akin to the Quarry.
-		Warp the Quarry toward the ideal in progressively finer stages.
+		Identify the ideal species akin to critical sectors of Quarry
+		Warp the clone of Quarry toward the ideal, in progressively finer stages
+		Describe the whole by a chain of these clones to get a panoramic perspective
 		Magnitude & nature of the warpage become the characterizing integral of the Quarry.
 
 'Inequalities demand so much mathematical sophistication of its readers 
-'as to be unsuited for nearly all our undergraduate mathematic students 
-'Mathematicians know that mathematical analysis 
-'is largely a systematic study & exploitation of inequalities
+'As to be unsuited for nearly all our undergraduate mathematic students 
+
+'Mathematicians know that mathematical Analysis 
+'Is largely a systematic study & exploitation of inequalities
 
 'Mathematic analysis itself
-'is devoted to finding judicious approximations for 
-'integrals, infinite sums, solutions of differential equations, etc
-'without which conclusions could not be reached and theorems proved
+'Is devoted to finding judicious approximations for 
+'Integrals, infinite sums, solutions of differential equations, etc
+'Without which conclusions could not be reached and theorems proved
 --Kazarinoff
 
-All numbers by nature are ordered. This global distinction allows many unknowns to be caged by the limit of the knowns to a particular venture.
-
-Isologia seeks to establish exact equivalence which is called a point-wise solution. 
-Krisilogia Theory is established in the pursuit of relations among points. 
-
-Isologia inequality seeks to establish these distinct end-point parameters, between which exists the relation.
-
-Conditional inequality partitions Number Space into ranges of possibilities.
-This transforms a venture into a case study. The count of cases requiring verification is one for each variable, plus a final count.
-One point in each case range is entirely representative. Yet it is critical that each case is tested.
-
-Be very cautions to pair the undistinct Absolute Value to the undistinct inequality.
-
-Absolute value is a algorithmic process that can not be encoded by algebraic symbols ||.
-Using such symbols mask the atomic processes required for calculation.
-
-In a sequence of x. N < a < b. 
-|xa - c| < |xa - xb| |xb - c| < 𝔢
-
-All approach relies on Krisilogia theory. 
-Convergence is the endless pointwise approach towards a bound. 
-Radius of Convergence.
-Linear systems with more variables than basis equations.
-The approach to the integral under a curve.
-
-Cantor Nests are a technique of Krisilogia Theory.
-
-Linear Krisilogia: interval.
-Linear solution of a multi-dimensional question: line > plane > cube.
-
-
-{ Colinear inequality, Difference of squares inequality, Minimum distance: Minkowski, Arithmetic Mean & Geometric Mean }
-
-{ Cauchy, Minkowski, Holders, Wallis, Power-Means }
-
+All numbers by nature are ordered.
+This property allows unknowns to be caged
+	By the limit of the knowns in a particular venture.
 ✦
-Inequality. Order allows interval & pointwise relational structures.
+Isologia seeks to establish exact equivalence which is called a point-wise solution. 
+Krisilogia Theory is established in the pursuit of relations among points is called section-wise solution.
+
+Conditional inequality partitions Number Space into ranges of possibilities
+	Explored only by means of trial  & error
+	Any point in each sector is entirely representative of all points in that sector
+	Critical to test every sector established.
+✦
+Notation is essential to economize chains of thought
+	Yet if the notation nests structure
+	Then notation hides what need be explicit for readership
+
+Absolute Value is a algorithmic process of quadratic operations
+	 || encodes a quadratic function into a Nested process.
+
+Nests are proven when the decomposition of notation is non-atomic.
+
+Simple 
+a  <  b  <  c		a  <  b  &  b  <  c
+✦
+Abstractionist have fallen into a notational trap
+	Due to the weakness of their minds to expand the process explicit
+
+Morons established the fundamental identity of Modern Abstracted Analysis
+	Atop a formula which is non-mathematic.
+
+Foundational Fallacy:
+IF 
+	x - delta   <   U   <   x + delta
+THEN
+	FN(U) - epsilon  <  A  <  FN(U) + epsilon
+
+EXPLICIT
+	FN(x - delta   <   U   <   x + delta) - epsilon  <  A  <  FN(x - delta   <   U   <   x + delta) + epsilon
+RESULT
+	This non-mathematic statement can has no mathematic operational resolution
+	Cute mathematic dress does not make a woman
+	All who profane the mini-skirt with hangning-balls a total faggit
+	Thou shalt lift stones against such in the name of Darwinian Intellectual Evolution..
+
+Total blindness of common sense - entirely captures the spirit of Abstractionists.
+✦
+All approach in Systapeiron relies on Krisilogia theory. 
+Convergence is the endless pointwise approach towards a bound. 
+Radius of Convergence is the spatial zone of mechanical gravity where space condenses.
+✦
+Krisilogia
 		A < C;	D < E;			A + D < C + E
 		A < C;	C < D; 			A < D
 		A < C; −C < −A;		1/C < 1/A
+✦		
+Conditional Kisilogia and the radius of convergence.
 		
-		|A + B| ≤ |A| + |B|
-		|A + B| ≥ |A| − |B|		
-		|A + B| ≥ | |A| − |B| |
-		
-		|A| < R			[−R < A < R ]
-		|X - A| < R 			[ A - R ] < X < [ A + R ]  
+A is bound between GLB (-R) & LUB (R)	
+	-R  <  A  <  R 
+
+Difference [ X - A ] is bound between GLB (-R) & LUB (R)
+	-R  <  [ X - A ]  <  R  
+	[ A - R ] < X < [ A + R ]  
   ⌬ Inequality
 
 'Inequalities demand so much mathematical sophistication of its readers 
@@ -7077,3 +7216,37 @@ Differentiation and other tools become meaningful only after these conditions ho
 The process from pathologic to Eulerian ensures your methods reflect deep mastery, rigorously verified and carefully constructed, leaving no room for unseen contradictions or pathological remnants.
 Thus, the fundamental relationships among compactness, uniform convergence, and differentiation form a tight-knit logic, each component essential and harmonious, within your cal-cul-ate vision.
 ORAC SCIT, refined, yet compactly delivered.
+
+
+
+CAST OFF ###########################
+
+
+Denomination of a magnitude is established by the operation of division.
+Denomination is then built by the operation of addition.
+ 
+The magnitude of denomination is not subject to direction
+	- and thus is independent of the operations of Addition & Subtraction.
+
+Denomination requires meaningful interpretation of scientific coherence
+	- which is the domain of the mathematician not the algorithm.
+
+Slope is a relationship of a number denominated by a specific magnitude into ratio, the rate of change.
+
+Relation Sine & Cosine is denominated by magnitude, the radius, the hypotenuse, which only represents distance, it is independent of direction, and thus is always natural.
+✦
+The space of fractions, ratios of incommensurables, and proportional-relation.
+
+Fraction is an arithmetic number called the numerator which is scaled by the positive magnitude called the denominator. This relationship is also called a quotient.
+
+Arithmetic operates upon the numerator.
+Common denomination is required to operate numbers in the numerator. 
+
+This manipulation of the structure of space, the basis, is required to attain a common denomination in agreement. Only after this is established can numerators be in full coherence.
+Any denomination can be made into common denomination by the axioms of arithmetic, but this process is far from trivial.
+
+A quotient relation is either:
+	Commensurable thus reducible into a natural number (whole).
+	Non-commensurable, irreducible ratio, which has no invariant number. A number can only exist under specific denomination to retain structural identity.
+
+Denomination is a structural component and not a member of the continuum.
