@@ -594,8 +594,8 @@ Capture the moment and eternalize the day:
 ‘Math is fun
 
 ‘The joys & sorrows of mathematical work are reflected explicitly
-‘Capture the flavor of mathematics
 
+‘Capture the flavor of mathematics
 'Written by a mathematician with excellent handwriting
 ‘Set Leonhard Euler’s spirit on every page
 
@@ -615,7 +615,7 @@ After a decade of devotion, the time will be ready for the ultimate synthesis of
 	A creation of an original treatise: Grimore.  
 Scholar
 Mathematics, taught well, can be learned by anyone to a point of true sophistication.
-Mathematics, taught terribly, can forge an indomitable mind IF it survives to finds The Path.
+Mathematics, taught terribly, can forge an indomitable mind IF it survives to find The Path.
 
 All who continue this path will become intelligent past imagination.
 All intelligent life walked the path of mathematics
@@ -1219,7 +1219,7 @@ Ten years of great deeds to arrive at mature wizardry
 ‘Crystallized into a very singular expression
 ‘1928 established in the Pawtucket bungalow
 ‘April 13 1928 room of Charles Dexter Ward at a private hospital on Conanicut Island
-—Lovecraft The Case of Charles Dexter Ward 
+❧❧❧ Lovecraft The Case of Charles Dexter Ward 
 
 
 
@@ -1359,7 +1359,8 @@ Mathematic Proof
 'The root of all mischief in the sciences
 'Falsely magnifying & admiring the powers of the mind
 'We seek not its real helps
---Bacon
+
+❧❧❧ Bacon
 
 
 
@@ -1392,7 +1393,8 @@ Mathematic Proof
 'All propositions are either assertions or denials
 'In all logical reasoning, the negation is simple negation
 'never implying affirmation of the contrary
---DeMorgan First Notions of Logic
+
+❧❧❧ DeMorgan First Notions of Logic
 
 The irreducible set of elements in a science form the Axioms of the Science. 
 
@@ -1403,8 +1405,10 @@ Axioms are given by faith.
 All else, technique & theory, must be directly consequential from these axioms.
 
 The set of axioms are very influential. 
-Most mathematical sciences, are merely the appendage of a single axiom atop the Arithmetic Axioms.
-Thus the set of axioms must be minimal, and entirely formed at the start.
+Most mathematical sciences are merely
+	The appendage of a single axiom atop the Arithmetic Axioms.
+
+Set of axioms must be minimal, and entirely formed at the start.
 
 New-Truths appended to the ancient axioms are swept away in time.
 All structures built atop, are likewise flushed as tragedy of the imbecile.
@@ -1413,48 +1417,66 @@ Man created in the image of God; destined to devolve into frog-throat-fucking pr
 
 ’We must start from indemonstratable principles
 ‘Otherwise, the steps of demonstration would be endless
-— Aristotle Posterior Analytics
+
+❧❧❧ Aristotle Posterior Analytics
 Proofs are not created equal: 
 	{ truth, closed-statement, open-statement, conjecture }
 ✦
-Truths are invariant fundamental relationships, two elements joined under an operation.
+Truths are invariant fundamental relationships
+	Two elements joined under an operation result in a third number.
+
 Mathematical truths are formed by:
 	Axioms of Elemental Existence, combined with, Axiom of Operational Effect.
 
-Truths form the primordial structures of a science and are the foundation of the nature of the science.
+Truths form the primordial structures of a science.
 ✦
 Closed-statements are complete groups of truths established into a conclusive formula.
-Formulas are directly computational, and are stepwise-reproducible in computation.
-Formulas may morph over time, closed-form to closed-form, due to emphasis of perspective -- in application of theory or practice.
 
-Closed-statements are results of techniques which provide the structure to build a theory.
+Formulas are directly computational AND stepwise-reproducible in computation.
+
+Formulas may morph over time, closed-form to closed-form
+	Due to emphasis of perspective -- in application of theory or practice.
+
+Closed-statements construct techniques
+	Techniques construct the structure of a theory.
 ✦
-Open-statements can not be proved conclusive, only assumed by unending non-contradiction.
-Open-statement can be stepwise-reproducible, yet are non-conclusive.
+Open-statements can not be proved conclusive
+	Only assumed by unending non-contradiction.
+
+Open-statement can be stepwise-reproducible, yet remain non-conclusive.
 
 Due the nature of certain open-statements, many can never attain closure.
-Development of open-statements into conclusive-closure fully assimilates the open-statement into mathematics.
+Development of open-statements into conclusive-closure
+	Fully assimilates the open-statement into mathematics.
 
 Open-statements are necessary due to the incompleteness of the science.
 ✦
 Conjecture is a chain of reason; it is a product of the science of Logic.
-Conjectures use logical-statements combined with logical-operators to attain a system of coherence.
-Conjectured coherence - without explicit, stepwise, numeric construction - can never enter the science of mathematics.
 
-Conjectures are the drafts of wishful thinking, from which mathematics seeks adventure.
+Conjectures use logical-statements combined with logical-operators
+	To attain a system of coherence given an explicit premise.
+
+Conjectured coherence without explicit, stepwise, numeric construction
+	Can never enter the science of mathematics.
+
+Conjectures are the drafts of wishful thinking
+	From which mathematics seeks adventure.
 ✦
 Formula for the square of a number is a closed-statement.
-22 = (2)(2) = 4 
-Shift the perspective transforms the closed-statement to another closed-statement.
-Log2(4)=2 
-The results are entirely conclusive.
+	22 = (2)(2) = 4 
 
+Shift of perspective transforms the closed-statement to another closed-statement.
+	Log2(4)=2 
+
+The results are entirely conclusive.
+✦
 The count-operation is an example of an open-statement: 
 	If iteration can equal N, then the iteration may equal (N+1).
+
 Count operation never-fails in Logic, but fails in application space.
 
-When the count-operation is explicit -- then it is in closed-form and mathematic.
-N = 10; N + 1 = 11  
+When the count-operation is explicit -- then it is closed-form & mathematic.
+	N = 10; 	N + 1 = 11  
 ✦
 Induction is the science of foundation construction. 
 Induction appends-only proven truths to a system.
@@ -1464,22 +1486,27 @@ Foundation is not to experiment or style; but be exclude all impure.
 Deduction is the science of analyzing the universe.
 Deductive reasoning begins with an imperfect working set of elements & relations:
 	Logical preprocessing, proven by calculation, filters all which is non-coherent.
-	Trial & error removes inconsistent elements & propositions.
+	Trial & error further removes inconsistent elements & propositions.
 	Over time, inconsistency converges to zero, and a result is established.
 
 The process & results are analyzed into a coherent theory.
 All must be direct consequences of the foundation built by Induction. 
 Otherwise, the foundation is incomplete OR the process was inconsistent.
 ✦
-The product of each investigation is carefully classed:
+The product of each mathematic investigation is carefully classed:
 	{ Truth, Closed, Open, Conjecture }
 
-‘There are two kinds of generalizations.
-'One is cheap and the other is valuable.
-'It is easy to generalize by diluting a little idea with a big terminology
+‘There are two kinds of generalizations
+'One is cheap and the other is valuable
+
+'It is easy to generalize 
+'By diluting a little idea with a big terminology
+
 'It is much more difficult
-'To prepare a refined and condensed extract from several good ingredients
---G.Poyla
+'To prepare a refined and condensed extract
+'From several good ingredients
+
+❧❧❧ G.Poyla
 
 Distinguish very carefully between the proof of Generalization and the proof of Abstraction.
 ✦
@@ -1492,6 +1519,7 @@ Generalized proofs of deduction never assert more than can be constructed.
 For a generalized-proof to exist - there must exist no contradictory case.
 ✦
 Abstraction is evolved from the philosophic ideal of universal-containment.
+
 Abstractionism philosophizes a system of thought built to attain completion under conformity.
 This system is conjectured pure & isolated from the universe.
 
@@ -1504,14 +1532,21 @@ Works define the man, and abstractionists avoid calculation at all costs.
 ‘Definition in itself
 'Says nothing as to the existence of the thing defined
 ‘It only requires to be understood
-— Aristotle Posterior Analytics
 
-Proof in mathematics must be constructive by numbers to result in a conclusive number; the process must be stepwise reproducible.
+❧❧❧ Aristotle Posterior Analytics
 
-Logical-existence-proofs & Logical-contradiction-proofs are set at as placeholders for the boundary of mathematic ability - binding glue preliminary to the weld.
-Any theory resting only on logic-proof is immature and underdeveloped, requiring technique to attain the structure of closure.
+Proof in mathematics must be constructive by numbers
+	To result in a conclusive number; the process must be stepwise reproducible.
 
-Mathematics is a forest of trees. Each tree has growth at every level.
+Logical-existence-proofs & Logical-contradiction-proofs 
+	Are set at as placeholders for the boundary of mathematic ability
+	A binding glue preliminary to the weld.
+
+Any theory resting only on logic-proof is immature and underdeveloped
+	Technique is required to attain the structure of closure.
+
+Mathematics is a forest of trees.
+Each tree has growth at every level.
 Logic-proofs are the buds which may one day grow into mathematic structure.
 
 ‘The question of numerical calculation of the limit
@@ -1527,11 +1562,16 @@ Insufficient in any practical application
 ‘The representation of a real number by a sequence 
 ‘May be considered as the most general mode of representation
 Critical in both application & theory 
-- Konrad Knopp p. 79
+
+❧❧❧ Konrad Knopp p. 79
 
 Calculative-exhaustion distinguishes the mathematician from the intellectual-poser.
 
-Mathematic genius seeks the construction of masterpieces as the ultimate expression of superior intellect. Great expanses of detailed calculations orchestrated to construct an elaborate proof converging to simple comprehension.
+Mathematic genius seeks the construction of masterpieces
+	The ultimate expression of superior intellect. 
+
+Great expanses of detailed calculations orchestrated
+	To construct an elaborate proof converging to simple comprehension.
 
 Genius is not easily convinced and requires cyclic reaffirmation as understanding grows.
 
@@ -1540,110 +1580,267 @@ The "necessary & sufficient" attitude of minimum effort damns intelligence into 
 ‘Every theorem which is complete, with all its parts perfect
 ‘Purports to gain in itself all of the following:
 ‘Enunciation, setting-out, definition, construction, proof, conclusion
-—Proclus  
+
+❧❧❧ Proclus  
 Nature of the Sciences of Arithmetic Mathematics
 
 	ARITHMETIC
-	Arithmetic is the bedrock foundation of all mathematic science. 
-	Arithmetic establishes stepwise repeatable and stepwise decomposable numbers. Numbers are always complete, explicit, and finite.
+	Arithmetic is the bedrock foundation of all mathematic science.
+	Quality in Arithmetic must be a construction which is complete, explicit, finite.
+	Arithmetic expression requires the totality of the quantity captured by a single element.
+	Arithmetic must scale stepwise repeatable and decompose stepwise repeatable.
+	Any failure to satisfy any of these qualities shall disqualify a study from Arithmetic.
 
-	Axiom of Arithmetic: Ordered-numbers exist axiomatically and are not generated by processes.	
+	Axiom of Arithmetic: Ordered-numbers exist axiomatically - not generated.
 
-	Nature of Arithmetic is to ESTABLISH an immutable foundation, UPON which many other sciences can find eternal construction.
+	Nature of Arithmetic is to ESTABLISH an immutable foundation
+		UPON which many other sciences can find eternal construction.
+	
 	Arithmetic is exactitude without compromise of virtues: simple, pure, direct.
 
-	Aim of Arithmetic is to ESTABLISH the continuity property found in the universe INTO the realm of numbers which is naively discrete.
+	Aim of Arithmetic is to ESTABLISH the continuity property found in the universe 
+		INTO the realm of numbers which is naively discrete.
 
 	ISOLOGIA
-	Isologia is the science of establishing closed & complete relations in the form of pointwise equations. Academia uses the name Algebra.
-	Isologia is the science of relations which assert existence. Sqrt(2) or 1/3. All objects which can only be finitely expressed as relations are elements of Isologia. 
+	Isologia is the science of establishing closed & complete relations
+		In the form of pointwise equations. (Algebra)
 
-	Axioms of Isologia: equality of statements is absolute, independent from homogenization of space.
+	Isologia resides in the Universal Number Space
+		UNS is not a space and it is not filled with numbers
+		UNS is a philosophic idea where the elements are symbols of ideas related by ORDER
+		UNS is weaker than numeric space
+			Requires qualification to evolve into a number space.
 
-	Nature of Isologia, uses equality to manipulate statements - to establish a perspective-driven chain-of-calculation which culminate into a theorem. Isologia seeks to establish identities. To collapse different forms into an umbrella of identities, or expand forms via manipulation of identities.
-	Nature of Isologia is manipulations within a realm of absolute truth where there is no need for interpretation - yet shall always retain system balance. Elements in a small sterile space based on the nature of Induction; exclusion of uncertainty.
+	Isologia is the science where relations assert existence. 
+		{ Sqrt(2) or 1/3 } 
+	
+	Objects which can only be finitely expressed as relations are elements of Isologia. 
 
-	Aim of Isologia is TO establish static identity, directly-conclusive, calculable formulas FROM complex dynamics observed in the universe. 
+	Axioms of Isologia: equality of statements is absolute.
+	Isologia is independent from space and spatial-homogenization.
 
-	Capstone skillset is to REDUCE recurrence observed - a pattern built by layers of pervious states - INTO a simple formula independent of previous states.
+	Nature of Isologia uses equality to manipulate statements
+		To establish a perspective-driven chain-of-calculation
+		Which culminate into a theorem. 
+	
+	Nature of Isologia manipulates within a realm of absolute existence
+		Continuity of Universal-Number-Space is the basis to conclude
+			There exists element of space which satisfies any equation
+				IF exist a convergent-bounded nest
+					THEN exist a single number which is the solution
+						YET proofs confirm this number is impossible to attain.
+
+	Isologia is thus entirely foreign to the quality of Arithmetic.
+	Universal-Number-Space is a staging ground to establish a Homogenous-Number-Space.
+
+	Isologia calculations do not require interpretation of quantity into magnitude.
+	Elements are not natural to the Universe, but are assumed from operations of the science.
+
+	Aim of Isologia is TO establish static identity in directly-conclusive & calculable formulas
+		FROM complex dynamics observed in the universe. 
+
+	Isologia seeks to establish identities
+		To collapse different forms into an umbrella of identities
+			Or expand forms via manipulation of identities.
+	
+	Recurrence is a pattern whose sequence elements are built by layers of pervious states
+	Capstone skillset is to REDUCE recurrence observed
+			INTO a simple formula independent of previous states.
+
+Recurrence is a sequence of ordered states
+ After the initial state
+Each state is generated from previous states
+
+The sequence must first be walked
+First state, then next state, then subsequent states
+ To attain the (N)th state
+All preceding states must first have been calculated in sequential order
+
+A recurrence is constructible
+When a single invariant relation acts
+Upon previous states to generate each succeeding state
+
+A recurrence is solved
+When the (N)th state can be computed by a closed formula
+Without calculating the preceding states
+
+❧❧❧ ORAC SCIT
+
 
 	KRISILOGIA
-	Krisilogia, cages the unknown by restricting enclosures. The conclusive nature of Isologia excludes other techniques that may not be perfect, but are of structural usage. Here exists all which is in the process of becoming Mathematics. Rich, diverse, queer - a battleground - a mad science laboratory - where wild things are.
+	Krisilogia, cages the unknown by restricting enclosures of known endpoints. 
+	
+	The conclusive nature of Arithmetic & Isologia
+		Excludes other techniques that may not be perfect, but are of structural usage. 
+	
+	Krisilogia processes all which is in the process of becoming Mathematics:
+		rich, diverse, queer
 
-	Axioms of Krisilogia: known elements may parameterize enclosures of non-conclusive space.
+		a battleground 
+		a mad science laboratory
+		where wild things are.
 
-	Nature of Krisilogia: distinguish partitions of space as being known-unrelated OR unknown-related. 
-	Nature of Krisilogia is the boundless universe of Deduction. Nothing is excluded, and all requires the wisdom of judicial prudence upon relative scales of certainty. 
+	Axioms of Krisilogia:
+		Known elements may parameterize enclosures of non-conclusive space.
+
+	Nature of Krisilogia:
+		Distinguish partitions of space  known-unrelated  or  unknown-related.
+		Krisilogia exists inside the domain of Deduction
+			Nothing is excluded
+			All required the wisdom of judicial prudence upon relative scales of certainty.
  
-	Aim of Krisilogia converges - upon a zone of uncertainty - via definite endpoints of inequalities.	Establish bounds, asymmetry, and distinction - which can be refined if the space is continuous.
-
-	Capstone of Krisilogia, enhance the scientific frameworks of known & distinct solutions, with the bond of the more general inequality structures.
-	Explicit logical judgement based upon the known enclosures to establish clear weights of what is known.
+	Aim of Krisilogia is to establish what is known enough given a premise
+			Upon an impossible circumstance.
+		Lower Bound and Upper Bound approach another without exception
+		Non-Arithmetic ideas will always exist in zones of uncertainty:
+			ARITH_LB  <  (to0j)  <  ARITH_UB
+		
+	Capstone of Krisilogia:
+		Enhance the scientific frameworks of known & distinct solutions
+			With the bond of the more general inequality structures.
+		
+		Explicit weights of what is known and explicit judgements of what is assumed
+			Assumption often due to proof of non-existence.
+		
+		Impossible entities when approached by LB|UB enclosures
+			Produce Arithmetic entities which satisfy the tolerance requested.
 	
 	⌬ SYSTAPEIRON
 	Systapeiron - contraction of the infinite, a boundless inward draw.
 
-⌬ Boundless inward spiral of paired extremities, least & greatest, collapsing by iterative-refinement. Which only yields to reason, but never to conclusion.
+	Systapeiron builds atop Krisilogia inequalities to form a structural sequence:
+		Iterate inequalities into a nested structure to be examined overall
+		Each interval has a unique LB & UB pair
+			For each interval create a new entity Difference-Sequence
+			Difference_i  =  UB_i  -  LB_i
+			Form a sequence of these Differences
+				IF this sequence is monotonic-decremental AND approaches NULL
+					THEN the nested-inequality-intervals are CONVERGENT.
 
-	Convergence, the endless approach is the fundamental process of the analysis of functions. 
-	Convergent-Bound: is the strict approach which never exceeds a refining interval.
-	Convergent-Oscillation: the indeterminate approach which tends towards a refining interval.
+	⌬ Boundless inward spiral of paired extremities, least & greatest
+		Collapse by iterative-refinement
+		Which only yields to reason, but never to conclusion.
+
+	Convergence, the endless approach is the fundamental process of the analysis of continutity. 
+
+	Difference-Sequence is either divergent-unbound or convergent.
+	Exist two species of convergence, bounds & oscillation.
 
 	Divergence is the absence of convergence, being directionally endless in progression.
 
-	Condensation of rates of change of an interval used to inspect local behavior, Derivatives.
-	Condensation of least & greatest areas into a measure of area, Integral.
+	Convergent-Bound: is the strict approach which never exceeds a refining interval.
+	Convergent-Oscillation: the indeterminate approach which tends towards a refining interval.
 
-	Axiom of Systapeiron: Space is a directional dense-continuum; between any two numbers exists an infinite sequence of numbers all greater than the one and less than the other. 
-	To traverse space pointwise is illogical, a point has no space. Thus space must be traversed by intervals. 
-	In the universe:  each step in a journey, any flow of liquid - is NOT a continuous process atom-by-atom.
+	If space is continuous
+		Then in every bounded interval hosts another interior interval
+			Each nested interval has a unique length which converges to NULL.
 
-	Convergent-approach is an endless progression towards a Bound. 
-	Always exists another Bound-number in an approach which is always greater than the previous Bound-number but less than the convergent-bound.
-	Convergent-bound is not a number but an interval of space which is always approachable from both growth & reduction, left-to-right, greater-than OR less-than. 
+	Convergent-Bound is an endless approach of a LB & UB towards an intermediary space
+		Lower Bounds form a sequence
+			Next is always greater than the previous LB and less than all UB.
+		Upper Bounds form a sequence
+			Next is always less than the previous UB but greater than the LB.
 
-	Aim of the Systapeiron is to use convergent-approach to bound inconclusive results into a tolerance of unlimited refinement.
+	Convergent-Oscillations are endless approaches which do not satisfy the Convergent Bounds
+		LB|UB nested intervals will violate the structure
+			Some LB will be less than the previous LB
+			Some UB will be greater than previous UB.
+
+	Convergent-Oscillations form the least structure
+		Judgement finds that in general there exists convergence
+		Yet no mathematic technique satisfies the process into a Covergent-Bound.
+
+	Axiom of Systapeiron: Space is a dense-continuum
+		Between any two numbers exists an infinite sequence of numbers
+			Each greater than the one and less than the other. 
+
+		To traverse space pointwise is illogical, a point has no space
+			Space must be traversed by intervals. 
+
+		In the universe:  each step in a journey, any flow of liquid
+			Is NOT a continuous process atom-by-atom.
+		
+	Aim of the Systapeiron
+		Use convergent techniques to satisfy tolerance of the situation
+		Then homogenize suitable LB|UB into the Application Space.
 	
-	Capstone of Systapeiron is to implement Transcendental Ideas into Arithmetic Space, using only numbers.
-	Capstone skillset is to enumerate rates of change and capture measure of space under decomposition.
+	Capstone of Systapeiron is to implement Transcendental Ideas into Arithmetic Space.
+		Enumerate rates of change AND capture measure of space under decomposition.
+
+	Systapeiron is able to inspect local behavior of rate, Derivatives
+		Local behavior sculpts the global behavior of area, Integral.
 
 	KanoKata
-	KanoKata - creation of personal mathematical system by interpreting the technique & theory of mathematics into a unique synthesis of application. (academic Analysis)
+	KanoKata - creation of personal mathematical system
+		Interpreting the technique & theory of mathematics
+			Into a unique synthesis of application. (Analysis)
 
 	Axiom of KanoKata - each individual master obtains a unique character of understanding.
 
-	Nature of KanoKata - from axiom to endgame, the reasoning & judgements of the implementations must be explicit for another to follow gapless.
+	Nature of KanoKata - from axiom to endgame, all reasoning & judgements
+		Implemented explicit for another to follow gapless.
 
-	Aim of KanoKata - interpretation of science & situation entirely using arithmetic. A stepwise guide to how this mind has formed its sophisticate resolution.
+	Aim of KanoKata - interpretation of science & situation entirely using Arithmetic. 
+		A stepwise guide to how this mind has formed its sophisticate resolution.
 
-	Capstone of KanoKata -Each institutional disagreement, here has a definite choice. Another may thereby rank the results in legitimacy. Interpretation in total coherence to the mind of the creator.
+	Capstone of KanoKata -Each institutional disagreement, here has a definite choice				Another may thereby rank the results in legitimacy
+		Interpretation in total coherence to the mind of the creator.
 
 	MEASURE
-	Measure is the science dedicated to verify sane behavior of Application-Space under decomposition of the continuum, and the valid propagation of dimension within the given species. 
-	Measure is the analysis of Deduplication of doubled-points & Replication of lost-points, such always results from processes of boundless subdivision.
+	Measure is the science dedicated to verify sane behavior Arithmetic in Application-Space.
 
-⌬ Arithmetic builds ideal processes to operate where situation assumed to be free of dedupe/loss under subdivision. This ideal is NEVER valid in the Measure of the universe.
-Measure must verify whether those processes survive translation into Application Space without loss, duplication, or unstable local collapse.
-Integral and derivative theories are not universal guarantees of this sanity; they are successful formalisms on classes where sanity has been ASSUMED or PROVEN.
+ 	Decomposition of the continuum and the valid propagation of dimension.
+	Measure is the analysis of Deduplication of doubled-points.
+	Replication of lost-points, such always results from processes of boundless subdivision.
+
+⌬ Arithmetic builds ideal processes to operate
+	Where situation assumed to be free of dedupe/loss under subdivision
+	This ideal is NEVER valid in the Measure of the universe.
+	
+	Measure must verify whether those processes survive translation into Application Space
+		Without loss, duplication, or unstable local collapse.
+	
+	Integral and derivative theories are not universal guarantees of this sanity
+		They are successful formalisms on classes where sanity has been ASSUMED.
 
 
-	Axiom of Measure: endpoints of the interval are distinct from internal points, due to the nature of Hoods. Hoods only become consequential when a point is set as an endpoint. 
-	Exist a Greatest-Lower-Bound-Hood from the least-endpoint. Exist a Least-Upper-Bound-Hood from the greatest endpoint.
-	To each axis of dimension exist this unique pair.
+	Axiom of Measure: 
+	Endpoints of the interval are distinct from internal points, due to the nature of Hoods. 			Hoods only become consequential when a point is set as an endpoint. 
+	Exist Lower-Bound-Hood AND Upper-Bound-Hood
+		Each axis of dimension forms its own pair of Hoods.
 
-	Decomposition of space create two conclusive results: minimum-space required due to Loss & maximum-space possible due to Duplication. 
-	Nature of Measure is to approach an agreement of minimum & maximum space - to a conclusive result, of a direct measure of the space which is independent of the process.
+	Decomposition of space creates two conclusive results: 
+		Minimum-space required due to Loss
+		Maximum-space possible due to Duplication. 
+	
+	Nature of Measure is to approach an agreement of minimum & maximum space
+		Into a conclusive result independent of choice of techniques.
 
-	Aim of Measure is to BRIDGE the processes built in Arithmetic Number Space TO its translations in Application Space in a controlled manner customized to the characteristics of Application Space.
-	Measure is an advanced science. Arithmetic Number Space must be entirely mastered preliminary to adaptations of Application Space by the science of Measure. A point exists ideal discrete upon Arith Continuum. A point exists as a amorphous Hood blob of points in the continuum of the universe in Measure.
+	Aim of Measure is to BRIDGE the processes built in Arithmetic Number Space 
+		To its translations in Application Space in a controlled manner
+		Customized to the characteristics of Application Space.
+	
+	Measure is an advanced science. 
+	Arithmetic Number Space must be entirely mastered preliminary to Measure.
+	
+	A point exists ideally-discrete in Arithmetic Space. 
+	A point exists as a continuous Hood of points in the continuum of the Measure of Universe
+		No point can be isolated from its hood
+		Interval is the primordial element of Measure Theory.
+	
+	Method builds Measure Hoods from Arithmetic Bounds.
+	Arithmetic is used to assert CLOSED-FIRST-INTERVAL
+		To produce three mutual-exclusive partitions: 
+			tolerant endpoints, known inclusion, know exclusion.
+	Measure operates on OPEN-SECOND-INTERVAL
+		
+		This interval converges to the next nested-interval with techniques of Measure
+		Measure builds Hoods to begin the next Arithmetic interval.
+	Arithmetic builds Hoods into a CLOSED-SECOND-INTERVAL.
+	Now exist two Measure Intervals which are also solid structures of Arithmetic.
 
-Method of Harmony twix Arith & Measure.
-	Measure operates on open interval A to produce three mutual-exclusive partitions: 
-		tolerant endpoints, known inclusion, know exclusion.
-	Arith is used to assert closed interval B.
-	Measure builds next level refinement open interval B.
-
-	Capstone of Measure is to VERIFY, by Lattice-technique, sane behavior of techniques in Application Space TO attain the quantity of magnitude, measure, in all possible ventures.
+	Capstone of Measure is to VERIFY, by Lattice-technique, sane behavior of  Arithmetic.
+	TO attain the quantity of magnitude, measure, in all possible ventures.
 
 ‘Texas won the Alamo
 'Then kicked Mexico out of Texas
@@ -1665,6 +1862,7 @@ Method of Harmony twix Arith & Measure.
 'Not here muffkur
 'Here we speak plain spanglish 
 
+❧❧❧ Corpus fuckYOU attitude
 
 Congruence, Differentials, Determinants, Matrix, Geometry, Logic, Sinusoidal
 Determinants, are linear objects must all linearity must form into without exception.
@@ -1700,6 +1898,7 @@ dim laboratory lit by sci-fi radiations
 'Then who will pay all their student-loan debt
 
 'Help with this cube or get out of the light
+
 'My nest is repeating an invariant endpoint Rick
 'Is that normal for a null sequence?
 
