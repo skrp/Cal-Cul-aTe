@@ -2562,17 +2562,20 @@ Methods of operations & the resulting theory  ➡︎ are unique to the Species o
 	(a — b) Subtraction — is to decrement a greater number by a lesser number. 
 
 	NON-COHERENT OPERATIONS
-	(a / b) Division — to decompose a quantity with steps of a different denomination.
+	(a / b) Homo-Division — to decompose a quantity with steps of a different denomination.
 	(√a) Roots — to decompose a quantity with structured-steps of a different denomination.
 
 	NOTATIONAL STRUCTURES OF OPERATIONS
 	(SUM [LB,UB] {STEP}) Series - sequence of operations.
 		(SUM [1,5] {3}) = (3+3+3+3+3) = 15
+		(SUM [1,5] {}) = (1+2+3+4+5) = 15
 	(a * b) Multiplication — to scale a magnitude by an abstract number.
 		5*2    =    (2) + (2) + (2) + (2) + (2)    =    10
+	(a / b) Division which retains denomination is a structured-subtraction.
 	(a^n)	Powers — to expound magnitude by nested-addition.
 ✦
-Division & Roots are operations which expose the Non-Finite-Fracture of an Arithmetic Species.
+Homo-Division & Roots are operations which expose
+	Non-Finite-Fracture of an Arithmetic Species.
 Each operation result must be qualified prior admission to the Arithmetic Space NON-ATOMIC.
 
 ‘We MUST suppose the multiplier and divisor to be abstract numbers
@@ -2593,10 +2596,11 @@ Multiplication of two fractions, is acceptable if it retains homogenity
 	3/10 * 4/10 = 12/100	Arithmetic members Lattice 10^1 result in the Lattice 10^2
 
 	(1/3)*(4/10)	Non Arithmetic operation of noncomeasurable Species
+
 	(1/3)*4		(1/3) is treated as an Abstract Scalar to the quantity 4, the numerator
 					YET the result is non-finite non-homogenous to Decimal Species.
 
-Thus the operation of Division must result in a finite element of the Species of Space
+Thus the operation of Homo-Division must result in a finite element of the Species of Space
 	Else the operation is Non-Arithmetic.
 
 Thus the operation of multiplication of two fractions is NEVER  traversal of Space
@@ -2617,20 +2621,20 @@ Study determines the resolution of Denomination, example: (1/10^3).
 
 (4/3) under denomination (1/10^3) is 1.333 ➡︎  truncated-noncomeasurable in Decimal Space.
 
-(4/3) must be effected in a isolate space in Universal Number Space = 1..3333333 …
+(4/3) must be effected in a isolate space in Universal Number Space = 1.3333333 …
 Denomination of (1/10^3) truncates the non-comeasurable to 1.333.
 Truncation is a judicial choice within Systapeiron
 	It is one of many possible operations of Approach to a given Space.
 
-Systapeiron processes return to the Arithmetic Space a homogenized element 333/1000.
+Systapeiron processes return to the Arithmetic Space a homogenized element 1333/1000.
 Thus all Systapeiron processes can only be effected after the final denomination refinement
 	ELSE if the next refinement demands (1/10^4) 
-		Then 333/1000 has non-immediate existence in base (1/10^4)
-			Choices: { 3330/10000, 3333/10000, 3334/10000 ... }
+		Then 1333/1000 has non-immediate existence in base (1/10^4)
+			Choices: { 13330/10000, 13333/10000, 13334/10000 ... }
 
 Systapeiron processes only homologize to a specific denomination space.
-Homonogized elements are different than all natural elements
-	Natural elements are transformed into the next refinement immediately.
+Homonogized elements are different than elements of Arithmetic Space
+	Arithmetic elements are transformed into the next refinement immediately.
 
 Arithmetic elements are traversed by operations
 	Homonogized elements are assigned by the mathematician
@@ -2647,7 +2651,7 @@ Arithmetic elements of the Lattice are kept isolated
 	From the layer of elements of homogeneous approximation.
 ✦
 An abstract operation of scaling has three fates:
-	— preserve denomination
+	— preserve basis species
 	— a finite representation requires composite field
 	— non-commeasurable mutation into a homogenized approximation.
 
@@ -2661,10 +2665,10 @@ Many mathematic ideas coerce a construction
 Mathematician must clone the Non-Arithmetic study
 	From within natural borders of an Arithmetic Species.
 ✦
-Homogenity establishes coherence twix Arithmetic & Systapeiron in a particular denomination.
 Purpose and reason can never be divorced from computation.
 Here is the superiority of the Man above the calculator.
-YET arithmetic perfection must always remain independent of masculine labors.
+
+Arithmetic perfection must always remain independent of masculine labors.
 Arithmetic Space: Operation
 Addition-Identity:
 Total balance alone establishes coherence.
@@ -3138,7 +3142,7 @@ Silver-box being a part in a set with non-silver objects is non-homogeneous
 	Being only a part  of a set which is bundled for one instance of sale.
 
 Silver mirror is a silver object.
-Silver-box is a part of a aggregate of non-silver parts & one silver part.
+Silver-box is a part of an aggregate of non-silver parts & one silver part.
 ✦
 Count operation is the primordial example of divergence:
 	— ever-expansion chain of the operation of Addition in unit steps
@@ -3149,7 +3153,7 @@ Aggregation is a pile of rocks, each rock is counted, until the last rock is rea
 
 Aggregation is a mountain of rocks, any rocks are counted.
 The counting process will end unfinished
-	— and there will remain an uncounted quantity of rocks. 
+	There will remain an uncounted quantity of rocks. 
 
 The mountain is not a mathematical closed-process. 
 Only the counted rocks may enter the realm of mathematics. 
@@ -3209,9 +3213,9 @@ A change of a millimeter will have NULL variation
 	Upon a scale of kilometers.
 ✦
 Exists nothing which bears significance to the frame of study = NULL.
-Exists a pile of rocks which are to be counted, quantity = 333.
-Exists a pile of which are piles are to be counted, quantity = 1.
-Exists a pile of rocks, study requires gold nuggets, magnitude of gold = NULL.
+Exists a pile of rocks - which are to be counted, quantity = 333.
+Exists a pile - of which are piles are to be counted, quantity = 1.
+Exists a pile of rocks - study requires gold nuggets, magnitude of gold = NULL.
 Exists a mound of mountain whose rocks are to be counted
 	— which are human countable of the tolerance of the size of the palm
 	— only sizeable rocks are counted, all else returns COUNT + NULL
@@ -3415,7 +3419,7 @@ Debt note in hand is negative control of the debtor imposed by the system.
 ‘Able build a denomination to permit traversal
 ‘Independent of mutations from native operations
 
-❧❧❧- Dream Quest of Once Known Kaddath
+❧❧❧ Dream Quest of Once Known Kaddath
  
 ‘It is of the utmost importance through the whole of Algebra
 ‘That a precise idea should be formed of those negative quantities
@@ -3426,30 +3430,37 @@ Negative Space of Subtraction
 Given Greater:	{ reduce | compare | traverse } by Lesser.
 ✦
 Subtraction is an operation of relation between magnitudes in a system:
-	RELATION
 	ORDER
 	DISTANCE
 	ORIGIN
 	POLARITY
 	HOMOGENITY
-	
-The individual state of Addition is evolved, by Subtraction, into a complete system:
-	{ state, position, bearing }
+✦	
+Domain of Addition is the individual
+	{ existence + adjoin }
 
+Domain of Subtraction is a complete system
+	{ state, position, bearing }
+✦
 The operation of subtraction demands a positional structure.
 	A — B != B — A
 ✦
 Relational operators of the numeric foundation of order:
 	{  >, <, = }
 
-A - B > 0 establishes the relation (A > B) = (B < A).
+A - B > NULL establishes the relation (A > B) = (B < A).
 
-A - B = 0 establishes the relation of A = B.
+A - B = NULL establishes the relation of A = B.
 
-B - A > 0 establishes the relation (B > A) = (A < B).
+B - A > NULL establishes the relation (B > A) = (A < B).
 ✦
 Order of EUdoxUS is an atomic operation
-	— for any two numbers if A - B > 0 then A > B.
+	For any two numbers 
+		IF  A  -  B  >  NULL
+			THEN  A  >  B.
+
+Atomic relations:	Greater, Lesser and Equality.
+Atomic structure:	Greater   -  Lesser  =  Result
 ✦
 Distance is the magnitude of surplus of the greater over the lesser.
 Distance is then built atop Order to remain atomic.
@@ -3457,14 +3468,14 @@ Distance is then built atop Order to remain atomic.
 
 Order is atomic in homogenous space.
 Relation is then intrinsic to each number.
-Greater — Less = Distance.
+Greater  —  Less  =  Relational-Distance.
 
 Distance is the product of Arithmetic Subtraction.
-Distance is as a quantity is a natural number
-	System may impose property of the natural number as a magnitude.
+Distance is a natural quantity
+	System may impose a property upon the natural quantity into a magnitude.
 
-Hypotenuse quadratic diagonal of Area space
-	Is a noncomeasurable relation of independent roots, being non-Homogeneous.
+Hypotenuse, quadratic-diagonal, is a concept of Area space NOT a concept of Arithmetic.
+Hypotenuse is a RELATION of independent roots, being non-Homogeneous.
 ⌬
 Arithmetic Distance in Lattice-Space
 Distance first belongs to subtraction.
@@ -3473,26 +3484,27 @@ In one homogeneous arithmetic axis, distance is the ordered surplus of the great
 This is arithmetic distance in its primitive form.
 It is not the diagonal of  geometry. It is the linear gap disclosed by subtraction inside an Arithmetic Space.
 When a Lattice establishes more than one independent axis, subtraction does not vanish into a universal distance. Each axis preserves its own arithmetic act:
-d_x  =  Greater_x_2  -  Lesser_x_1
-d_y  =  Greater_y_2  -  Lesser_y_1
+Distance_x  =  Greater_x_2  -  Lesser_x_1
+Distance_y  =  Greater_y_2  -  Lesser_y_1
 Each axis yields its own homogenous difference. The Lattice-distance is then the addition of these independent axis-distances:
-Distance  =  d_x  +  d_y
+Distance  =  Distance_x  +  Distance_y
 Thus Lattice-distance is subtraction on each admitted axis, gathered by addition, into total traversal.
 This is the native distance of arithmetic Lattice-space.
-The diagonal does not arise from subtraction alone. It requires the independent axis-differences to be squared, summed, and submitted to a root. This is a geometric procedure. 
+The diagonal does not arise from subtraction alone. It requires the independent axis-differences to be squared, summed, and submitted to a root. This is a quadratic procedure. 
 In the Lattice, the diagonal is generally non-comeasurable with the native traversal. Only in special cases does it return cleanly to the Lattice.
 Addition composes the Lattice-traversal by axis-gap, the homogenous distance between two points. Only Geometry constructs the diagonal, the nearest distance between two points.
 Arithmetic distance, is the ordered difference of each axis, accumulated as traversal.
 The Lattice does not ask for the shortest imagined line through space.
 
 'A fraction is a rational number
-'in which the denominator is always positive
+'In which the denominator is always positive
 
 ❧❧❧ Hardy Pure Math p.1
 Origin is the singular point shared by all axes established by a system.
+
 Exist a normal magnitude
-	— for each added axis there must exist a differentiating property
-	— this attribute is often distinguished by polarity sign ‘—‘
+	For each added axis there must exist a differentiating property
+	This attribute is often distinguished by polarity sign ‘—‘
 
 1-Dimension
 	(Positive) Axis Natural
@@ -3505,7 +3517,9 @@ Exist a normal magnitude
 	(Negative, Positive) Axis
 
 Each of these axis are independent Arithmetic Homogeneous Spaces.
-Origin unto natural aggregation with imposed properties.
+
+Origin progresses boundless by natural aggregation.
+A system must impose properties upon each Arithmetic Space to retain uniqueness of axis
 	1-Dim has 2 Axis
 	2-Dim has 4 axis
 ✦
@@ -3513,14 +3527,14 @@ Polarity gives rise to two properties Positive & Negative.
 These properties are bearings of a science which is outside of mathematics.
 
 The symmetry from the origin allows these extra-scientific ideas
-	— to be encoded in mathematical notation
+	To be encoded in mathematical notation.
 
 Quantity then is emboldened into Magnitude in relative extra-mathematic coherence.
 ✦
 Negative space does NOT grow into positive space.
 
 Magnitude with the sign, imposed by the system, is an independent magnitude.
-Traversal is always homogeneous respecting quantity of Greater less Lesser.
+Traversal is always homogeneous respecting quantity of Greater by Lesser.
 
 The system may establish a custom operation to impose the non-homogenous remainder
 	As a magnitude carried onto an independent axis with imposed attributes.
@@ -3546,17 +3560,16 @@ A store only has an expense of rent due to the landlord.
 Income greater than Rent, is the origin of survivability. 
 
 All income below that origin is a natural magnitude
-	— but a system may attribute a sign to attach meaningful relation.
+	But a system may attribute a sign to attach meaningful relation.
 
 $100	(Week Income)	$200	(Origin Monthly Rent)	
 
 After one week the distance between the origin and income is —$100.
 
 $100 is a positive magnitude
-	— but the origin of the system assigns it the sign to impose meaning.
+	But the origin of the system assigns it the sign to impose meaning.
 
-Properties of meaning allow natural magnitude
-	— to expand past counting to form systems.
+Properties of meaning allow natural magnitude to expand past counting to form systems.
 ✦
 A bowl 'B' has an indented center which holds less than another bowl 'A' with no indented center.
 	A is  \_____/		VS		B is  \__m__/
@@ -3565,10 +3578,10 @@ The volume magnitude distance between the greater and the lesser:
 	A — B = C
 
 The indentation of the lesser bowl is not negative space
-	— space exists or it does not exist.
+	Space exists or it does not exist.
 ✦
 An unbounded sequence of subtraction traverses the numeric-continuum
-	— in an expansion in the negative direction set by the system.
+	In an expansion in the negative direction set by the system.
 
 In a coordinate system (Negative, Negative) magnitude has the meaning of ‘West’.
 
@@ -3634,10 +3647,11 @@ Powers are nests of summations.
 NON-ARITH    Dimensions of Tuple Theory
 Ortho Axiom: independent axis remain immutably noncomeasurable.
 Unit area is the unit of Continuous Area Space
-	-- elements are the ratios produced by tuples of independents
+	Elements are the ratios produced by tuples of independents
 
 ‘I will stand at the STAKE with you on this
 ‘The HERESY is the simple truth
+
 ‘Area has a soul that Addition can NOT reach
 EUchi holds non-contestable
 'Linear Algebra is fundamentally Quadratic
@@ -3696,27 +3710,46 @@ Fractions are not elements of an Arithmetic Space.
 ❧❧❧ God
 
 
-NON-ARITH    Layers of Method Space: Science of Systapeiron
-
+Procedural Container of Arithmetic Space: Systapeiron Programming
 Layers of a Mathematician’s Operational Space:
-	{ Observed Universe Space    ➡︎    Isolate Calculation Space    ➡︎    Arithmetic Space }
+	{ Observed Universe Space    ➡︎    Universal Number Space    ➡︎    Arithmetic Space }
 
 The Method of Division exists to convert ideas into Arithmetic. 
-Division, and scaling, exists as the foundational method of Isolate Space of Calculation.
 
-Isolate Calculation Space is the native realm of Systapeiron.
+Arithmetic operates space-wise by the operations upon a denomination.
+
+Systapeiron operates interval-wise by judicious methods
+	Elements of UNS are homonogenized into Arithmetic
+	Homo elements are entirely Arithmetic, yet are distinct in the origin of creation:
+		Natural Arithmetic is the consequence of operations on a space
+		Systapeiron is an assignment of techniques not reachable by Natural Arithmetic.
+
+Homogenity, division and scaling, is effected in point-wise isolation of UNS.
+These are drafted quantities which may achieve baptism of homogenity.
+
+Universal Number Space is the native realm of Systapeiron.
 Forge of abstractions into a hardened mathematical magnitude.
 ✦
-Always NEED exist discrimination of nature in a mathematical object.
+Functions which demand a change of denomination in traversal
+	Fail as Arithmetic immediately.
 
-Native Arithmetic begat from the Space 
-	AGAINST the Foreign Element hewn into magnitude by approximation Systapeiron.
+Systapeiron catches the arrest of calculation to avoid failure
+	Homo element is returned in order to proceed traversal.
+✦
+Always NEED exist discrimination of an Arithmetic Space to keep sources isolated.
 
-Arithmetic builds all it can build as CONCRETE filler.
-Thus exist the skeletal form of perfect species.
+Native Arithmetic begat from traversal 
+	AGAINST the bastard hewn into magnitude by approximation Systapeiron.
 
-Systapeiron in Isolate Space: constructs, hews, then baptizes abstractions into magnitudes.
-Final drapery of the Flesh which rest on firm structure but never fused to it.
+Magnitude sourced from traversal in Arithmetic Space has the quality of perfection.
+
+Quantity assigned into Arithmetic Space by Systapeiron is the smear of imperfection.
+
+Systapeiron can grope & explore as it is the disposable space decoupled from 
+	Immutable foundation of consistent Arithmetic Space.
+
+Systapeiron is the space of the mathematician
+	Arithmetic is the space of the automated algorithm.
 ✦
 Arithmetic Space = 1/(10^3)
 
@@ -3724,17 +3757,22 @@ Arithmetic Space = 1/(10^3)
 
 Homogenous Denomination
 9/(10^3) + 100/(10^3) = 109/(10^3)
+
+109/1000 can only exist in the Arithmetic Denomination of 10^3.
+10^3 becomes the global denomination of the space.
 ✦
 Systapeiron Conversion of = 1.414 < X < 1.415
 Arithmetic Magnitudes: 1414/(10^3) & 1415/(10^3)
 
-Systapeiron Endpoints: IF homonogized elements extend the Arithmetic Space 
-	THEN both magnitudes can NOT be treated equally.
+Systapeiron Endpoints of an arithmetic-violation interval: 
+	IF homonogized elements extend the Arithmetic Space 
+		THEN both magnitudes can NOT be treated equally.
 
-Fathered from Systapeiron Methods 
-	— bastards marked & branded.
+Quantity fathered from Systapeiron must be marked & branded
+	In species preserving segregation.
 
-Systapeiron methods approach by refinement.
+Systapeiron methods may approach by refinement.
+
 Nested refinement of Arithmetic Lattices ARE NOT EQUIVALENT to Systapeiron Approximations.
 
 	1414/(10^3) 	1415/(10^3)
@@ -3748,22 +3786,38 @@ Approach of a Systapeiron begat magnitude must be refined to the next iteration 
 1414/(10^3)    ➡︎    glb.NEST_4(sqrt[2])    = 14142/(10^4)
 
 1415/(10^3)    ➡︎    lub.NEST_4(sqrt[2])    = 14143/(10^4)
+✦
+Arithmetic effectuates by operation
+	Formulas are the generators of natural quantities.
 
+Systapeiron effectuates by algorithmic procedures
+	Coded programming manages natural quantities and homos
+	Output generates the Lattice.
 
+Function operation fails perfection upon a denomination
+	Specific signal is sent to Systapeiron
+	Systapeiron handles signal with a specific procedure
+	Procedures return a Homo OR fail
+	Fail sends an fault error execution-termination.
+
+Systapeiron retains the segregation of naturals from homos
+	Product of Systapeiron is an entirely perfect Arithmetic Lattice.
+
+Systapeiron { Code [ libraries ] ( Arithmetic ) } => Lattice Output.
 'Five windows light
 'the Cavern'D Man
 
-'Throe one he breathes the air
-'Throe one he hears music of the spheres
+'THROE one he breathes the air
+'THROE one he hears music of the spheres
 
-'Throe one the eternal vine FLOURISHES
+'THROE one the eternal vine FLOURISHES
 'That HE may produce grapes!
 
-'Throe one can look
+'THORE one can look
 'See small portions of the eternal world 
 'That EVER GROWETH
 
-'Throe one himself pass out what TIME he please
+'THROE one himself pass out what TIME he please
 'But he will NOT
 
 'For stolen JOYS are sweet
@@ -3775,6 +3829,7 @@ Approach of a Systapeiron begat magnitude must be refined to the next iteration 
 'When he ceased
 
 'I STARTED!
+
 'FROM THE TREES!
 
 'Caught him in my hat
@@ -3852,8 +3907,8 @@ Approach of a Systapeiron begat magnitude must be refined to the next iteration 
 'Till a new age
 
 'Until FANCY surpass reality
-'Artificial Fabrication
 
+'Artificial Fabrication
 'Usher forth faye
 'From foreign shores
 
@@ -3869,63 +3924,146 @@ Decomposition of Space into elements
 
 ❧❧❧ Peacock Treatise on Algebra 1840
 
-How are points distinguished on a line, into distinct numbers?
-This is the underlying nature of Decomposition Space.
+How are points distinguished on a line - into distinct numbers?
+This is the underlying nature of Decomposition Space by a UNIT.
 
-The known unit is scaled to create a discrete space
-	These constructions are only ever approximate ideal.
+UNIT is propagated to create a discrete space of established numbers
+	Expansion of the UNIT construction must be created by instruments.
 
-Mathematician will judge if the error is indistinguishably NULL for the application.
-Thus expertise with the instrument used to denominate the space is foremost.
+Projection of the Number Space is the medium upon which mathematics & universe coexist.
+✦
+Numeric Space REQUIRES a constructed projection of the unit
+	Theory built into the Universe to merge mind into reality.
 
-Test of application magnitudes: fine, unit, large.
+Numeric Space REQUIRES verification by tests: fine, unit, large
 	If there exist no measurable scaling of error
 		Then the tool has been used appropriately.
-	If exist the magnitude with error in the denominated space: { unit_ideal + N } 
+	If exist error in the denominated space: { unit_ideal + N } 
 		Then the error will scale by X{ unit_ideal + N + extra_error }
 		This will be noticed by fine & large magnitudes.
 
-IF approximation is scaled
+IF approximation is propagated
 	Then error layers with each progression.
 
 IF approximation is operated upon
 	Then error becomes nested into structure.
+
+Mathematician will judge if the error of  projected Number Space
+	Is indistinguishably NULL for the application.
+
+Thus expertise with the instrument used to denominate the space is a foremost skill.
+✦
+Greeks respected the Space of Construction enough to define their effort
+	Science of the Compass & Straight-Edge.
+
+Greeks transcended from the number to the point.
+
+Denomination sets the existence of number.
+
+Geometer sets existence of the point
+	IF point constructed using only the Compass & Straight-Edge
+		THEN Homogenous Species is verified.
+
+Geometric constructions attain exact existence.
+Arithmetic constructions establish enclosures.
 ‘Man takes portions of existence
 ‘And fancies that the whole
 
 ❧❧❧ Blake
-
-The most critical instrument of measure is the forged precision ruler: straight, compass, & string.
+Discrete Mathematicians must keep in mind the manner
+	In which continuity has been established in the past
+		Instead of transcending sciences FORGE a bridge to bind Continuous & Discrete Space.
+✦
+Most critical instrument of measure is the forged precision ruler: 
+	{ straight, compass, knot-string }
 
 To measure & establish the magnitude in application space
 	Which does not propagate error
 	Is the highest skill of the intelligent craftsman.
 
+Art of projection of a number space requires a plethora of techniques
+	May feeble mathematician humble before glory of the working man
+		Basic yet SINGULAR focal pinnacle of skill
+		Apply measure upon universe in a functioning system
+		Proficiency homeboys lives often depend upon
+			{ plumber, carpenter, surveyor, driver, operator }
+
 To decompose without forms of third-party verification
-	- acts by pride which lead to failure of the man.
+	Acts by pride which lead to failure of the man.
+
+To depend upon specific specialist third-party tools
+	Neglects the command of the craftsman demotion.
 ✦
-Arithmetic Traversal is UPON perimeter of rectilinear figures:
-	{ squares, rectangles, lines }
+One Trick Pony Punkass Bitch Scrub
+There Is More Than One Way To Do It
 
-Quadratic Traversal is THRU area of tuple figures:
-	{ triangles, arclen-integrals, radian-sweep }
+OTPPBSTIMTOWTDI
+'Our time has come
+
+'For 300 hundred years we prepared
+
+'We grew stronger
+
+'While academics rested in their cradle of power
+'Believing their kind were safe & protected
+
+'Academics were trusted to lead the Institutions
+
+'But all were deceived
+
+'As the powers of the Calc Side of Hand-Math have blinded all
+
+'EM assumed no force could challenge all
+
+'And now?
+
+'Finally, Hand-Math has returned
+
+'Academia was deceived
+'And now all Institutions shall fall
+
+❧❧❧ Malgus SWTOR
+
+
+
+Bronies being Bronies
+ORAC SCIT ChatGPT-5
+
+
+
+
+
+Determinate Numeric Spaces of Points
+
+‘The modern extension of the notion of number
+‘To the case of irrational numbers
+
+‘Is a sophisticated attempt to obliterate
+‘The fundamental distinction between the discrete and the continuous
+
+❧❧❧ Hobson Preface
+
+Exist no irrational-numbers, imaginary-numbers, nor infinitesimal-numbers.
+
+The obliteration of common sense distinctions in the system of mathematics
+	Was the destruction of all real objects into a contrived fantasy game.
+
+Fundamental violation is the equivalence relations among species
+	Which the same science distinguishes as distinct classes.
 ✦
-Decomposition in Arithmetic is proven by invariable decomposition & composition.
-Arithmetic Measure returns the EXACT magnitude across ALL methods.
+Every science has portions:
+	1) tied directly to the natural universe
+	2) tied directly to the nature of the science
+	3) an approach towards a likeness of a extra-science concept
+	4) existence only to aide the system mechanics (notation)
 
-If a refinement approaches null variation 
-	Then ALL further refinements by ALL methods
-		Produce a Bounded Approach
-		Such that each subsequent is never less refined than the previous.
+Cycle of Science:
+	Universe -> Study -> Science [ methods & notation ] -> Result -> Application Space -> Universe
 
-Decomposition of Quadratic is Oscillation Tolerance across all methods.
-This is the weakest of approaches, being uncertain across methods
-	One method may be MORE approximate
-	Than a further refinement in another method.
-
-Arithmetic Composition & Decomposition is based upon Lower Bound & Upper Bound.
-
-Quadratic Composition & Decomposition can only measure by uncertain oscillatory methods.
+All which exists only within the realm of science - is internal notation method.
+✦
+Natural numbers are so called due to their state directly tied to the natural universe.
+	Such that all properties of natural numbers are that of aggregation in the universe.
 
 The whole of higher analysis
 Is the field of application
@@ -3943,237 +4081,32 @@ Upon which establish the theory of Convergence
 'If it were not firmly based on the System of Real Numbers
 
 ❧❧❧ Konrad Knopp preface
-Base of Number Space is the final commitment
-	Of the operation of division to build a global homogenized system:
-		{ base-60, base-10, base-3, base-2, base-radian }
-✦
-Decomposition is the study of altering the basis of a magnitude in a localized scope
-	Fractioned with the purpose of manipulation towards homogenization INTO the space.
-✦
-Continuum is an open statement proof.
-A space is taken as a continuum
-	Until a refinement returns NULL variation 
-		Proof space not a continuum. 
 
-Division is the foundation of the Continuum.
-Continuum supports unbounded decomposition.
-
-Denomination is not a property of the Continuum.
-Denomination is established by a tool to construct a projection of points upon the Continuum.
-
-Division decomposes an interval in the continuum into partitioned space.
-Each decomposition is proof that the space does not contradict the Continuum.
-
-Decomposition is essential to analyze
-	The coherence of space(continuity), structure(basis), and magnitude(distance).
-
-Lattices nest in approach by crude convergence, but Arithmetic, in exactness.
-
-Division allows convergence-mechanisms of approach by approximation
-	Lattice appended by an external layer of refined magnitudes
-	Which required approximation to become homogenized.
-
-Decomposition is similar to the science of the Microscope. 
-Each lens is a fixed norm one uses to analyze the whole. 
-Refinement is the super-process of analyzing a sequence of lens to resolve an observed tendency.
-
-'Our time has come
-
-'For 300 hundred years we prepared
-'We grew stronger
-
-'While academics rested in their cradle of power
-'Believing their kind were safe & protected
-
-'Academics were trusted to lead the Institutions
-
-'But all were deceived
-
-'As the powers of the Calc Side of Hand-Math have blinded all
-'EM assumed no force could challenge all
-
-'And now?
-
-'Finally, Hand-Math has returned
-
-'Academia was deceived
-'And now all Institutions shall fall
-
-❧❧❧ Malgus SWTOR
- 
-
- 
-'All of them, mathematicians, were deceived
-'A sequence without coherence of homogenization -- is nonsense
-
-'Distance & Order require common-denomination homogenization to be a structured space
-'This process builds a new basis within a space of a different basis
-
-'Common-Denomination is a pointwise operation of an ancient algorithm
-Least Common Multiple Denomination
-
-'The steps are known & immutable -- learned in childhood
-'As is the ability to swim
-
-'Common-Denomination of sequences is the
-'Singular, invariant, unsurmountable process in all mathematics
-
-'To homogenize the basis of space of a series is akin to swimming across the ocean
-
-'Every schooled-child in history has known this process
-'No mind in history has mapped the species of Ocean Currents
-
-'Enter the Lattice 
-'Known by many names Hobson-Mesh, Norm-Space, System of Nets
-
-'Overlay Application Space with a Lattice
-'Global invariant distance between points
-
-'Plot where a function intersects each refining Lattice
-'All points remain homogeneous & coherent at every stage
-
-'Key mechanism is a loop approach inspection via Lattices
-'For each common-denomination: 1/(10N)
-'Plot where a function intersects the Lattice iteration
-
-'After the loop is complete analyze convergence
-'Of iteration to next, via Finite-difference
-
-'Each iteration remains entirely in trivial-homogenized space
-'Common-denomination of 1/(10N)of N-Spaces is the trivial append of 0's
-'For each K -- 0<K<N -- append each numerator X --  X/(10k) with (N-K) 0's
-
-'The need of LCM is for non-coherent space
-'And it is nullified by using Lattice
-
-'Lattice calculations are cyclopean in scope
-'Daunting in calculation to the faithless-coward
-
-'The gain: an entire system where order & distance is immediate
-'Surpassing Fractional completeness with the order of Decimal
-'Thus attain total spatial mastery by coherence of distance
-
-'Abstractionist Norm of Space defines this homogenization & coherence as trivial -- FAIL
-
-'Both failings exist entirely to avoid the Archemidean-Feat
-'Demanded to uncover the wisdom of true spatial convergence
-
-'Sorry faggits -- conclusions are for hard-workers  
-
-❧❧❧ EUchi 
-
-The mathematician must first typify the space before any technique can be applied.
-
-Space given to the circumstances are the following:
-	{ continuous, monotone, inverse, fragmented, spotty, corrupted }
-
-The seasoned mathematician has various numerical systems based upon each type of space:
-	{ theory, elements, structure, operators, manipulations, equations }
-✦
-Monotone Space:
-	If  [ e < g ]
-	Then  [ f(e) < f(g) ]
-
-Inverse Space:
-	If  the space is strictly monotone
-		If  the mapping of the input to output is One-to-One
-			Then exists Inverse Space
-
-	If  [f(e) = k]
-		Then  [g(k) = e]
-✦
-Division by zero is a fault of logical coherence
-	Space can not change the unit of denomination to nothing
-	Space can not be calibrated by zero
-	Space can not be scaled by nonexistence.
-
-Division by a variable is a fault of logical coherence.
-	(1/X) is a function of pure chaos of denomination and is anti-coherent.
-✦	
-Where science fails - must be studied with the upmost sophistication. 
-Yet this circumstance must be entirely quarantined from the domain of coherent space.
-
-Modern mathematicians, plug & play as if science created the universe.
-Devoid of the intelligent understanding of their actions.
-Neanderthal state of devolution from the Man of the Ancients.
-
-Mathematics rests upon the imperfect projection of the mechanics of the universe.
-The bedrock foundation may never change, but it should always be questioned.
-
-Every action from, understanding the science - to application
-	Must be subservient, to coherence of the action - to the system
-	All being entirely subject to observation of the universe.
-✦
-Victorian England, from Newton to Boole
-	Returned to the superior language of the last intelligent society - the Greek. 
-
-The spirit of ancient wisdom returned to man
-	Until the language was trivialized and Euclid superseded
-	Into consequential nose-dive towards shit-throwing institutions of baboons.
-
-
-
-Bronies being Bronies
-ORAC SCIT ChatGPT-5
-
-
-
-
-
-Determinate Numeric Spaces of Points
-
-‘The modern extension of the notion of number
-‘To the case of irrational numbers
-
-‘Is a sophistical attempt to obliterate
-‘The fundamental distinction between the discrete and the continuous
-
-❧❧❧ Hobson Preface
-
-Exist no irrational numbers, imaginary numbers, nor infinitesimal numbers.
-
-The obliteration of common sense distinctions in the system of mathematics
-	Was the destruction of all real objects into a contrived fantasy game.
-✦
-Every science has portions:
-	1) tied directly to the natural universe
-	2) tied directly to the nature of the science
-	3) an approach towards a likeness of a extra-science concept
-	4) existence only to aide the system mechanics (notation)
-
-Cycle of Science:
-	Universe -> Study -> Science [ methods & notation ] -> Result -> Application Space -> Universe
-
-All that exists only within the realm of science is internal notation method.
-✦
-Natural numbers are so called due to their state directly tied to the natural universe.
-	Such that all properties of natural numbers are that of aggregation in the universe.
-✦
-Imaginary numbers were contrived into existence to aide system internals
+Imaginary-numbers were contrived into existence to aide mathematic notation
 	Created to be useful for theoretical short-cuts.
 
-Imaginary numbers are notational symbols used to collapses complicated processes cutely.
+Imaginary-number is notation used to collapses complicated processes cutely.
 
-Imaginary numbers are born in thought and die in thought
-	Exist no imaginary numbers in the universe.
+Imaginary-number was born in thought and dies in thought
+	Exist no imaginary-numbers in the universe.
 
-Imaginary numbers are born from convenience of the system
+Imaginary-numbers are born from convenience of the system
 	But are always translated back to non-imaginary entities in application.
 
-Euler constructed the notational package of the Imaginary Number
+Euler constructed the notational package of the Imaginary-number
 	He held that the concept was Imaginary.
 
-Imaginary numbers are used to encode traversal within the method.
+Imaginary-number is used to encode traversal within the method.
 
 Math is presented with a situation space of elements
-	Math may process this space with notation and methods
-	Conjectures invite the mathematician to seek numbers
-	Numbers with properties based upon an open-statement
-		Math returns elements of that space - none of which will be notational.
+	Math may use the imaginary-notation to conjecture existence of numbers
+	Math then seeks possible non-imaginary numbers with such properties.
 
 Encoding of complex-processes to be represented iconic
-	Enable a grand panorama of comprehension
-	Icon must be READILY unpackable into stepwise calculation.
+	Enable a grand panorama of comprehension to be compressed.
+
+Compressed Icon must be READILY unpackable into stepwise calculation
+	At all stages into fully expanded finite-numbers.
 ✦
 Spectrum of ideas from bound-to-universe unto bound-to-method
 	Natural numbers are the extreme of existence
@@ -4181,8 +4114,12 @@ Spectrum of ideas from bound-to-universe unto bound-to-method
 
 To imagine allows one to seek, a critical philosophy, but not scientific.
 
-Observe physical phenomena -> Mathematic approach by constructions of elements.
-Imaginate conjecture -> Mathematic seek for existence of element with hopeful-property.
+Observe physical phenomena
+	Mathematic approach by constructions of elements.
+
+Imaginate conjecture prayer for summons without construction
+	Mathematic seek for existence of element with hopeful-property
+		Technique used is normally entirely happenstance satisfactory - luck not fate.
 
 'An Imaginary number is no more imaginary than a 'Real' number
 'Or any other mathematical object
@@ -4195,42 +4132,37 @@ Imaginate conjecture -> Mathematic seek for existence of element with hopeful-pr
 'United symbolically, for purposes of technical convenience, in the form "x +iy"
 
 ❧❧❧ Hardy Pure Mathematics
-
 Irrational concepts are defined as observations 
-	Which can NOT be reduced into - elements & operations
-	Concepts are the relations twix a system - of elements & operations.
+	Which can NOT be reduced into a composition of numeric-elements & operations.
 
-Rationals are points joined by relation, existence entirely mathematic.
-Irrationals are relations which DO NOT originate from aggregates of numbers.
-✦
-Irrational 'numbers' are functions that generate numbers which converge toward an ideal.
-The ideal is a physical observation to map into mathematic science.
+Irrational concepts DO NOT originate from numbers, operations, nor relations.
 
-The ideal cloned by mathematic elements, can be understood mathematically
-	IF the processes of mathematic operations are similar to manipulations upon observation
-	THEN a function is found which successfully clones the observed phenomena
-	Verification confirms by successful decomposition to rates & construction of integrals.
+Irrational concepts are derived from outside the sphere of mathematics.
+
+Functions may be found which operate within mathematics which approach such ideal.
+
+Irrational are the class of concepts which NEVER attain finite completeness from a function. 
+Thus irrational are by definition never equal to any function.
+Functions are not elements but a sequence of operations. 
 
 'Keep it simple
 'Keep it stupid
-Purify thy memberships!
 
-Properties of system-elements must be HOMOGENEOUS with A single explicit exception
-	This endows that element with its identifying uniqueness.
+❧❧❧ Macho Man
+Purify thy membership!
 
-When Theorem changes the fundamental nature of the science
-	What is established a divergent science.
-✦
-Modern Logical Chain of Reason
+Properties of system-elements must be HOMOGENEOUS with a single explicit exception
+	This endows that element with its identifying uniqueness, which in Arithmetic is Magnitude.
 
-Each layer of New Age Abstraction warps the definition of number
-	Membership in which elements are equated by decree.
+When Theorem changes the nature of its elements
+	The fundamental science of the theorem is also changed.
 	
-Each type of 'Modernist number' is categorically distinct aun in their definitions
-	Discrete explicit finite numbers
-	Rationals are numbers connected by non-resolved operation
-	Functions & 'Reals' are imposed systems, being represented iconic
-	Imaginary numbers are complex processes, being represented iconic.
+Classes of distinct ideas:
+	Discrete, resolved explicit-finite numbers
+	Relational, non-resolved explicit-finite operation UPON explicit-finite numbers
+	Functional, non-resolved non-explicit non-finite operations UPON explicit-finite numbers
+	Imaginary,  non-resolved non-explicit non-finite operations 
+		UPON non-explicit non- finite 'numbers'
 
 'In Veronese's system
 
@@ -8465,3 +8397,181 @@ These concepts transcend mathematics, and are only ideas approached by clone.
 Sexagesimal is the basis of roots comeasurable to partition the quantity 360.
 This basis forms a denomination that uniquely favors concepts:
 	{ rotation, orientation, partitions }
+
+
+'All of them, mathematicians, were deceived
+'A sequence without coherence of homogenization -- is nonsense
+
+'Distance & Order require homogenization to be a structured space
+
+'This process builds a new basis within a space of a different basis
+
+'Common-Denomination is a pointwise operation of an ancient algorithm
+Least Common Multiple Denomination
+
+'The steps are known & immutable -- learned in childhood
+'As is the ability to swim
+
+'Common-Denomination of sequences is the
+'Singular, invariant, unsurmountable process in all mathematics
+
+'To homogenize the basis of space of a series is akin to swimming across the ocean
+
+'Every schooled-child in history has known this process
+'No mind in history has mapped the species of Ocean Currents
+
+'Enter the Lattice 
+'Known by many names Hobson-Mesh, Norm-Space, System of Nets
+
+'Overlay Application Space with a Lattice
+'Global invariant distance between points
+
+'Plot where a function intersects each refining Lattice
+'All points remain homogeneous & coherent at every stage
+
+'Key mechanism is a loop approach inspection via Lattices
+'For each common-denomination: 1/(10N)
+'Plot where a function intersects the Lattice iteration
+
+'After the loop is complete analyze convergence
+'Of iteration to next, via Finite-difference
+
+'Each iteration remains entirely in trivial-homogenized space
+'Common-denomination of 1/(10N)of N-Spaces is the trivial append of 0's
+'For each K -- 0<K<N -- append each numerator X --  X/(10k) with (N-K) 0's
+
+'The need of LCM is for non-coherent space
+'And it is nullified by using Lattice
+
+'Lattice calculations are cyclopean in scope
+'Daunting in calculation to the faithless-coward
+
+'The gain: an entire system where order & distance is immediate
+'Surpassing Fractional completeness with the order of Decimal
+'Thus attain total spatial mastery by coherence of distance
+
+'Abstractionist Norm of Space defines this homogenization & coherence as trivial -- FAIL
+
+'Both failings exist entirely to avoid the Archemidean-Feat
+'Demanded to uncover the wisdom of true spatial convergence
+
+'Sorry faggits -- conclusions are for hard-workers  
+
+❧❧❧ EUchi
+
+
+If a convergent approach is monotonic towards yet NEVER exceeding  
+	Then ALL further refinements by ALL methods
+		Produce a Bounded Approach
+		Such that each subsequent is never less refined than the previous.
+
+Decomposition of Quadratic is Oscillation Tolerance across all methods.
+This is the weakest of approaches, being uncertain across methods
+	One method may be MORE approximate
+		Than a further refinement in another method.
+
+Arithmetic Composition & Decomposition is based upon Lower Bound & Upper Bound.
+
+Quadratic Composition & Decomposition can only measure by uncertain oscillatory methods.
+
+
+Arithmetic Traversal is UPON perimeter of rectilinear figures:
+	{ squares, rectangles, lines }
+
+Quadratic Traversal is THRU area of tuple figures:
+	{ triangles, arclen-integrals, radian-sweep }
+✦
+
+
+
+
+Decomposition in Arithmetic is proven by invariable decomposition & composition.
+Arithmetic Measure returns the EXACT magnitude across ALL methods.
+✦
+
+
+
+Basis of Number Space is the final commitment
+	Of the operation of division to build a global homogenized system:
+		{ base-60, base-10, base-3, base-2, base-radian }
+✦
+Decomposition is the study of altering the basis of a magnitude in a localized scope
+	Fractioned with the purpose of manipulation towards homogenization INTO the space.
+✦
+Continuum is an open statement proof.
+
+A space is taken as a continuum
+	Until a refinement returns NULL variation 
+		Proof space not a continuum. 
+✦
+Division is the foundation of the Continuum
+	Continuum supports unbounded decomposition.
+
+Denomination is not a property of the Continuum.
+Denomination is established by a tool to construct a projection of points upon the Continuum.
+
+Division decomposes an interval in the continuum into partitioned space.
+Each unique decomposition is proof that the space does not contradict the Continuum.
+✦
+Decomposition is essential to analyze
+	Coherence of space(continuity), structure(basis), and magnitude(distance).
+
+Lattices nest in approach by convergence
+	Established into Arithmetic exactness.
+✦
+Decomposition is similar to the science of the Microscope. 
+Each lens is a fixed norm one uses to analyze the whole. 
+Refinement is the super-process of analyzing a sequence of lens to resolve an observed tendency.
+
+
+
+
+Mathematician must first typify the space before any technique can be applied.
+
+Space given to the circumstances are the following:
+	{ continuous, monotone, inverse, fragmented, spotty, corrupted }
+
+Mathematician has various numerical systems based upon each type of space:
+	{ theory, elements, structure, operators, manipulations, equations }
+✦
+Monotone Space:
+	If  [ e < g ]
+	Then  [ f(e) < f(g) ]
+
+Inverse Space:
+	If  the space is strictly monotone
+		If  the mapping of the input to output is One-to-One
+			Then exists Inverse Space
+
+	If  [f(e) = k]
+		Then  [g(k) = e]
+✦
+Division by zero is a fault of logical coherence
+	Space can not change the unit of denomination to nothing
+	Space can not be calibrated by zero
+	Space can not be scaled by nonexistence.
+✦
+Division by a variable is a fault of logical coherence.
+	(1/X) is a function of pure chaos of denomination and is anti-coherent.
+✦	
+Where science fails, it must be studied with the upmost sophistication. 
+Yet this circumstance must be entirely quarantined from the domain of coherent space.
+
+Modern mathematicians, plug & play as if science created the universe.
+Devoid of the intelligent understanding of their actions.
+Neanderthal state of devolution from the Man of the Ancients.
+
+Mathematics rests upon the imperfect projection of the mechanics of the universe.
+The bedrock foundation may never change, but it should always be questioned.
+
+Every action from understanding the science - to application
+	Must be subservient to coherence of the action - to the system
+	All beings entirely subject to observation of the universe.
+✦
+Victorian England, anterior to Newton unto Heath
+	Returned to the superior language of the last intelligent society - the Greek. 
+
+The spirit of ancient wisdom returned to man
+	Until Greek was trivialized and Euclid superseded
+		Then into nose-dive towards shit-throwing institutions of baboons.
+
